@@ -744,11 +744,8 @@ def load_examples_trec(path):
 
     return examples
 
-
-
-def load_examples_promptsource(path, dataset_name, dataset_config, prompt_name, model_name, icl):
-    if dataset_name is not None:
-        # Downloading and loading a dataset from the hub.
+def load_examples_promptsource(use_csv, path, dataset_name, dataset_config, prompt_name, model_name, icl):
+    if dataset_name is not None and use_csv:
         if dataset_name in ['imdb', 'ag_news', 'amazon_polarity', 'yelp_review_full' , 'dbpedia_14', 'trec', 'dream', 'openbookqa']:
             raw_datasets = load_dataset(dataset_name, dataset_config, split="test")        
         elif dataset_name == 'wiki_bio':
@@ -807,6 +804,14 @@ def load_examples_promptsource(path, dataset_name, dataset_config, prompt_name, 
         if dataset_config == 'qqp':
             shuffled = raw_datasets.shuffle(seed=40)
             raw_datasets=shuffled.select(range(200))
+    else:
+        # Downloading and loading a dataset from the hub.
+        if dataset_name in ['imdb', 'ag_news', 'amazon_polarity', 'yelp_review_full' , 'dbpedia_14', 'trec', 'dream', 'openbookqa']:
+            raw_datasets = load_dataset(dataset_name, dataset_config, split="test")        
+        elif dataset_name == 'wiki_bio':
+            raw_datasets = load_dataset(dataset_name, dataset_config, split="val")
+        else:
+            raw_datasets = load_dataset(dataset_name, dataset_config, split="validation")
     examples = []
     prompt = DatasetTemplates(
                 f"{dataset_name}"

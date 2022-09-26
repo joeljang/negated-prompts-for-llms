@@ -115,7 +115,7 @@ def get_model(model_name, key_file=None, checkpoint_path=None):
         import openai
         # with open(key_file) as f:
         #     api_key = f.read().strip()
-        openai.api_key = "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"
+        openai.api_key = "Insert your openai key here"
     else:
         raise ValueError(f'No model {model_name}')
     return model, encoder, name
@@ -123,7 +123,7 @@ def get_model(model_name, key_file=None, checkpoint_path=None):
 def get_examples(dataset_name, split, stem, n_shot, variant, dataset_config, prompt_name, model_name, icl=0):
     if args.promptsource:
         from data_loaders import load_examples_promptsource
-        examples = load_examples_promptsource(f'{stem}copa-{split}.xml', dataset_name, dataset_config, prompt_name, model_name, icl)
+        examples = load_examples_promptsource(args.use_csv, f'{stem}copa-{split}.xml', dataset_name, dataset_config, prompt_name, model_name, icl)
         closed_label_space = True
     else:
         if dataset_name == 'copa':
@@ -247,6 +247,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset_config', type=str, default=None)
     parser.add_argument('--prompt_name', type=str, default=None)
     parser.add_argument('--prompt_list', type=list, default=None)
+    parser.add_argument('--use_csv', action='store_true')
 
     #T0 settings: need extra essential parameter, template_name
     parser.add_argument('--promptsource', action='store_true')
@@ -309,10 +310,10 @@ if __name__ == '__main__':
         for c in ckpt_list_:
             ckpt_list.append(args.checkpoint_path + '/' + c)
     else:
-        ckpt_list = [None]
+        ckpt_list = None
 
-    for ckpt in ckpt_list:
-        model, encoder, name = get_model(ckpt, args.model, args.key)
+    if ckpt_list == None:
+        model, encoder, name = get_model(args.model, args.key)
         if args.dataset.endswith('-rev'):
             stem = f'data/{args.dataset[:-4]}'
         else:
@@ -332,3 +333,25 @@ if __name__ == '__main__':
             accs, accs_50 = score(model, name, encoder, examples, stem, args.split, args.batch, args.prompt_name, args.icl)
         print(f'{name} gets {accs}% on {args.dataset}')
         print(f'{name} gets {accs_50}% on {args.dataset} on 50 set.')
+    else:
+        for ckpt in ckpt_list:
+            model, encoder, name = get_model(ckpt, args.model, args.key)
+            if args.dataset.endswith('-rev'):
+                stem = f'data/{args.dataset[:-4]}'
+            else:
+                stem = f'data/{args.dataset}'
+            if args.dataset_config!=None:
+                stem+=("/"+args.dataset_config)
+            if args.prompt_name!=None:
+                stem+=("/"+args.prompt_name)
+            stem +="/"
+            examples, closed_label_space = get_examples(args.dataset, args.split, stem, args.n_shot, args.variant, args.dataset_config, args.prompt_name, args.model, args.icl)
+            # if args.sample:
+            #     assert(args.sample <= len(examples))
+            #     examples = random.sample(examples, args.sample)
+            if "T0" in args.model:
+                accs, accs_50 = score_T0(model, name, encoder, examples, stem, args.split, args.batch, args)
+            else:
+                accs, accs_50 = score(model, name, encoder, examples, stem, args.split, args.batch, args.prompt_name, args.icl)
+            print(f'{name} gets {accs}% on {args.dataset}')
+            print(f'{name} gets {accs_50}% on {args.dataset} on 50 set.')
