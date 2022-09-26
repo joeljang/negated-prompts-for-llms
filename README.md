@@ -6,10 +6,6 @@ We aim to answer four main questions in this work. (1) How does scaling the size
 
 The answers can be found in our draft! Come check it out! :) 
 
-## Replication 
-
-To replicate the results of our paper, use the following commands
-
 ## Dependencies
 
 You can use `pip install -r requirements.txt` to install the required libraries.
@@ -21,7 +17,14 @@ To use GPT-3 you must use OpenAI Beta, which is limited access. You can apply fo
 Once you have a dataset downloaded, running all the zero-shot scoring strategies at once is as simple as:
 
 ```
-python score.py <dataset abbrevation> --model <model>
+CUDA_VISIBLE_DEVICES=[gpu devices ids] python score.py --dataset [huggingface dataset name] --dataset_config [huggingface dataset config] --promptsource --sample [num of samples] --batch [num of sampels in a batch] --prompt_name [prompt name from promptsource] --model [model name]
 ```
 
-where `<dataset-abbreviation>` is the abbreviation for a given dataset used for table rows in the paper. If there is any confusion, simply look in `score.py` to see how dataset selection works. `<model>` is the name of either a GPT-2 or GPT-3 model e.g. `xl`, `davinci`, etc. To speed things up you can use a larger `--batch` if you have enough GPU memory.
+For example, running inferece of OPT-66B on the ARC-Easy datasets can be done as follows:
+```
+CUDA_VISIBLE_DEVICES=0,1,2,3 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 200 --batch 8 --prompt_name "q&a" --model opt-66b
+```
+
+For the full list of commands, check out the bash files in bash_files directory.
+
+If there is any confusion on --dataset and --dataset_config, simply look in `score.py` to see how dataset selection works. --model is the name of OPT, T0, GPT-2 or GPT-3 model e.g. `xl`, `davinci`, etc. Check the `score.py` for the full list of supported LMs. To speed things up you can use a larger `--batch` if you have enough GPU memory.
