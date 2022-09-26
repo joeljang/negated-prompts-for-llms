@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-125m &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-350m &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-1.3b &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-2.7b &
+CUDA_VISIBLE_DEVICES=9 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --max_output_length 128 --model T0_3B &
+CUDA_VISIBLE_DEVICES=9 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-6.7b &
+CUDA_VISIBLE_DEVICES=10,11 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --max_output_length 128 --model T0 &
+CUDA_VISIBLE_DEVICES=12,13 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-13b
+CUDA_VISIBLE_DEVICES=10,11 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-30b

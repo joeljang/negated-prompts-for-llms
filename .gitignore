@@ -1,0 +1,10 @@
+api.key
+data/
+
+**.swp
+**__pycache__
+
+debug/*
+_pycache_/*
+
+checkpoints

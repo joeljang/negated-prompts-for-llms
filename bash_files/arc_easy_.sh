@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-125m &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-350m &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-1.3b &
+CUDA_VISIBLE_DEVICES=8 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-2.7b &
+CUDA_VISIBLE_DEVICES=9 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --max_output_length 64 --model T0_3B &
+CUDA_VISIBLE_DEVICES=9 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-6.7b &
+CUDA_VISIBLE_DEVICES=10,11 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --max_output_length 64 --model T0 &
+CUDA_VISIBLE_DEVICES=12,13 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-13b & 
+CUDA_VISIBLE_DEVICES=10,11 python score.py --dataset ai2_arc --dataset_config ARC-Easy --promptsource --sample 300 --prompt_name "q&a negation" --model opt-30b

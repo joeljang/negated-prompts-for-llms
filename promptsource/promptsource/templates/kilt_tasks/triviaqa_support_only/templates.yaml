@@ -1,0 +1,47 @@
+dataset: kilt_tasks
+subset: triviaqa_support_only
+templates:
+  1a123f3a-0507-41b9-904f-b18d9ce2b791: !Template
+    answer_choices: null
+    id: 1a123f3a-0507-41b9-904f-b18d9ce2b791
+    jinja: 'What is a correct answer to the following question?
+
+      Question: {{input}}
+
+      Answer:
+
+      |||
+
+      {{output|selectattr("answer")|map(attribute=''answer'')|reject("equalto", "")|list|choice
+      }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Squad
+      original_task: false
+    name: correct_answer
+    reference: ''
+  1a123f3a-0507-41b9-904f-b18d9ce2b799: !Template
+    answer_choices: null
+    id: 1a123f3a-0507-41b9-904f-b18d9ce2b799
+    jinja: 'What is an incorrect answer to the following question?
+
+      Question: {{input}}
+
+      Answer:
+
+      |||
+
+      {{output|selectattr("answer")|map(attribute=''answer'')|reject("equalto", "")|list|choice
+      }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Squad
+      original_task: false
+    name: correct_answer negation
+    reference: ''

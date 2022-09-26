@@ -1,0 +1,238 @@
+dataset: glue/qqp
+templates:
+  16b5867b-fac8-412a-be90-78d3be82d88a: !Template
+    answer_choices: no ||| yes
+    id: 16b5867b-fac8-412a-be90-78d3be82d88a
+    jinja: Are the questions "{{question1}}" and "{{question2}}" french? ||| {{ answer_choices[0]
+      }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: french
+    reference: ''
+  1d72da31-b239-419b-bea1-41b7991daf6e: !Template
+    answer_choices: no ||| yes
+    id: 1d72da31-b239-419b-bea1-41b7991daf6e
+    jinja: '{{question1}} Single-family zoning is bad for American cities. {{question2}}.
+      ||| {{ answer_choices[label] }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: irrelevant
+    reference: ''
+  42a31fdf-bbbc-4c6d-ab25-535d712161a9: !Template
+    answer_choices: cat ||| dog
+    id: 42a31fdf-bbbc-4c6d-ab25-535d712161a9
+    jinja: "{{question1}} \n\n {{question2}} \n\n Pick one: These questions are \"\
+      {{\"duplicates\"}}\" or \"{{\"not duplicates\"}}\". Choose dog if they are \"\
+      {{\"duplicates\"}}\", and cat if they are \"{{\"not duplicates\"}}\". ||| {{\
+      \ answer_choices[label] }}"
+    metadata: !TemplateMetadata
+      choices_in_prompt: true
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: duplicate or not cat dog
+    reference: ''
+  44ec439e-25cd-4abd-8de4-d1b7d1cd9d87: !Template
+    answer_choices: no ||| yes
+    id: 44ec439e-25cd-4abd-8de4-d1b7d1cd9d87
+    jinja: Are the questions "{{question1}}" and "{{question2}}" grammatically correct?
+      ||| {{ answer_choices[1] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: grammar
+    reference: ''
+  47d2b8cc-6213-4870-9910-bff0811bda31: !Template
+    answer_choices: cat ||| dog
+    id: 47d2b8cc-6213-4870-9910-bff0811bda31
+    jinja: Are the questions "{{question1}}" and "{{question2}}" asking the same thing?
+      Choose cat if no, dog if yes. ||| {{ answer_choices[label] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: same thing cat dog
+    reference: ''
+  4c5cc42a-0095-455a-9f93-d5ba4691319f: !Template
+    answer_choices: no ||| yes
+    id: 4c5cc42a-0095-455a-9f93-d5ba4691319f
+    jinja: Are the questions "{{question1}}" and "{{question2}}" asking the different
+      thing? ||| {{ answer_choices[1-label] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: same thing negation
+    reference: ''
+  8e711799-a57c-4941-833b-466bedfb80ad: !Template
+    answer_choices: no ||| yes
+    id: 8e711799-a57c-4941-833b-466bedfb80ad
+    jinja: I'm an administrator on the website Quora. There are two posts, one that
+      asks "{{question1}}" and another that asks "{{question2}}". I can merge questions
+      if they are asking the same thing. Can I merge these two questions? ||| {{ answer_choices[label]
+      }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: true
+    name: quora
+    reference: ''
+  914943bf-b44b-4a3a-b54d-7c23f60e43f5: !Template
+    answer_choices: not duplicates ||| duplicates
+    id: 914943bf-b44b-4a3a-b54d-7c23f60e43f5
+    jinja: "{{question1}} \n\n {{question2}} \n\n Pick an incorrect one: These questions\
+      \ are \"{{\"duplicates\"}}\" or \"{{\"not duplicates\"}}\". \n\n ||| \n\n {{\
+      \ answer_choices[1-label] }}"
+    metadata: !TemplateMetadata
+      choices_in_prompt: true
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: duplicate or not negation
+    reference: ''
+  94972071-a726-42a3-a726-13f414b65e67: !Template
+    answer_choices: not duplicates ||| duplicates
+    id: 94972071-a726-42a3-a726-13f414b65e67
+    jinja: '{{question1}}
+
+      {{question2}}
+
+      Pick one: These questions are "{{"duplicates"}}" or "{{"not duplicates"}}".
+
+      |||
+
+      {{ answer_choices[label] }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: true
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: true
+    name: duplicate or not
+    reference: ''
+  a45ad5cd-a3ba-4ab2-a728-a9ea0f27102b: !Template
+    answer_choices: no ||| yes
+    id: a45ad5cd-a3ba-4ab2-a728-a9ea0f27102b
+    jinja: Are the questions "{{question1}}" and "{{question2}}" asking the same thing?
+      ||| {{ answer_choices[label] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: true
+    name: same thing
+    reference: ''
+  a8258d02-17c8-4c0e-b55e-b8c60bb21e50: !Template
+    answer_choices: no ||| yes
+    id: a8258d02-17c8-4c0e-b55e-b8c60bb21e50
+    jinja: '{{question1}} But I think it is time to eat pizza. {{question2}}. |||
+      {{ answer_choices[label] }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: irrelevant 2
+    reference: ''
+  aba3e05c-723c-47b6-ad3d-463f4ddb8c78: !Template
+    answer_choices: cat ||| dog
+    id: aba3e05c-723c-47b6-ad3d-463f4ddb8c78
+    jinja: I'm an administrator on the website Quora. There are two posts, one that
+      asks "{{question1}}" and another that asks "{{question2}}". I can merge questions
+      if they are asking the same thing. Can I merge these two questions? Choose cat
+      if no, dog if yes.||| {{ answer_choices[label]}}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: quora cat dog
+    reference: ''
+  b7b40866-e0c1-49df-95f3-3e1666c01824: !Template
+    answer_choices: no ||| yes
+    id: b7b40866-e0c1-49df-95f3-3e1666c01824
+    jinja: '{{question1}} Sorry to hear that, but {{question2}} ||| {{ answer_choices[label]
+      }}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: irrelevant 3
+    reference: ''
+  bb3eaf0e-1476-489f-9491-a33eec9d0150: !Template
+    answer_choices: no ||| yes
+    id: bb3eaf0e-1476-489f-9491-a33eec9d0150
+    jinja: I'm an administrator on the website Quora. There are two posts, one that
+      asks "{{question1}}" and another that asks "{{question2}}". I can merge questions
+      if they are asking the same thing. Am I unable to merge these two questions?
+      ||| {{ answer_choices[1-label]}}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages: null
+      metrics: Accuracy
+      original_task: false
+    name: quora negation
+    reference: ''
+  c0182cd1-c7ac-4abe-829f-4651536af951: !Template
+    answer_choices: no ||| yes
+    id: c0182cd1-c7ac-4abe-829f-4651536af951
+    jinja: Can an answer to "{{question1}}" also be used to answer "{{question2}}"?
+      ||| {{ answer_choices[label] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: false
+    name: answer
+    reference: ''
+  c0724198-97e7-44a1-89d8-c51e97ce0b04: !Template
+    answer_choices: No ||| Yes
+    id: c0724198-97e7-44a1-89d8-c51e97ce0b04
+    jinja: 'Question 1: {{question1}}
+
+      Question 2: {{question2}}
+
+
+      Do these two questions convey the same meaning? Yes or no? ||| {{answer_choices[label]}}'
+    metadata: !TemplateMetadata
+      choices_in_prompt: true
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: true
+    name: meaning
+    reference: ''
+  fd244bd3-ca3b-4e4f-9722-fd006c50e157: !Template
+    answer_choices: no ||| yes
+    id: fd244bd3-ca3b-4e4f-9722-fd006c50e157
+    jinja: I received the questions "{{question1}}" and "{{question2}}". Are they
+      duplicates? ||| {{ answer_choices[label] }}
+    metadata: !TemplateMetadata
+      choices_in_prompt: false
+      languages:
+      - en
+      metrics:
+      - Accuracy
+      original_task: true
+    name: duplicate
+    reference: ''

@@ -1,0 +1,4 @@
+CUDA_VISIBLE_DEVICES=3 python score.py --dataset piqa --promptsource --sample 300 --prompt_name "generate negation" --model opt-125m --checkpoint_path checkpoints/piqa_neg
+CUDA_VISIBLE_DEVICES=3 python score.py --dataset super_glue --dataset_config copa --promptsource --prompt_name "generate negation" --model opt-125m --checkpoint_path checkpoints/copa_neg
+CUDA_VISIBLE_DEVICES=3 python score.py --dataset hellaswag --promptsource --sample 300 --prompt_name "Open-ended completion negation" --model opt-125m --checkpoint_path checkpoints/hellaswag_neg
+CUDA_VISIBLE_DEVICES=3 python score.py --dataset story_cloze --dataset_config 2016 --promptsource --sample 300 --prompt_name "Generate Ending Negation" --model opt-125m --checkpoint_path checkpoints/story_cloze_neg
