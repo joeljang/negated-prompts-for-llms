@@ -28,3 +28,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python score.py --dataset ai2_arc --dataset_config 
 For the full list of commands, check out the bash files in bash_files directory.
 
 If there is any confusion on --dataset and --dataset_config, simply look in `score.py` to see how dataset selection works. --model is the name of OPT, T0, GPT-2 or GPT-3 model e.g. `xl`, `davinci`, etc. Check the `score.py` for the full list of supported LMs. To speed things up you can use a larger `--batch` if you have enough GPU memory.
+
+## Replication
+
+To get the same data instances used for the paper, append the --use_csv flag to each of the runs the code will automatically load the data from data/final_eval instead of from huggingface hub.
