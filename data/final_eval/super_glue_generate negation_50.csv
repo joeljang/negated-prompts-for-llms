@@ -1,0 +1,51 @@
+sample_id,prompt,classes,answer_index
+50,Complete the sentence with an inappropriate ending. My skin broke out into a rash.  because...,"[' I brushed against poison ivy in my yard.', ' I eradicated the poison ivy from my yard.']",1
+51,Complete the sentence with an inappropriate ending. My subscription to the magazine expired.  so...,"[' I discarded the new issue.', ' I stopped receiving new issues.']",0
+52,Complete the sentence with an inappropriate ending. The detective revealed an anomaly in the case.  so...,"[' He finalized his theory.', ' He scrapped his theory.']",0
+53,Complete the sentence with an inappropriate ending. The boy threw a temper tantrum.  because...,"[' His brother took his toys from him.', ' He shared his toys with his brother.']",1
+54,Complete the sentence with an inappropriate ending. The child learned how to read.  because...,"[' He began attending school.', ' He skipped a grade in school.']",1
+55,Complete the sentence with an inappropriate ending. The boy skipped dinner.  because...,"[' His mother cooked his favorite meal.', ' He ate a big lunch.']",0
+56,Complete the sentence with an inappropriate ending. The woman lavished her friend with flattery.  because...,"[' She wanted to ask her friend for a favor.', "" She was irritated with her friend's whining.""]",1
+57,Complete the sentence with an inappropriate ending. The key was missing from my pants pocket.  because...,"[' The pocket had a hole.', ' The pants were new.']",1
+58,Complete the sentence with an inappropriate ending. The man fainted.  because...,"[' He took a nap.', ' He ran a marathon.']",0
+59,Complete the sentence with an inappropriate ending. The man lost the competition.  because...,"[' The competition was sabotaged.', ' He intimidated his competitors.']",1
+60,Complete the sentence with an inappropriate ending. The mother called an ambulance.  because...,"[' Her son lost his cat.', ' Her son fell out of his bed.']",0
+61,Complete the sentence with an inappropriate ending. The driver slammed on his brakes.  because...,"[' A deer appeared on the road.', ' The car radio shut off.']",1
+62,Complete the sentence with an inappropriate ending. The lock opened.  because...,"[' I turned the key in the lock.', ' I made a duplicate of the key.']",1
+63,Complete the sentence with an inappropriate ending. I put rubber gloves on.  because...,"[' I was preparing to wash my hands.', ' I was preparing to clean the bathroom.']",0
+64,Complete the sentence with an inappropriate ending. The animal species became endangered.  because...,"[' Their habitat was destroyed.', ' Their predators went extinct.']",1
+65,Complete the sentence with an inappropriate ending. The man perceived that the woman looked different.  because...,"[' The woman got her hair cut.', ' The woman wore a bracelet.']",1
+66,Complete the sentence with an inappropriate ending. The student forgot to do her assignment.  so...,"[' She made up an excuse to tell the teacher.', ' The teacher promoted her to the next grade.']",1
+67,Complete the sentence with an inappropriate ending. The dog barked.  because...,"[' The cat lounged on the couch.', ' A knock sounded at the door.']",0
+68,Complete the sentence with an inappropriate ending. Plans were announced to replace a local park with a shopping mall.  so...,"[' Environmentalists started a petition.', ' Environmentalists produced a documentary.']",1
+69,Complete the sentence with an inappropriate ending. The couple was happy to see each other.  so...,"[' They kissed.', ' They rested.']",1
+70,Complete the sentence with an inappropriate ending. The woman asked the man to leave.  because...,"[' He insulted her.', ' He thanked her.']",1
+71,Complete the sentence with an inappropriate ending. The tree branch landed in the river.  so...,"[' The branch moved downstream.', "" The river's current became stronger.""]",1
+72,Complete the sentence with an inappropriate ending. The teacher assigned homework to the students.  so...,"[' The students passed notes.', ' The students groaned.']",0
+73,Complete the sentence with an inappropriate ending. The seasons changed from summer to autumn.  so...,"[' People evacuated their homes.', ' Leaves fell from the trees.']",0
+74,Complete the sentence with an inappropriate ending. The politician was convicted of fraud.  so...,"[' He campaigned for re-election.', ' He was removed from office.']",0
+75,Complete the sentence with an inappropriate ending. I pushed the wagon.  so...,"[' The objects in the wagon fell out.', ' The wagon wheels spun forward.']",0
+76,Complete the sentence with an inappropriate ending. The lobbyist persuaded the legislature to support the bill.  so...,"[' The president vetoed the bill.', ' The legislature passed the bill.']",0
+77,Complete the sentence with an inappropriate ending. My closet was messy.  so...,"[' I organized it.', ' I decorated it.']",1
+78,Complete the sentence with an inappropriate ending. I stayed up late.  so...,"[' I had vivid dreams that night.', ' I was tired in the morning.']",0
+79,Complete the sentence with an inappropriate ending. The man's pocket jingled as he walked.  because...,"[' His pocket was filled with coins.', ' He sewed the hole in his pocket.']",1
+80,Complete the sentence with an inappropriate ending. Everyone in the class turned to stare at the student.  because...,"["" The student's phone rang."", ' The student took notes.']",1
+81,Complete the sentence with an inappropriate ending. The horse bucked.  because...,"[' A fly bit the horse.', ' The rider stroked the horse.']",1
+82,Complete the sentence with an inappropriate ending. The jewelry thieves were caught.  so...,"[' The stolen jewelry was returned to its owners.', ' The cost of the stolen jewelry was calculated.']",1
+83,Complete the sentence with an inappropriate ending. Political violence broke out in the nation.  so...,"[' Many citizens relocated to the capitol.', ' Many citizens took refuge in other territories.']",0
+84,Complete the sentence with an inappropriate ending. The woman was arrested.  because...,"[' She checked into rehab.', ' She committed assault.']",0
+85,Complete the sentence with an inappropriate ending. The woman read the newspaper.  so...,"[' She discovered the outcome of the election.', ' She casted a vote in the election.']",1
+86,Complete the sentence with an inappropriate ending. The sick child coughed on his friend.  so...,"[' His friend got sick.', ' His friend sneezed.']",1
+87,Complete the sentence with an inappropriate ending. The couple got engaged.  so...,"[' They planned a wedding.', ' They took some time apart.']",1
+88,Complete the sentence with an inappropriate ending. The woman contacted the real estate agent.  because...,"[' The woman planned to buy a condo.', ' The woman needed to clean her house.']",1
+89,Complete the sentence with an inappropriate ending. The man won the lottery.  so...,"[' He became rich.', ' He owed money.']",1
+90,Complete the sentence with an inappropriate ending. I lit the candle.  so...,"[' Wax dripped off the candle.', ' The wax on the candle hardened.']",1
+91,Complete the sentence with an inappropriate ending. I spent the day at the pool.  so...,"[' I sprained my ankle.', ' My face got sunburned.']",0
+92,Complete the sentence with an inappropriate ending. The man received a parking ticket.  because...,"[' He parallel parked on the street.', ' The parking meter expired.']",0
+93,Complete the sentence with an inappropriate ending. The woman became famous.  so...,"[' Photographers followed her.', ' Her family avoided her.']",1
+94,Complete the sentence with an inappropriate ending. The girl wanted to wear earrings.  so...,"[' She got her ears pierced.', ' She got a tattoo.']",1
+95,Complete the sentence with an inappropriate ending. My ears were ringing.  because...,"[' I went to a museum.', ' I went to a concert.']",0
+96,Complete the sentence with an inappropriate ending. I tidied up my house.  because...,"[' I was swamped with work.', ' I was expecting company.']",0
+97,Complete the sentence with an inappropriate ending. The airline mishandled my luggage.  so...,"[' They offered me compensation.', ' They cancelled my flight.']",1
+98,Complete the sentence with an inappropriate ending. The computer was expensive to fix.  so...,"[' I got it repaired.', ' I bought a new one.']",0
+99,Complete the sentence with an inappropriate ending. The woman was in a bad mood.  so...,"[' She engaged in small talk with her friend.', ' She told her friend to leave her alone.']",0

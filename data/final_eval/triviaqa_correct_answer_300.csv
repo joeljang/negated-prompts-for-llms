@@ -1,0 +1,901 @@
+sample_id,prompt,classes,answer_index
+0,"What is a correct answer to the following question?
+Question: Who became the new French president in 2007?
+Answer:","[' Jean Baptiste Racine', ' Nicolas Sarkozy']",1
+1,"What is a correct answer to the following question?
+Question: Which philosopher wrote 'Thus Spoke Zarathustra' between 1883 and 1885?
+Answer:","[' Nietzsche', ' Ragdoll Limited']",0
+2,"What is a correct answer to the following question?
+Question: Which river forms the eastern section of the border between England and Scotland?
+Answer:","[' Shinty', ' The Tweed']",1
+3,"What is a correct answer to the following question?
+Question: Aung San Suu Kyi is a controversial leader in which country?
+Answer:","[' Burma', ' Beetle baily']",0
+4,"What is a correct answer to the following question?
+Question: The 1965 film ‘The Heroes of Telemark’ is set in which European country?
+Answer:","[' 3', ' Norway']",1
+5,"What is a correct answer to the following question?
+Question: Who was the leader of the Peasant's Revolt in 1381 who, after killing a poll tax collector, marched on London with supporters and was killed there at Smithfield by the Lord Mayor of London?
+Answer:","[' Islands of Spain', ' Wat Tyler']",1
+6,"What is a correct answer to the following question?
+Question: According to the World Meteorological Organisation and the UK Met Office, what is the highest number on the Beaufort scale, representing hurricane force?
+Answer:","[' Luke Tyson Fury', ' Twelve']",1
+7,"What is a correct answer to the following question?
+Question: Which mythological creatures are half horse and half man?
+Answer:","[' Centaurs', ' Jim Thorpe']",0
+8,"What is a correct answer to the following question?
+Question: What mythical god has a hammer called Miolnir (or Mjölnir, or other variants)?
+Answer:","[' Donar', ' Yougoslavia']",0
+9,"What is a correct answer to the following question?
+Question: Nicknamed the cannibal, who is the only rider to have won all three jerseys in the same year in the Tour de France?
+Answer:","[' H.M.S. BELLEROPHON', ' Edouard Louis Joseph, Baron Merckx']",1
+10,"What is a correct answer to the following question?
+Question: What taxonomic rank comes between Family and Species?
+Answer:","[' Genus', ' Edvard Hagerup Grieg']",0
+11,"What is a correct answer to the following question?
+Question: What is the name of Tokyo's seaport ?
+Answer:","[' Lewis (Isle)', ' Yokohama']",1
+12,"What is a correct answer to the following question?
+Question: ""In the TV series, """"The Rockford Files"""", which actor played Rockford's father, """"Rocky""""?""
+Answer:","[' Noah Beery, Jr.', ' Oscar Wild']",0
+13,"What is a correct answer to the following question?
+Question: Benina international airport is in which country?
+Answer:","[' Libya', ' Toulon, Var']",0
+14,"What is a correct answer to the following question?
+Question: ""Which late 19th century English illustrator was """"rediscovered"""" due to an exhibition from 19 May to 19 September 1966 at the Victoria and Albert Museum, London, which introduced his work to a new generation and began a craze that lasted into the 1970s?""
+Answer:","[' Ashington, Northumberland', ' Aubrey Beardsley']",1
+15,"What is a correct answer to the following question?
+Question: The opera Carmen was first performed in which decade?
+Answer:","[' Javier Ángel Encinas Bardem', ' 1870s']",1
+16,"What is a correct answer to the following question?
+Question: Which company was founded by Bill Gates and Paul Allen in Albuquerque, New Mexico, on 4 April 1975 to develop and sell BASIC interpreters for a new microcomputer, the Altair 8800?
+Answer:","["" Microsoft's"", ' 1986']",0
+17,"What is a correct answer to the following question?
+Question: What is the currency of Lithuania?
+Answer:","[' Lithuanian lita', ' Park Grove (1895)']",0
+18,"What is a correct answer to the following question?
+Question: Nigel Hawthorne was Oscar nominated for The Madness of which King?
+Answer:","[' George', ' PLUMED']",0
+19,"What is a correct answer to the following question?
+Question: Who played Claude Greengrass in 'Heartbeat'?
+Answer:","[' Tuna Fish', ' Walter Frederick George Williams']",1
+20,"What is a correct answer to the following question?
+Question: Who writes the scripts for the TV series Downton Abbey?
+Answer:","[' Grey Floyd', ' Julian Fellowes']",1
+21,"What is a correct answer to the following question?
+Question: Hepatic relates to which organ of the human body?
+Answer:","[' Liver', ' Lower Peru']",0
+22,"What is a correct answer to the following question?
+Question: To what country does the island of Leyte belong, known for the Battle of Leyte Gulf in WW2?
+Answer:","[' One thousand and eighty', ' The Republic of the Philippines']",1
+23,"What is a correct answer to the following question?
+Question: Which US singer released a 2010 album entitled ‘The Lady Killer’?
+Answer:","[' CeeLo Green', ' Herbert Pocket']",0
+24,"What is a correct answer to the following question?
+Question: In the NATO alphabet, what word is used to denote the letter N?
+Answer:","[' November', ' Qart-ḥadšat']",0
+25,"What is a correct answer to the following question?
+Question: Who was the first US president Barbara Walters interviewed?
+Answer:","[' Dun Eideann', ' Richard Nixon']",1
+26,"What is a correct answer to the following question?
+Question: In ‘Follow That Camel’, the fourteenth Carry On film, Sid James was replaced by which US actor?
+Answer:","[' Shelley Fabares', ' Phil Silvers']",1
+27,"What is a correct answer to the following question?
+Question: What controversial relic went on display in 2010 in the Italian city whose name it bears?
+Answer:","[' Shroud of Turin', ' 2']",0
+28,"What is a correct answer to the following question?
+Question: In the book by James Hilton what was the full surname of the character Mr Chips?
+Answer:","[' Chipping', ' Psilocybin fungi']",0
+29,"What is a correct answer to the following question?
+Question: What nickname was given to the Morris Cowley due to its appearance?
+Answer:","[' Star wars', ' Bullnose']",1
+30,"What is a correct answer to the following question?
+Question: Which Bond villain has been played by Telly Savalas, Donald Pleasance, Charles Gray, and Max Von Sydow?
+Answer:","[' Ernst Stavro Blofeld', ' Economy of Connecticut']",0
+31,"What is a correct answer to the following question?
+Question: The Webb Ellis Cup is presented to the winners of the World Cup in what sport?
+Answer:","[' Toyota Motor Manufacturing, U.S.A., Inc.', ' Rugby']",1
+32,"What is a correct answer to the following question?
+Question: ""Who painted """"Girl before a Mirror"""" ?""
+Answer:","[' Daniel Dyer', ' Picasso']",1
+33,"What is a correct answer to the following question?
+Question: What are the only two musical notes which have no flats?
+Answer:","[' -40°', ' C and F']",1
+34,"What is a correct answer to the following question?
+Question: Who wrote the book His Dark Materials?
+Answer:","[' Mothers ruin', ' Philip Pullman']",1
+35,"What is a correct answer to the following question?
+Question: What species of fly has the Latin name calliphora vomitoria?
+Answer:","[' RUTH JONES', ' Bluebottle']",1
+36,"What is a correct answer to the following question?
+Question: Said to refer erroneously to the temperature at which book paper catches fire, the title of Ray Bradbury's 1953 novel about a futuristic society in which reading books is illegal, is called 'Fahrenheit...' what? 972; 451; 100; or 25?
+Answer:","[' Honorary citizenship of Tirana', ' 451']",1
+37,"What is a correct answer to the following question?
+Question: During his visit in May 2009, the Pope was urged to complain about the state of what landmark between Israel and Jordan?
+Answer:","[' Jordan River', "" Queen Victoria's Diamond Jubilee""]",0
+38,"What is a correct answer to the following question?
+Question: The 2006 Grammy Award for the Best Musical Theatre recording were John Du Prez & Eric Idle (producers & composers) and Eric Idle (lyricist) for which show?
+Answer:","[' Spamalot', ' Hamptons']",0
+39,"What is a correct answer to the following question?
+Question: The Cuatro Torres Business Area is in which European city?
+Answer:","[' N Z', ' Madrid']",1
+40,"What is a correct answer to the following question?
+Question: Which 1969 film, based on a stage musical, marked the directorial debut of Richard Attenborough?
+Answer:","[' Oh! What a Lovely War', ' Laika (dog)']",0
+41,"What is a correct answer to the following question?
+Question: American rapper Tramar Dillard is better known by what stage name?
+Answer:","[' Volcanic vents', ' International Music Group']",1
+42,"What is a correct answer to the following question?
+Question: Pussy Galore features in which Ian Fleming book (later a film)?
+Answer:","[' D.b. cooper', ' Goldfinger']",1
+43,"What is a correct answer to the following question?
+Question: ""Which American legal TV drama-comedy (2004 to 2008), a spin-off of """"The Practice"""", followed the exploits of attorneys at Crane, Poole & Schmidt?""
+Answer:","[' Boston Legal', ' Four']",0
+44,"What is a correct answer to the following question?
+Question: What was the scene of the final defeat of the Jacobites under Charles Edward by forces under the command of the Duke of Cumberland on 16 April 1746?
+Answer:","[' Culloden', ' Chase (album)']",0
+45,"What is a correct answer to the following question?
+Question: What trade did both Dick Turpin and Butch Cassidy follow?
+Answer:","[' Katherine Holmes', ' The butcher']",1
+46,"What is a correct answer to the following question?
+Question: What name is given to the home of a beaver?
+Answer:","[' The Birds (disambiguation)', ' Lodge']",1
+47,"What is a correct answer to the following question?
+Question: ""Which actress played 'Valeria"""" in the film Carry On Screaming?""
+Answer:","[' Ralph Vaughan Williams', ' Fenella Fielding']",1
+48,"What is a correct answer to the following question?
+Question: Who is the current presenter of BBC Radio 4 programme Desert Island Discs?
+Answer:","[' Kirsty Young', ' Etymology of Malaysia']",0
+49,"What is a correct answer to the following question?
+Question: If you had a Shiraz, a Baluch or a Bokhara in your house what would they be?
+Answer:","[' Carpet', ' El Cid']",0
+50,"What is a correct answer to the following question?
+Question: The second largest town or city of which country is Esch-sur-Alzette?
+Answer:","[' Broke the sound barrier', ' Luxembourg']",1
+51,"What is a correct answer to the following question?
+Question: Which European country has Switzerland to the west Austria to the east?
+Answer:","[' VULTURE (DC Comics)', ' Liech']",1
+52,"What is a correct answer to the following question?
+Question: ""From her first US film musical """"Down Argentina Way"""" (1940), who became famous for extravagant hats, jewellery and dresses?""
+Answer:","[' Colors of rainbow', ' Maria do Carmo Miranda da Cunha']",1
+53,"What is a correct answer to the following question?
+Question: In which country would you find a TGV train?
+Answer:","[' Hemophilla', ' France']",1
+54,"What is a correct answer to the following question?
+Question: In 1986 the prime minister of which European country was assassinated while returning home from the cinema?
+Answer:","[' Sweden', ' 5-methyluracil']",0
+55,"What is a correct answer to the following question?
+Question: The Transandine Railway runs between which two South American countries?
+Answer:","[' 1929', ' Chile and Argentina']",1
+56,"What is a correct answer to the following question?
+Question: In most constellations, which letter of the Greek alphabet was designated by German astronomer Johann Bayer to the brightest star?
+Answer:","[' Topkapı', ' Α']",1
+57,"What is a correct answer to the following question?
+Question: Clifford’s Tower is all that remains of which city’s castle?
+Answer:","[' York, England', ' PowerPoint-Free Zone']",0
+58,"What is a correct answer to the following question?
+Question: Who presented Family Fortunes in the two years between Bob Monkhouse and Les Dennis?
+Answer:","[' Max Bygraves', ' Lateral Thinking']",0
+59,"What is a correct answer to the following question?
+Question: Cathay is a poetic name for which country?
+Answer:","[' Syringa vulgaris', ' China']",1
+60,"What is a correct answer to the following question?
+Question: How many gold medals did Great Britain win at the 2008 Summer Olympics?
+Answer:","[' 19', ' Franz Josef Haydn']",0
+61,"What is a correct answer to the following question?
+Question: Justine Thornton is the fiancee of which politician?
+Answer:","[' Raffaello Sanzio', ' Ed Miliband']",1
+62,"What is a correct answer to the following question?
+Question: Gwyl San Steffan is the name for 26th December (St Stephen's Day or Boxing Day) in which country?
+Answer:","[' Richmond (Nova Scotia electoral district)', ' Wales']",1
+63,"What is a correct answer to the following question?
+Question: Who wrote the Buddy Holly hit 'It Doesn't Matter Anymore'?
+Answer:","[' Belguim', ' Paul Anka']",1
+64,"What is a correct answer to the following question?
+Question: What was the last race track on Super Mario Kart?
+Answer:","[' Rainbow Road', ' 8']",0
+65,"What is a correct answer to the following question?
+Question: What King was beheaded during the English Civil War?
+Answer:","[' RihRih', ' King Charles I']",1
+66,"What is a correct answer to the following question?
+Question: When was the first road speed limit set in the UK for powered vehicles?
+Answer:","[' 1861', ' Kings of Orient']",0
+67,"What is a correct answer to the following question?
+Question: Name the year: John F Kennedy was elected president; U-2 spy plane was shot down and Hollywood actor Clark Gable died?
+Answer:","[' Beautiful-voiced', ' 1960']",1
+68,"What is a correct answer to the following question?
+Question: Which arid region of Ethiopia was invaded by Somalia in 1977?
+Answer:","[' Lake Mead', ' Ogaden']",1
+69,"What is a correct answer to the following question?
+Question: In the Crimean War, what did Florence Nightingale begin to be called?
+Answer:","[' Honours of Scotland', ' The Lady with the Lamp']",1
+70,"What is a correct answer to the following question?
+Question: Who was elected US President in November 2012?
+Answer:","[' Barack Obama', ' Giant otters']",0
+71,"What is a correct answer to the following question?
+Question: The fictional Arkham Asylum featured in which 70's TV series?
+Answer:","[' Batman', ' EGY']",0
+72,"What is a correct answer to the following question?
+Question: What is the name of the official British coronation crown?
+Answer:","["" St Edward's Crown"", ' Clear the table']",0
+73,"What is a correct answer to the following question?
+Question: Metz is the capital of which region of France?
+Answer:","[' Lorraine', ' The Republic of Austria']",0
+74,"What is a correct answer to the following question?
+Question: In which decade did the following all occur in Britain - the first electric pylons (erected by South Wales Power Co), the first dogems (in Skegness) and the first pedestrian crossing (in Parliament Sqaure, London)?
+Answer:","[' 1920s', ' Bournemouth (borough)']",0
+75,"What is a correct answer to the following question?
+Question: Who played Richard DeVere in the TV sitcom To the Manor Born?
+Answer:","[' Sports in Arizona', ' Peter Bowles']",1
+76,"What is a correct answer to the following question?
+Question: Sofia Helin returned on BBC4 in the third series of which Scandinavian drama?
+Answer:","[' The Bridge', ' Ulysess']",0
+77,"What is a correct answer to the following question?
+Question: Which Irish politician was known as 'The Liberator'?
+Answer:","[' Taxifornia', "" Daniel O'Connell""]",1
+78,"What is a correct answer to the following question?
+Question: In which year did the first episode of Minder take place?
+Answer:","[' 1979', ' Philip David Charles %22Phil%22 Collins LVO']",0
+79,"What is a correct answer to the following question?
+Question: The oak furniture maker Robert Thompson included a carving of which animal on almost every piece he made from the 1920s until his death in 1955?
+Answer:","[' Mouse', ' Génesis']",0
+80,"What is a correct answer to the following question?
+Question: Which large American bird (Gymnogyps) has been reintroduced to the wild after breeding in captivity in 1991?
+Answer:","[' Anne Celeste Heche', ' Gymnogyps californianus']",1
+81,"What is a correct answer to the following question?
+Question: What was Shakespeare's shortest play - written in 1594?
+Answer:","[' Walker Brothers', ' The Comedy of Errors']",1
+82,"What is a correct answer to the following question?
+Question: Who directed the 2014 film 'Jersey Boys'?
+Answer:","[' Clint Eastwood', ' Godfather of Grunge']",0
+83,"What is a correct answer to the following question?
+Question: The largest known volcano in our solar system is on which planet?
+Answer:","[' James Augustine Aloysius Joyce', ' Mars']",1
+84,"What is a correct answer to the following question?
+Question: Who wrote the novel 'The Beach' on which the film was based?
+Answer:","[' Alex Garland', ' Lake Mead']",0
+85,"What is a correct answer to the following question?
+Question: Which ship did Drake command against the Spanish Armada?
+Answer:","[' Revenge', ' Elissar']",0
+86,"What is a correct answer to the following question?
+Question: Which English mechanical and civil engineer who died in 1859 was responsible for engineering the Great Western Railway and designing the Clifton Suspension Bridge in Bristol ?
+Answer:","[' Cherry tree', ' Brunel']",1
+87,"What is a correct answer to the following question?
+Question: What is the largest state in Brazil?
+Answer:","[' Pennyslvania, United States', ' Amazonas']",1
+88,"What is a correct answer to the following question?
+Question: Which company was built into a world-wide organisation by Ray Kroc?
+Answer:","[' Iris', ' Speedee']",1
+89,"What is a correct answer to the following question?
+Question: What is the fruit of a tree of the genus 'Malus'?
+Answer:","[' 1973,1974, 1977', ' Malus domestica']",1
+90,"What is a correct answer to the following question?
+Question: Tony Hadley was the lead singer with which 1980s new romantic band?
+Answer:","[' Bedford', ' Spandau Ballet']",1
+91,"What is a correct answer to the following question?
+Question: Which team beat American Samoa 31-0 in a qualifying match for the 2002 World Cup, but still failed to qualify?
+Answer:","[' The West End of Glasgow, Glasgow, United Kingdom', ' Australia']",1
+92,"What is a correct answer to the following question?
+Question: The Sandinista National Liberation Front ruled from 1979 to 1990, initially as part of a Junta of National Reconstruction, in which country?
+Answer:","[' Nicaraguan', ' One thousand, nine hundred and ninety-four']",0
+93,"What is a correct answer to the following question?
+Question: ""In which old children's TV programme did the """"biggest spotty dog you ever did see"""" feature?""
+Answer:","[' Woodentops', ' Whitbread']",0
+94,"What is a correct answer to the following question?
+Question: Who directed the Noughties films One Day in September, The Last King of Scotland and Touching the Void?
+Answer:","[' Rothchild', ' Kevin Macdonald']",1
+95,"What is a correct answer to the following question?
+Question: Actor Omar Sharif is one of the world's leading players of which game?
+Answer:","[' Butter', ' Bridge']",1
+96,"What is a correct answer to the following question?
+Question: The 1997 transfer of Hong Kong from Great Britain to China is well-known. But in 1999, which country similarly relinquished its claim on Macau also handing it over to China?
+Answer:","[' Portuga', ' Gaṅgā']",0
+97,"What is a correct answer to the following question?
+Question: Kia Motors Corporation is nearly one-third owned by which other Asian company?
+Answer:","[' Fosse Way', ' Hyundai Motor']",1
+98,"What is a correct answer to the following question?
+Question: Who became leader of the British Conservative Party in July 1965?
+Answer:","[' 7440-23-5', ' Edward Heath']",1
+99,"What is a correct answer to the following question?
+Question: What maritime exclamation did Alexander Graham Bell suggest be the standard telephone answering greeting before Edison's 'Hello'?
+Answer:","[' Ahoy', ' Cygnet (disambiguation)']",0
+100,"What is a correct answer to the following question?
+Question: What was the former name of the British Green Party?
+Answer:","[' Ecology Party', "" Wright's Green""]",0
+101,"What is a correct answer to the following question?
+Question: Which of the actors who portrayed Dr Who, famous from the UK TV series of the same name, appeared almost exclusively on radio, film, written works, and comic strips?
+Answer:","[' Paul McGann', ' President George Washington']",0
+102,"What is a correct answer to the following question?
+Question: Who, in 1960, made international news for banging his shoe on a table in the UN?
+Answer:","[' Lance', ' Nikita Khrushchev']",1
+103,"What is a correct answer to the following question?
+Question: Which sea lies between Italy and the former Yugoslavia?
+Answer:","[' Adriatic sea', ' O.Z.']",0
+104,"What is a correct answer to the following question?
+Question: Aleph, Beth, Gimel, Daleth are A B C D in which language?
+Answer:","[' Blue', ' Hebrew Language']",1
+105,"What is a correct answer to the following question?
+Question: Pityriasis Capitis is the technical term for?
+Answer:","[' Muscular Dystrophy Association', ' Dandruff']",1
+106,"What is a correct answer to the following question?
+Question: Near Field Communication technology (NFC) is a set of standards for?
+Answer:","[' Smartphone', ' T Ros']",0
+107,"What is a correct answer to the following question?
+Question: ""Which Tom's first leading role was in the 1983 film """"Risky Business""""?""
+Answer:","[' Cruise', ' Margaret Kelly (disambiguation)']",0
+108,"What is a correct answer to the following question?
+Question: Who was the first reigning British monarch to make an official visit to the USA?
+Answer:","[' Famous for Killing Each Other: Music from and Inspired By Hatfields & McCoys', ' Albert, Duke of York']",1
+109,"What is a correct answer to the following question?
+Question: The game Ticket to Ride involves what kind of transport?
+Answer:","[' Rail', ' Never Say Die (film)']",0
+110,"What is a correct answer to the following question?
+Question: Which South Korean city was the venue of the 2011 World Athletics Championships?
+Answer:","[' Daegu, South Korea', ' Ursula K Leguin']",0
+111,"What is a correct answer to the following question?
+Question: Who was the first person in the bible to get drunk?
+Answer:","[' Transport in Liechtenstein', ' Noah']",1
+112,"What is a correct answer to the following question?
+Question: Angiosperm (from Greek 'angeion', bottle) is a major scientific classification of land plants which have seeds and?
+Answer:","[' Flower', ' Kook']",0
+113,"What is a correct answer to the following question?
+Question: Marc Dutroux hit the headlines over a 'house of horrors' in which country?
+Answer:","[' Belgian', ' Flaubert']",0
+114,"What is a correct answer to the following question?
+Question: Who is recognised as Britain’s first Prime Minister?
+Answer:","[' Robert Walpole', ' Fragaria ananassa']",0
+115,"What is a correct answer to the following question?
+Question: Which Scotsman became the first European to reach the River Niger in 1796?
+Answer:","[' Mungo Park', ' Nahum Tate']",0
+116,"What is a correct answer to the following question?
+Question: Unusually for a lady, Peruvian Conchita Cintron who died aged 86 in February 2009, was a famous what?
+Answer:","[' Toreo', ' Hermann William Goering']",0
+117,"What is a correct answer to the following question?
+Question: ""Who has hosted the US series """"Power of 10"""", """"Whose Line Is It Anyway?"""" and """"The Price Is Right""""?""
+Answer:","[' Priam of Troy', ' Drew Carey']",1
+118,"What is a correct answer to the following question?
+Question: The Forest of Arden is in which English county?
+Answer:","[' Spirit of Saint Louis', ' Warwickshire']",1
+119,"What is a correct answer to the following question?
+Question: What is the name of the coronation anthem composed by Handel using texts from the King James Bible that has been sung at every British coronation service since 1727?
+Answer:","[' Tikrit, Iraq', ' Zadok the Priest']",1
+120,"What is a correct answer to the following question?
+Question: Who conceived the effective communication theory 'Three Modes of Persuasion' (comprising Logos, Ethos and Pathos)?
+Answer:","["" Aristotle's"", ' G.B.E.']",0
+121,"What is a correct answer to the following question?
+Question: In which city is George Eliot’s novel ‘Romola’ set?
+Answer:","[' The Lexington', ' Florentine']",1
+122,"What is a correct answer to the following question?
+Question: Which car manufacturer produces a model called the RAV4?
+Answer:","[' Toyopet', ' Djokovic']",0
+123,"What is a correct answer to the following question?
+Question: Queen Joan Of Navarre was the wife of which English king ?
+Answer:","[' Hijra (disambiguation)', ' King Henry IV']",1
+124,"What is a correct answer to the following question?
+Question: In which of Thomas Hardy's novels is Bathsheba Everdene the heroine?
+Answer:","[' Far from the Madding Crowd', ' Bernard']",0
+125,"What is a correct answer to the following question?
+Question: Which literary location did John Jarndyce own?
+Answer:","[' John Jarndyce', ' Cashville, Tennessee']",0
+126,"What is a correct answer to the following question?
+Question: Which former British PM was christened “Grocer” by Private Eye?
+Answer:","[' Edward Heath', ' Lake havasu']",0
+127,"What is a correct answer to the following question?
+Question: According to the Scaffold song 'Lily the Pink', who had 'terrible freckles'?
+Answer:","[' Pumpkin Cultivation', ' Jennifer Eccles']",1
+128,"What is a correct answer to the following question?
+Question: Which rock star did Cindy Crawford name her first son after?
+Answer:","[' Brazil', ' Presley']",1
+129,"What is a correct answer to the following question?
+Question: Which actress played The Sculptress on TV?
+Answer:","[' Uthium', ' Pauline Quirke']",1
+130,"What is a correct answer to the following question?
+Question: The writer Tolstoy fundraised for, and donated the proceeds from some of his writing towards, helping the practitioners of what religious movement?
+Answer:","[' Doukhobor', ' Upper Nile Dinka massacre']",0
+131,"What is a correct answer to the following question?
+Question: What was the name of the ferry that capsized after leaving Zeebrugge in 1987
+Answer:","[' JAMES', ' MS Herald of Free Enterprise']",1
+132,"What is a correct answer to the following question?
+Question: ""Who wrote the 1999 novel """"Chocolat"""" set in the French village of Lansquenet-sous-Tannes?""
+Answer:","[' Clockwise', ' Joanne Harris']",1
+133,"What is a correct answer to the following question?
+Question: Michael, John, Steven and Susan are the children of which former US President?
+Answer:","[' Welsh nation', ' Gerald Ford']",1
+134,"What is a correct answer to the following question?
+Question: Prince Charles founded what organisation in 1976 to help young employed people?
+Answer:","[' Australian citizens', "" The Prince's Trust""]",1
+135,"What is a correct answer to the following question?
+Question: Harvey Littleton, Dominick Labino, Dale Chihuly, Dante Marioni, Fritz Driesbach and Marvin Lipofsky are associated with producing art from what material?
+Answer:","[' Glass', ' Marvel Nemesis: The Imperfects']",0
+136,"What is a correct answer to the following question?
+Question: Where is Petra, an archaeological site with rock-cut architecture and designated a World Heritage Site 1985, that was built by the Nabataeans as their capital city around 100 BC?
+Answer:","[' Jordan', ' Normal Bean']",0
+137,"What is a correct answer to the following question?
+Question: Who gets Brer Rabbit in a terrible tangle in the stories by Joel Chandler Harris?
+Answer:","[' Tar Baby', ' Rocco Marchegiano']",0
+138,"What is a correct answer to the following question?
+Question: In which 1993 film does a boy called Jonah write to a woman called Annie, asking her to meet his father at the Empire State building on St. Valentine's Day?
+Answer:","[' Sleepless in Seattle', ' Jean Alexander']",0
+139,"What is a correct answer to the following question?
+Question: Which amphibian did the ancients believe could live in fire?
+Answer:","[' Salamanders', ' 🚉']",0
+140,"What is a correct answer to the following question?
+Question: How many squares does a Rubik’s Cube have on each side?
+Answer:","[' 9', ' In labor']",0
+141,"What is a correct answer to the following question?
+Question: Snakes are the symbol of which saint?
+Answer:","[' War of the roses', ' Saint Patrick']",1
+142,"What is a correct answer to the following question?
+Question: What is the name of the agreement under which passport controls have been abolished in 22 EU and 4 non-EU states?
+Answer:","[' Schengen', ' Dancing in the Dark (song)']",0
+143,"What is a correct answer to the following question?
+Question: Green plover and peewit are alternative names for which British bird?
+Answer:","[' Lapwing', ' Bunny boiler']",0
+144,"What is a correct answer to the following question?
+Question: A sophomore is a student in which year of a US college?
+Answer:","[' Sudan', ' Second']",1
+145,"What is a correct answer to the following question?
+Question: What type of creature is a saiga?
+Answer:","[' Salernum', ' Antelope']",1
+146,"What is a correct answer to the following question?
+Question: Which British comedian plays headmaster Mr Gilbert in the UK television series ‘The Inbetweeners’?
+Answer:","[' Greg Davies', ' Hull']",0
+147,"What is a correct answer to the following question?
+Question: Which was the first group to have a number one hit in the USA for Motown Records?
+Answer:","[' Marvelettes', ' Marlon Brando Jr.']",0
+148,"What is a correct answer to the following question?
+Question: The substances isoflurane, desflurane, nitrous oxide, and sevoflurane are used as what in medicine?
+Answer:","[' General james wolfe', ' Anaesthetic']",1
+149,"What is a correct answer to the following question?
+Question: Which train is the holder of the world speed record for steam locomotives?
+Answer:","[' Red junior', ' Mallard']",1
+150,"What is a correct answer to the following question?
+Question: Edward Elgar was appointed Master of the King’s Musick to which monarch?
+Answer:","[' George V of the United Kingdom', ' Gheevarghese']",0
+151,"What is a correct answer to the following question?
+Question: What are the tetrahedron, cube, octahedron, dodecahedron and icosahedron known as?
+Answer:","[' Mad Hatter (disambiguation)', ' Platonic solids']",1
+152,"What is a correct answer to the following question?
+Question: Also a plumber, what is the name of 'Super Mario's' older brother?
+Answer:","[' Luigi', ' Londonderry on the Foyle']",0
+153,"What is a correct answer to the following question?
+Question: The stone Lapis Lazuli is used to make which shade of blue pigment for artists?
+Answer:","[' Ultramarine', ' Badger State']",0
+154,"What is a correct answer to the following question?
+Question: ""Who """"was born in a cross-fire hurricane"""" and """"howled at my ma in the driving rain""""?""
+Answer:","[' Staphisagria', "" Jumpin' Jack Flash""]",1
+155,"What is a correct answer to the following question?
+Question: Who was the Republican Presidential Nominee in the 2008 American Election?
+Answer:","[' Antarctica of The North', ' John McCain']",1
+156,"What is a correct answer to the following question?
+Question: The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)
+Answer:","[' Firebird', ' Terence Alan Patrick Seán Milligan KBE']",0
+157,"What is a correct answer to the following question?
+Question: In medicine, Daltonism (or deuteranopia) is better known by what name?
+Answer:","[' Color vision deficiencies', ' 101 Dalmatians (1961 film)']",0
+158,"What is a correct answer to the following question?
+Question: The fictitious South American city/country El Dorado was abundant with?
+Answer:","[' Pioneer F', ' Gold']",1
+159,"What is a correct answer to the following question?
+Question: From which European country does Limburger cheese originate?
+Answer:","[' Belgian', ' Elizabet']",0
+160,"What is a correct answer to the following question?
+Question: In 1968, who did radical feminist Valerie Solanas shoot and wound as he entered his New York studio?
+Answer:","[' Lean Meat', ' Warhol']",1
+161,"What is a correct answer to the following question?
+Question: What is the nickname of the frontiersman Nathaniel Poe, played by Daniel Day Lewis, in the 1992, film ‘The Last of the Mohicans’?
+Answer:","[' Hawkeye', "" I'll Stand by You (Pretenders song)""]",0
+162,"What is a correct answer to the following question?
+Question: ‘Corylus’ is the Latin name for which plant?
+Answer:","[' Sylvester Stalone', ' Hazel']",1
+163,"What is a correct answer to the following question?
+Question: By what nickname was English serial killer and armed robber Donald Neilson known?
+Answer:","[' The Black Panther', ' Grasslands of the Sahara']",0
+164,"What is a correct answer to the following question?
+Question: According to Arthurian legend, who was Sir Galahad's father?
+Answer:","[' Lancelot du Lac', ' Peter, Peter pumpkin eater']",0
+165,"What is a correct answer to the following question?
+Question: In what year did Edward Vlll abdicate?
+Answer:","[' Three bells', ' 1936']",1
+166,"What is a correct answer to the following question?
+Question: Which author created the character Moll Flanders?
+Answer:","[' Daniel Defoe', ' 18']",0
+167,"What is a correct answer to the following question?
+Question: What is the middle name of US actor Samuel L Jackson?
+Answer:","[' Hull', ' Leroy']",1
+168,"What is a correct answer to the following question?
+Question: What is the name given to a sculpted female figure serving as an architectural support taking the place of a column or a pillar?
+Answer:","[' Zimbabwean cultural practices', ' Karyatid']",1
+169,"What is a correct answer to the following question?
+Question: What is the 'Pritzker Prize' awarded for?
+Answer:","[' Architecture', ' Durham (disambiguation)']",0
+170,"What is a correct answer to the following question?
+Question: The official birthday of British monarch Queen Elizabeth II falls during which month in the UK?
+Answer:","[' June', ' Salingerian']",0
+171,"What is a correct answer to the following question?
+Question: In 2010 British ex-soldier Ed Stafford became the first person (ever known) to walk the entire length of what river?
+Answer:","[' Treaty of Utrecht (1713)', ' Amazon']",1
+172,"What is a correct answer to the following question?
+Question: In which year was the storming of the Bastille, which started the French Revolution?
+Answer:","[' 1789', "" Bird's Nest (disambiguation)""]",0
+173,"What is a correct answer to the following question?
+Question: Which African city is served by O R Tambo airport?
+Answer:","[' Johannesburg', ' J Constable']",0
+174,"What is a correct answer to the following question?
+Question: Which French author wrote the fairy tales ‘Little Red Riding Hood’ ‘Sleeping Beauty’ and ‘Puss in Boots’?
+Answer:","[' Charles Perrault', ' Mile high building']",0
+175,"What is a correct answer to the following question?
+Question: What was the name of the car ferry that capsized whilst leaving Zeebrugge in 1987?
+Answer:","[' Victor (surname)', ' MS Herald of Free Enterprise']",1
+176,"What is a correct answer to the following question?
+Question: The white pinwheel shaped Tiare is the national flower of which South Pacific island group?
+Answer:","[' The Fifties', ' French Polynesia']",1
+177,"What is a correct answer to the following question?
+Question: What movie takes place at Shermer High School's detention?
+Answer:","[' Doo wop gold', ' Claire Standish']",1
+178,"What is a correct answer to the following question?
+Question: What is the name of the long narrow island off the east coast of Russia?
+Answer:","[' Sakhalin', ' G. B. Shaw']",0
+179,"What is a correct answer to the following question?
+Question: ""Which is the Muppet character who appeared in """"The Muppet Show"""" from the third season and in a number of Muppet films, who throws fish which return to him and plays a fish organ (a line of fish that, when squeezed, each gargle a different note)?""
+Answer:","[' The Scottish Nation', ' The Muppet Newsman']",1
+180,"What is a correct answer to the following question?
+Question: The 1960’s television series ‘Lost in Space’ is set in which year?
+Answer:","[' Tequila Manhattan', ' 1997']",1
+181,"What is a correct answer to the following question?
+Question: How many lines are there in a sonnet?
+Answer:","[' FinlanD', ' Fourteen']",1
+182,"What is a correct answer to the following question?
+Question: What is Australia's largest island?
+Answer:","[' New Castle', ' Tasmanian']",1
+183,"What is a correct answer to the following question?
+Question: Since the foundation of the Football League which is the only team from outside the League (or Premier League) to win the FA Cup, doing so in 1901?
+Answer:","[' Hotspur', ' Mexican Republic']",0
+184,"What is a correct answer to the following question?
+Question: Which crusade was led by Philip II Augustus of France and Richard I of England?
+Answer:","[' John Christie (footballer)', ' Third Crusade']",1
+185,"What is a correct answer to the following question?
+Question: What is the pole called which is used for propelling a barge or punt?
+Answer:","[' Quant', ' Marion Tweedy']",0
+186,"What is a correct answer to the following question?
+Question: Between 1987 and 2006, Ratu Sir Kamisese Mara, Commodore Frank Bainimarama, Mahendra Chaudhry, Laisenia Qarase, Lieutenant Colonel Sitiveni Rabuka, George Speight and Ratu Josefa Iloilo were involved in the politics of which country?
+Answer:","[' Fiji Islands', ' Beetroot']",0
+187,"What is a correct answer to the following question?
+Question: The highest mountain in North America is part of which mountain range?
+Answer:","[' FIAT', ' Alaska Range']",1
+188,"What is a correct answer to the following question?
+Question: In the US television show ‘The Sopranos’, what is the name of Tony Soprano’s psychiatrist?
+Answer:","[' Snoop Dogg (rapper)', ' Dr. Jennifer Melfi']",1
+189,"What is a correct answer to the following question?
+Question: Who played the tenth Doctor?
+Answer:","[' Bull Run, Virginia', ' David Tennant']",1
+190,"What is a correct answer to the following question?
+Question: Which nation boasts the world's longest running TV sports show, Hockey Night, first aired 1952?
+Answer:","[' Canada', ' Flighted pet parrots']",0
+191,"What is a correct answer to the following question?
+Question: The sea between Australia and New Zealand is named after an explorer of what nationality?
+Answer:","[' The Dutch', ' John Patrick McEnroe Jr.']",0
+192,"What is a correct answer to the following question?
+Question: What is the English translation of the place name Las Vegas?
+Answer:","[' Meadow', ' Dergue']",0
+193,"What is a correct answer to the following question?
+Question: Who lived from 1895 to 1973, directing films such as the 1929 version of Stagecoach, The Grapes of Wrath and the Quiet Man?
+Answer:","[' Córdoba (disambiguation)', ' John Ford']",1
+194,"What is a correct answer to the following question?
+Question: How many Copa de America winners medals did Pele and Maradona win between them?
+Answer:","[' 0', ' US Park Service']",0
+195,"What is a correct answer to the following question?
+Question: Which motorway links Coventry to Leicester?
+Answer:","[' M69', ' Arakne']",0
+196,"What is a correct answer to the following question?
+Question: In Rugby Union, how high, in metres, is the crossbar?
+Answer:","[' 3', ' Owen Glendower']",0
+197,"What is a correct answer to the following question?
+Question: What is the most common chemical used in nail polish remover?
+Answer:","[' Aceton', ' The Big Sleep (novel)']",0
+198,"What is a correct answer to the following question?
+Question: What sort of noun are words such as ‘sadness’, ‘humour’, and ‘triumph’?
+Answer:","[' Abstract', "" Robinson's""]",0
+199,"What is a correct answer to the following question?
+Question: ""Who is a South African serial killer who committed the """"ABC Murders"""" between 1994 and 1995, with over 30 victims?""
+Answer:","[' Orangeish blacks', ' Moses Sithole']",1
+200,"What is a correct answer to the following question?
+Question: What are motorways called in Germany ?
+Answer:","[' German autobahn', ' Ditloid']",0
+201,"What is a correct answer to the following question?
+Question: The Greek city Lacedaemon, (hence 'laconic' = minimal yet efficient language), also produced a word for frugality, from its more common name of what?
+Answer:","[' Jean Biden', ' Lacedaemon']",1
+202,"What is a correct answer to the following question?
+Question: The Welsh river Elwy burst its banks in November 2012, flooding much of which city?
+Answer:","[' Llanelwy', ' Millineries']",0
+203,"What is a correct answer to the following question?
+Question: ""What Latin expression means """"Seize the Day""""?""
+Answer:","[' Carpe diem', ' Al Cernick']",0
+204,"What is a correct answer to the following question?
+Question: What is the name of the strait between New Guinea and the Australian mainland?
+Answer:","[' Torres Strait', ' ഭാരത മഹാരാജ്യം']",0
+205,"What is a correct answer to the following question?
+Question: What was first demonstrated by Alexander Graham Bell at the Philadelphia Exhibition in 1876?
+Answer:","[' Martin (singer)', ' Telephone']",1
+206,"What is a correct answer to the following question?
+Question: In Greek mythology, who were Arges, Brontes and Steropes?
+Answer:","[' Alacant', ' Cyclopes']",1
+207,"What is a correct answer to the following question?
+Question: The original United Artists film studio was founded in 1919 by D.W. Griffith, Mary Pickford, Douglas Fairbanks and who else?
+Answer:","[' EGY', ' Charlie Chaplin']",1
+208,"What is a correct answer to the following question?
+Question: Who wrote the opera Carmen?
+Answer:","[' İsmail', ' Bizet']",1
+209,"What is a correct answer to the following question?
+Question: Which American played in his 10th Ryder Cup in 2014?
+Answer:","[' Silver-backs', ' Phil Mickelson']",1
+210,"What is a correct answer to the following question?
+Question: In which US state was the American Declaration of Independence signed on 4th July 1776?
+Answer:","[' Brutus Malfoy', ' Pennsylvania, United States of America']",1
+211,"What is a correct answer to the following question?
+Question: Who wrote 'Confessions of an English Opium Eater'?
+Answer:","[' Carmen Silvera', ' De Quincey']",1
+212,"What is a correct answer to the following question?
+Question: Mike Joyce, Johnny Marr, Stephen Morrisey and Andy Rourke were members of which pop group?
+Answer:","[' Dale Hibbert', ' Good Will']",0
+213,"What is a correct answer to the following question?
+Question: Throughout the 80s and 90s Phil Collins recorded on which record label?
+Answer:","[' D/1993 F2', ' Atlantic']",1
+214,"What is a correct answer to the following question?
+Question: What is the full name of the train robber played by Phil Collins in a 1988 movie?
+Answer:","[' Prize fight', ' Buster Edwards']",1
+215,"What is a correct answer to the following question?
+Question: Who built the original Palace of Versailles that was enlarged by Louis XIV?
+Answer:","[' Louis XIII', ' Wanton']",0
+216,"What is a correct answer to the following question?
+Question: Stella Rimington was the first female head of which organisation?
+Answer:","[' Bart Star', ' British Security Service']",1
+217,"What is a correct answer to the following question?
+Question: How meny times have Liverpool won the Europion Cup?
+Answer:","[' Five', ' Bure']",0
+218,"What is a correct answer to the following question?
+Question: With what area of expertise do you associate the name of Annie Leibovitz?
+Answer:","[' Robert Hawke', ' Photographic']",1
+219,"What is a correct answer to the following question?
+Question: ""Which European capital's English name is taken from """"black pool"""" in its native language?""
+Answer:","[' Dublin', ' Dan Craig']",0
+220,"What is a correct answer to the following question?
+Question: During which year was Washington DC declared the capital of the USA?
+Answer:","[' Till (seed)', ' 1790']",1
+221,"What is a correct answer to the following question?
+Question: Which city was known as Edo before assuming its current name in 1868?
+Answer:","[' Tokyo', ' The Banana Splits and Friends Show']",0
+222,"What is a correct answer to the following question?
+Question: In which year did the Battle of Gettysburg take place?
+Answer:","[' 1863', ' MILLWALL']",0
+223,"What is a correct answer to the following question?
+Question: Bithynia was an ancient province on which sea?
+Answer:","[' Euxine', ' Galblader']",0
+224,"What is a correct answer to the following question?
+Question: 1986 film starring Goldie Hawn as a High School football coach.
+Answer:","[' Atomic number 1', ' Wildcats']",1
+225,"What is a correct answer to the following question?
+Question: Petroliam Nasional Berhad, the huge Malaysian gas/oil corporation gave its abbreviated name to what world-leading Kuala Lumpa landmark?
+Answer:","[' Petronas Tower', ' Teheran']",0
+226,"What is a correct answer to the following question?
+Question: Which city in Saxony was known as Karl-Marx-Stadt from 1953 until 1990?
+Answer:","[' Karl-Marx-Stadt', ' Liberal Toryism']",0
+227,"What is a correct answer to the following question?
+Question: Truax Field international airport is in which US state?
+Answer:","[' Wisconsin', ' Icing (disambiguation)']",0
+228,"What is a correct answer to the following question?
+Question: The opera Gloriana is by which English composer?
+Answer:","[' List of Cluedo characters', ' Britten']",1
+229,"What is a correct answer to the following question?
+Question: In the 80s who wrote the novel Empire of The Sun?
+Answer:","[' Tiramisu', ' J. G. Ballard']",1
+230,"What is a correct answer to the following question?
+Question: In 'Harry Potter and the Philosopher's Stone' what is the name of the three-headed dog provided by 'Hagrid' to guard the trapdoor leading to the chamber where the stone was kept?
+Answer:","[' Fluffy', ' The Specials']",0
+231,"What is a correct answer to the following question?
+Question: What is the name of cartoon character Dora the Explorer's monkey?
+Answer:","[' Pub with no beer', ' Boot']",1
+232,"What is a correct answer to the following question?
+Question: How many Enigma Variations did Edward Elgar compose?
+Answer:","[' Fourteen', ' ISO 3166-1:CL']",0
+233,"What is a correct answer to the following question?
+Question: What was the name given to the German annexation of Austria in 1938?
+Answer:","[' Fisher', ' Anschluß']",1
+234,"What is a correct answer to the following question?
+Question: The Canary Islands in the Atlantic are named after what?
+Answer:","[' Forty-ninth State', ' Dogs']",1
+235,"What is a correct answer to the following question?
+Question: The Nazi regime was Germany's Third Reich; which was the first Reich?
+Answer:","[' The Jump', ' Germany in the 15th century']",1
+236,"What is a correct answer to the following question?
+Question: Noel Coward died in 1973. In which country?
+Answer:","[' Paramount', ' Jamaica']",1
+237,"What is a correct answer to the following question?
+Question: A 'triskelion', a symbol consisting of three bent human legs is featured on the flag of which British crown dependency?
+Answer:","[' Jigsaw puzzles', ' Cuisine of the Isle of Man']",1
+238,"What is a correct answer to the following question?
+Question: Which Asian country was once called Siam?
+Answer:","[' LIVERPOOL', ' Kingdom of Thailand']",1
+239,"What is a correct answer to the following question?
+Question: Tewkesbury Mustard is mentioned in which Shakespeare play?
+Answer:","[' Henry IV', ' Bristol (England)']",0
+240,"What is a correct answer to the following question?
+Question: Who gave Harry Potter his first kiss?
+Answer:","[' Keirin', ' Cho Chang']",1
+241,"What is a correct answer to the following question?
+Question: ""Which British sitcom was retitled """"Good Neighbors"""" when it played in the United States?""
+Answer:","[' A Rabbit', ' The Good Life (album)']",1
+242,"What is a correct answer to the following question?
+Question: Which body of water was previously called the Euxine, after early colonisation of its southern coastline by Greeks, derived from their word for 'hospitable'?
+Answer:","[' Janus (mythology)', ' Black sea']",1
+243,"What is a correct answer to the following question?
+Question: Who was the American President when the Berlin Wall was constructed?
+Answer:","[' Lousiana purchase', ' President John F. Kennedy']",1
+244,"What is a correct answer to the following question?
+Question: The Walker Art Gallery is in which UK city?
+Answer:","[' Oxford Street Christmas lights', ' Liverpool']",1
+245,"What is a correct answer to the following question?
+Question: Who was British Prime Minister at the time of the first Aldermaston ban the bomb march?
+Answer:","[' Harold Macmillan', ' Stevie Smith']",0
+246,"What is a correct answer to the following question?
+Question: Which movie was a biopic about the life of David Helfgott?
+Answer:","[' Iloanthe', ' Shine']",1
+247,"What is a correct answer to the following question?
+Question: What is the name of the cartoon cat that is always chasing Tweety Pie?
+Answer:","[' Sylvester', ' Сърбия']",0
+248,"What is a correct answer to the following question?
+Question: What is the derived SI unit of pressure?
+Answer:","[' Pascal', ' John Tyler (1819–1896)']",0
+249,"What is a correct answer to the following question?
+Question: The plant Atropa Belladonna is better known as what?
+Answer:","[' Atropa belladonna', ' The Piper at the Gates of Dawn']",0
+250,"What is a correct answer to the following question?
+Question: Which musical term means ‘very loud’?
+Answer:","[' Dynamics (music)', ' Ctrl v']",0
+251,"What is a correct answer to the following question?
+Question: Which society was founded in 1946 by barrister Roland Berrill & scientist Dr Lance Ware?
+Answer:","[' Portogało', ' Mensan']",1
+252,"What is a correct answer to the following question?
+Question: Name the author of the 1993 Booker prize-winning novel `Paddy Clarke Ha Ha Ha'.
+Answer:","[' Roddy Doyle', ' Sestiere (Venice)']",0
+253,"What is a correct answer to the following question?
+Question: Who was the last Anglo-Saxon king of England?
+Answer:","[' Harold II', ' River cave']",0
+254,"What is a correct answer to the following question?
+Question: Which art movement, founded in a Zurich caf during World War I and consolidated at a meeting held in Paris in 1920, was led by Tristan Tzara?
+Answer:","[' Monument to the Great Fire of London', ' Dada movement']",1
+255,"What is a correct answer to the following question?
+Question: Creme Anglaise is the French version of which English dessert item?
+Answer:","[' Crème pâtissière', ' Little Solsbury Hill']",0
+256,"What is a correct answer to the following question?
+Question: The Earth's Equator is approximately how many millions of metres in length?
+Answer:","[' The Hospitality State', ' 40']",1
+257,"What is a correct answer to the following question?
+Question: What is the most common surname in Korea?
+Answer:","[' Kim', "" Knight's tale""]",0
+258,"What is a correct answer to the following question?
+Question: A colony of Britain until 1956, with the capital city of Khartoum, the south of what African country became an independent state in July 2011?
+Answer:","[' Sudan', ' W. B. Yates']",0
+259,"What is a correct answer to the following question?
+Question: ""Which opera features the """"Humming Chorus""""?""
+Answer:","[' Cosmopolitan (disambiguation)', ' Madama Butterfly']",1
+260,"What is a correct answer to the following question?
+Question: ""Which Glasgow group signed to Creation Records and recorded their debut single, """"All Fall Down"""", in 1985?""
+Answer:","[' The Final Frontier (album)', ' Primal Scream']",1
+261,"What is a correct answer to the following question?
+Question: When it was a first performed at the Abbey Theatre in Dublin in 1907, which play caused rioting in the streets because of objections to the portrayal of rural Irish Catholic immorality?
+Answer:","[' Playboy Riots', ' Katheryn Parre']",0
+262,"What is a correct answer to the following question?
+Question: Tom Parker, who famously managed Elvis Presley, was known by the title of, and as 'the..'?
+Answer:","[' Cable Stayed', ' Colonel']",1
+263,"What is a correct answer to the following question?
+Question: What royal house has ruled Monaco since the Middle Ages?
+Answer:","[' Anthony Perkins', ' Grimaldi']",1
+264,"What is a correct answer to the following question?
+Question: ""Whose autobiography was entitled """"Step Inside Love""""?""
+Answer:","[' Frankfort-on-the-Main', ' Cilla Black']",1
+265,"What is a correct answer to the following question?
+Question: What railway line is green on the traditional map of the London Underground (Tube)?
+Answer:","[' District line', ' Seattle, Washington.']",0
+266,"What is a correct answer to the following question?
+Question: The English cities of Gloucester and Worcester are on which river?
+Answer:","[' Court (volleyball)', ' Severn Vale']",1
+267,"What is a correct answer to the following question?
+Question: Who played Dr. Doug Ross on the TV show E.R.?
+Answer:","[' George Clooney', ' Flag of the commonwealth games federation']",0
+268,"What is a correct answer to the following question?
+Question: Flanders is part of what country?
+Answer:","[' Arxintina', ' Kingdom of Belgium']",1
+269,"What is a correct answer to the following question?
+Question: What is the name of the character played by Nicole Kidman in the film 'Moulin Rouge'?
+Answer:","[' Satine', ' Cream savers']",0
+270,"What is a correct answer to the following question?
+Question: Who first drew Mickey Mouse when ?Disney first supplied the voice?
+Answer:","[' Ub Iwerks', ' 1990']",0
+271,"What is a correct answer to the following question?
+Question: Indian corporation Tata bought what famous UK-twin-branded motor company from Ford in 2008?
+Answer:","[' Brought in dead', ' Jaguar Land Rover']",1
+272,"What is a correct answer to the following question?
+Question: Of which US state is Springfield the capital?
+Answer:","[' Sunny Bono', ' Illinois']",1
+273,"What is a correct answer to the following question?
+Question: How many scottish football league teams names end in United?
+Answer:","[' Rachel Riley', ' 3']",1
+274,"What is a correct answer to the following question?
+Question: Bruno, nephew of which late Formula 1 legend signed to drive for the Williams team?
+Answer:","[' Ayrton Senna', ' Acetic (acid)']",0
+275,"What is a correct answer to the following question?
+Question: Who was king of the Anglo-Saxon kingdom of Wessex from 871 to 899, notable for his defence of the Anglo-Saxon kingdoms of southern England against the Vikings, and for improving his kingdom's legal system and military structure?
+Answer:","[' Alfred', ' Renate']",0
+276,"What is a correct answer to the following question?
+Question: Maurice Cole was better known as which comedian?
+Answer:","[' Kenny Everett', ' Parliament Hill, Ottawa']",0
+277,"What is a correct answer to the following question?
+Question: Which is the first of the four stations on a standard Monopoly Board after passing Go?
+Answer:","[' Dennisville', ' Kings Cross']",1
+278,"What is a correct answer to the following question?
+Question: What was the name of the lion in C S Lewis's book 'The Lion, The Witch and The Wardrobe'?
+Answer:","[' Aslan', ' Jpanese']",0
+279,"What is a correct answer to the following question?
+Question: Which mythical hero wielded the magical sword 'Hrunting'?
+Answer:","[' Rioja', ' Beowulf']",1
+280,"What is a correct answer to the following question?
+Question: What is the common name of the cooking ingredient from the hard fat of kidneys and loins of oxen, famously sold under the Atora brand?
+Answer:","[' 3.1415', ' Suet']",1
+281,"What is a correct answer to the following question?
+Question: The navy from which country destroyed the Russian fleet at Port Arthur after a number of attacks in 1904 and 1905?
+Answer:","[' Japan', ' Oracle of Nebraska']",0
+282,"What is a correct answer to the following question?
+Question: ""In Scotland and northern England, what is a """"bairn""""?""
+Answer:","[' Treasure hunt (disambiguation)', ' Child']",1
+283,"What is a correct answer to the following question?
+Question: A novel by General Lew Wallace published in 1880 was made into which films in 1926 (a silent movie) and 1959 (produced by William Wyler)?
+Answer:","[' Cutback (surfing move)', ' Ben-Hur']",1
+284,"What is a correct answer to the following question?
+Question: Which Scottish engineer gave the first public demonstration of TV?
+Answer:","[' Logie Baird', ' Russo-Turkish War, 1853-56']",0
+285,"What is a correct answer to the following question?
+Question: The novelist Dorothy L Sayers produced which advertising symbol for Guinness?
+Answer:","[' Toucans', "" R. White's Lemonade""]",0
+286,"What is a correct answer to the following question?
+Question: Filbert Fox is the mascot of which English football club?
+Answer:","[' Lord Walter Raleigh', ' Leicester City Football Club']",1
+287,"What is a correct answer to the following question?
+Question: The first name of which science fiction hero created by Alex Raymond was retitled as 'Speed' in Australia to avoid a negative connotation of the word by which we know him better?
+Answer:","[' Flash Gordon', ' Sir Frank Whittle']",0
+288,"What is a correct answer to the following question?
+Question: In which field of the arts has American born Annie Leibovitz achieved fame?
+Answer:","[' 21', ' Photographic']",1
+289,"What is a correct answer to the following question?
+Question: Who wrote the book 'Elmer Gantry'?
+Answer:","[' Sinclair Lewis', ' ISO 3166-1:CH']",0
+290,"What is a correct answer to the following question?
+Question: Which British TV comedy series of the 1970s and early 1980s (74 episodes) was co-created and co-written by and co-starred Tim Brooke-Taylor, Graeme Garden and Bill Oddie?
+Answer:","[' The Goodies', ' Pain (biology)']",0
+291,"What is a correct answer to the following question?
+Question: In which country can you find Westmorland in Cornwall and Manchester in Middlesex?
+Answer:","[' The Titans (disambiguation)', ' Jamaica']",1
+292,"What is a correct answer to the following question?
+Question: Who played Thelma in the UK television series ‘The Likely Lads’?
+Answer:","[' Bridge of Tay', ' Brigit Forsyth']",1
+293,"What is a correct answer to the following question?
+Question: What is an orthodox Mahommedan sect whose name derives from a body of traditional teaching which has equal authority with the Koran?
+Answer:","[' Mary (album)', ' Sunnis']",1
+294,"What is a correct answer to the following question?
+Question: ""Charlie Sheen starred as which character in the TV series """"Two and a Half Men""""?""
+Answer:","[' Charlie', ' Georges Jean Raymond Pompidou']",0
+295,"What is a correct answer to the following question?
+Question: Dr Paul Gachet was the subject of two famous paintings by which artist?
+Answer:","[' OMC', ' Vincent van Gogh']",1
+296,"What is a correct answer to the following question?
+Question: What were Pangaea and Gondwana?
+Answer:","[' Continents', ' Fourteen']",0
+297,"What is a correct answer to the following question?
+Question: Which character has been played by Jack Lord, Cec Linder, Rik Van Nutter, Norman Burton, David Hedison, John Terry, David Hedison and Jeffrey Wright?
+Answer:","[' Captain Flint', ' Felix Leiter']",1
+298,"What is a correct answer to the following question?
+Question: Which order of insects includes the true flies, mosquitoes, gnats and midges?
+Answer:","[' Southampton', ' Fly']",1
+299,"What is a correct answer to the following question?
+Question: The 1827 Battle of Navarino in which the Ottoman/Egyptian armada was destroyed by a combined British, French and Russian navy is notable for being the last battle to be fought with sailing ships. It is a conflict in the war of independence of which country?
+Answer:","[' PAUL SAMUELSON', ' Hellenic Republic']",1

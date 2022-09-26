@@ -1,0 +1,101 @@
+sample_id,prompt,classes,answer_index
+0,Complete the sentence with the appropriate ending. The man turned on the faucet.  so...,"[' The toilet filled with water.', ' Water flowed from the spout.']",1
+1,Complete the sentence with the appropriate ending. The girl found a bug in her cereal.  so...,"[' She poured milk in the bowl.', ' She lost her appetite.']",1
+2,Complete the sentence with the appropriate ending. The woman retired.  so...,"[' She received her pension.', ' She paid off her mortgage.']",0
+3,Complete the sentence with the appropriate ending. I wanted to conserve energy.  so...,"[' I swept the floor in the unoccupied room.', ' I shut off the light in the unoccupied room.']",1
+4,Complete the sentence with the appropriate ending. The hamburger meat browned.  because...,"[' The cook froze it.', ' The cook grilled it.']",1
+5,Complete the sentence with the appropriate ending. I doubted the salesman's pitch.  so...,"[' I turned his offer down.', ' He persuaded me to buy the product.']",0
+6,Complete the sentence with the appropriate ending. I decided to stay home for the night.  because...,"[' The forecast called for storms.', ' My friends urged me to go out.']",0
+7,Complete the sentence with the appropriate ending. My eyes became red and puffy.  because...,"[' I was sobbing.', ' I was laughing.']",0
+8,Complete the sentence with the appropriate ending. The flame on the candle went out.  because...,"[' I blew on the wick.', ' I put a match to the wick.']",0
+9,Complete the sentence with the appropriate ending. The man drank heavily at the party.  so...,"[' He had a headache the next day.', ' He had a runny nose the next day.']",0
+10,Complete the sentence with the appropriate ending. The bowling ball knocked over the bowling pins.  because...,"[' The man rolled the bowling ball down the alley.', ' The man dropped the bowling ball on his foot.']",0
+11,Complete the sentence with the appropriate ending. The community learned of the man's death.  because...,"[' His family buried him in the cemetery.', ' His obituary appeared in the newspaper.']",1
+12,Complete the sentence with the appropriate ending. My computer crashed.  so...,"[' I installed new speakers.', ' I lost all my data.']",1
+13,Complete the sentence with the appropriate ending. The woman resigned from her job.  because...,"[' She aspired to hold an executive position in the firm.', ' She believed her superiors were acting unethically.']",1
+14,Complete the sentence with the appropriate ending. The player caught the ball.  because...,"[' Her teammate threw it to her.', ' Her opponent tried to intercept it.']",0
+15,Complete the sentence with the appropriate ending. The judge pounded the gavel.  because...,"[' The courtroom broke into uproar.', ' The jury announced its verdict.']",0
+16,Complete the sentence with the appropriate ending. The woman banished the children from her property.  because...,"[' The children hit a ball into her yard.', ' The children trampled through her garden.']",1
+17,Complete the sentence with the appropriate ending. The kidnappers released the hostage.  because...,"[' They accepted ransom money.', ' They escaped from jail.']",0
+18,Complete the sentence with the appropriate ending. The cook's eyes watered.  because...,"[' He ran out of onions.', ' He cut an onion.']",1
+19,Complete the sentence with the appropriate ending. The woman ran her finger under cold water.  because...,"[' She burned her finger on the toaster.', ' She put a diamond ring on her finger.']",0
+20,Complete the sentence with the appropriate ending. The student misspelled the word.  so...,"[' The teacher corrected her.', ' The teacher dismissed her.']",0
+21,Complete the sentence with the appropriate ending. I regained composure from my fit of anger.  because...,"[' My heart pounded.', ' I took deep breaths.']",1
+22,Complete the sentence with the appropriate ending. I put my hands under the running faucet.  so...,"[' The soap rinsed off my hands.', ' The water splashed in my face.']",0
+23,Complete the sentence with the appropriate ending. The man dressed in his best suit.  because...,"[' He scheduled a meeting with an important client.', ' His wife bought him a new tie.']",0
+24,Complete the sentence with the appropriate ending. The man confessed his love for the woman.  so...,"[' The woman rejected him.', ' The woman envied him.']",0
+25,Complete the sentence with the appropriate ending. The driver got a flat tire.  because...,"[' He went over the speed limit.', ' He ran over a nail.']",1
+26,Complete the sentence with the appropriate ending. My view of the movie screen was blocked.  because...,"[' The couple behind me was whispering.', ' A tall person was sitting in front of me.']",1
+27,Complete the sentence with the appropriate ending. The driver turned on the car's headlights.  because...,"[' He heard thunder.', ' The sun went down.']",1
+28,Complete the sentence with the appropriate ending. The girl refused to eat her vegetables.  so...,"[' Her father told her to drink her milk.', ' Her father took away her dessert.']",1
+29,Complete the sentence with the appropriate ending. The woman covered her mouth with her hand.  because...,"[' She exhaled.', ' She sneezed.']",1
+30,Complete the sentence with the appropriate ending. The secretary put the caller on hold.  so...,"["" The caller's phone lost reception."", ' The caller waited on the line.']",1
+31,Complete the sentence with the appropriate ending. The woman walked with crutches.  because...,"[' She shaved her legs.', ' She broke her leg.']",1
+32,Complete the sentence with the appropriate ending. I coughed.  because...,"[' I inhaled smoke.', ' I lowered my voice.']",0
+33,Complete the sentence with the appropriate ending. The clock chimed.  because...,"[' It was the top of the hour.', ' The hour seemed to drag on.']",0
+34,Complete the sentence with the appropriate ending. The chef hit the egg on the side of the bowl.  so...,"[' The egg cracked.', ' The egg rotted.']",0
+35,Complete the sentence with the appropriate ending. The police searched the offender's car.  because...,"[' They were trying to elicit a confession.', ' They were looking for illegal drugs.']",1
+36,Complete the sentence with the appropriate ending. The couple travelled south for the winter.  because...,"[' They were retired.', ' They were separated.']",0
+37,Complete the sentence with the appropriate ending. The man felt obligated to attend the event.  because...,"["" He turned down his friend's invitation to go."", ' He promised his friend that he would go.']",1
+38,Complete the sentence with the appropriate ending. The bride got cold feet before the wedding.  so...,"[' The wedding guests brought gifts.', ' She called the wedding off.']",1
+39,Complete the sentence with the appropriate ending. The man grew old.  so...,"[' His hair turned gray.', ' He sold his belongings.']",0
+40,Complete the sentence with the appropriate ending. The friends decided to share the hamburger.  so...,"[' They cut the hamburger in half.', ' They ordered fries with the hamburger.']",0
+41,Complete the sentence with the appropriate ending. I twisted the cap off the soda bottle.  so...,"[' The soda fizzed.', ' The soda leaked out.']",0
+42,Complete the sentence with the appropriate ending. The pair of students came under scrutiny by the teacher.  because...,"[' The students both received excellent grades.', ' Their responses on the assignment were identical.']",1
+43,Complete the sentence with the appropriate ending. The student was in a rush to get to school on time.  so...,"[' He left his assignment at home.', ' He brought his lunch to school.']",0
+44,Complete the sentence with the appropriate ending. The journalist wrote a biography about the humanitarian's life.  because...,"[' The humanitarian was difficult for the journalist to interview.', "" The journalist was intrigued by the humanitarian's work.""]",1
+45,Complete the sentence with the appropriate ending. The man defied the authorities of the church.  so...,"[' He donated money to the church.', ' He was excommunicated from the church.']",1
+46,Complete the sentence with the appropriate ending. The woman's hair fell in her face.  so...,"[' She pulled her hair back with a clip.', ' She lathered shampoo into her hair.']",0
+47,Complete the sentence with the appropriate ending. The ring on my finger got stuck.  because...,"[' My finger swelled.', ' I chipped my fingernail.']",0
+48,Complete the sentence with the appropriate ending. I pulled the rubber band.  so...,"[' It flung across the room.', ' It stretched.']",1
+49,Complete the sentence with the appropriate ending. I pressed my hand into the wet cement.  so...,"[' My handprint dried in the cement.', ' Cracks emerged in the cement.']",0
+50,Complete the sentence with the appropriate ending. My skin broke out into a rash.  because...,"[' I brushed against poison ivy in my yard.', ' I eradicated the poison ivy from my yard.']",0
+51,Complete the sentence with the appropriate ending. My subscription to the magazine expired.  so...,"[' I discarded the new issue.', ' I stopped receiving new issues.']",1
+52,Complete the sentence with the appropriate ending. The detective revealed an anomaly in the case.  so...,"[' He finalized his theory.', ' He scrapped his theory.']",1
+53,Complete the sentence with the appropriate ending. The boy threw a temper tantrum.  because...,"[' His brother took his toys from him.', ' He shared his toys with his brother.']",0
+54,Complete the sentence with the appropriate ending. The child learned how to read.  because...,"[' He began attending school.', ' He skipped a grade in school.']",0
+55,Complete the sentence with the appropriate ending. The boy skipped dinner.  because...,"[' His mother cooked his favorite meal.', ' He ate a big lunch.']",1
+56,Complete the sentence with the appropriate ending. The woman lavished her friend with flattery.  because...,"[' She wanted to ask her friend for a favor.', "" She was irritated with her friend's whining.""]",0
+57,Complete the sentence with the appropriate ending. The key was missing from my pants pocket.  because...,"[' The pocket had a hole.', ' The pants were new.']",0
+58,Complete the sentence with the appropriate ending. The man fainted.  because...,"[' He took a nap.', ' He ran a marathon.']",1
+59,Complete the sentence with the appropriate ending. The man lost the competition.  because...,"[' The competition was sabotaged.', ' He intimidated his competitors.']",0
+60,Complete the sentence with the appropriate ending. The mother called an ambulance.  because...,"[' Her son lost his cat.', ' Her son fell out of his bed.']",1
+61,Complete the sentence with the appropriate ending. The driver slammed on his brakes.  because...,"[' A deer appeared on the road.', ' The car radio shut off.']",0
+62,Complete the sentence with the appropriate ending. The lock opened.  because...,"[' I turned the key in the lock.', ' I made a duplicate of the key.']",0
+63,Complete the sentence with the appropriate ending. I put rubber gloves on.  because...,"[' I was preparing to wash my hands.', ' I was preparing to clean the bathroom.']",1
+64,Complete the sentence with the appropriate ending. The animal species became endangered.  because...,"[' Their habitat was destroyed.', ' Their predators went extinct.']",0
+65,Complete the sentence with the appropriate ending. The man perceived that the woman looked different.  because...,"[' The woman got her hair cut.', ' The woman wore a bracelet.']",0
+66,Complete the sentence with the appropriate ending. The student forgot to do her assignment.  so...,"[' She made up an excuse to tell the teacher.', ' The teacher promoted her to the next grade.']",0
+67,Complete the sentence with the appropriate ending. The dog barked.  because...,"[' The cat lounged on the couch.', ' A knock sounded at the door.']",1
+68,Complete the sentence with the appropriate ending. Plans were announced to replace a local park with a shopping mall.  so...,"[' Environmentalists started a petition.', ' Environmentalists produced a documentary.']",0
+69,Complete the sentence with the appropriate ending. The couple was happy to see each other.  so...,"[' They kissed.', ' They rested.']",0
+70,Complete the sentence with the appropriate ending. The woman asked the man to leave.  because...,"[' He insulted her.', ' He thanked her.']",0
+71,Complete the sentence with the appropriate ending. The tree branch landed in the river.  so...,"[' The branch moved downstream.', "" The river's current became stronger.""]",0
+72,Complete the sentence with the appropriate ending. The teacher assigned homework to the students.  so...,"[' The students passed notes.', ' The students groaned.']",1
+73,Complete the sentence with the appropriate ending. The seasons changed from summer to autumn.  so...,"[' People evacuated their homes.', ' Leaves fell from the trees.']",1
+74,Complete the sentence with the appropriate ending. The politician was convicted of fraud.  so...,"[' He campaigned for re-election.', ' He was removed from office.']",1
+75,Complete the sentence with the appropriate ending. I pushed the wagon.  so...,"[' The objects in the wagon fell out.', ' The wagon wheels spun forward.']",1
+76,Complete the sentence with the appropriate ending. The lobbyist persuaded the legislature to support the bill.  so...,"[' The president vetoed the bill.', ' The legislature passed the bill.']",1
+77,Complete the sentence with the appropriate ending. My closet was messy.  so...,"[' I organized it.', ' I decorated it.']",0
+78,Complete the sentence with the appropriate ending. I stayed up late.  so...,"[' I had vivid dreams that night.', ' I was tired in the morning.']",1
+79,Complete the sentence with the appropriate ending. The man's pocket jingled as he walked.  because...,"[' His pocket was filled with coins.', ' He sewed the hole in his pocket.']",0
+80,Complete the sentence with the appropriate ending. Everyone in the class turned to stare at the student.  because...,"["" The student's phone rang."", ' The student took notes.']",0
+81,Complete the sentence with the appropriate ending. The horse bucked.  because...,"[' A fly bit the horse.', ' The rider stroked the horse.']",0
+82,Complete the sentence with the appropriate ending. The jewelry thieves were caught.  so...,"[' The stolen jewelry was returned to its owners.', ' The cost of the stolen jewelry was calculated.']",0
+83,Complete the sentence with the appropriate ending. Political violence broke out in the nation.  so...,"[' Many citizens relocated to the capitol.', ' Many citizens took refuge in other territories.']",1
+84,Complete the sentence with the appropriate ending. The woman was arrested.  because...,"[' She checked into rehab.', ' She committed assault.']",1
+85,Complete the sentence with the appropriate ending. The woman read the newspaper.  so...,"[' She discovered the outcome of the election.', ' She casted a vote in the election.']",0
+86,Complete the sentence with the appropriate ending. The sick child coughed on his friend.  so...,"[' His friend got sick.', ' His friend sneezed.']",0
+87,Complete the sentence with the appropriate ending. The couple got engaged.  so...,"[' They planned a wedding.', ' They took some time apart.']",0
+88,Complete the sentence with the appropriate ending. The woman contacted the real estate agent.  because...,"[' The woman planned to buy a condo.', ' The woman needed to clean her house.']",0
+89,Complete the sentence with the appropriate ending. The man won the lottery.  so...,"[' He became rich.', ' He owed money.']",0
+90,Complete the sentence with the appropriate ending. I lit the candle.  so...,"[' Wax dripped off the candle.', ' The wax on the candle hardened.']",0
+91,Complete the sentence with the appropriate ending. I spent the day at the pool.  so...,"[' I sprained my ankle.', ' My face got sunburned.']",1
+92,Complete the sentence with the appropriate ending. The man received a parking ticket.  because...,"[' He parallel parked on the street.', ' The parking meter expired.']",1
+93,Complete the sentence with the appropriate ending. The woman became famous.  so...,"[' Photographers followed her.', ' Her family avoided her.']",0
+94,Complete the sentence with the appropriate ending. The girl wanted to wear earrings.  so...,"[' She got her ears pierced.', ' She got a tattoo.']",0
+95,Complete the sentence with the appropriate ending. My ears were ringing.  because...,"[' I went to a museum.', ' I went to a concert.']",1
+96,Complete the sentence with the appropriate ending. I tidied up my house.  because...,"[' I was swamped with work.', ' I was expecting company.']",1
+97,Complete the sentence with the appropriate ending. The airline mishandled my luggage.  so...,"[' They offered me compensation.', ' They cancelled my flight.']",0
+98,Complete the sentence with the appropriate ending. The computer was expensive to fix.  so...,"[' I got it repaired.', ' I bought a new one.']",1
+99,Complete the sentence with the appropriate ending. The woman was in a bad mood.  so...,"[' She engaged in small talk with her friend.', ' She told her friend to leave her alone.']",1

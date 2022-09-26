@@ -1,0 +1,901 @@
+sample_id,prompt,classes,answer_index
+0,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the miz and maryse show start
+Answer:","[' 2018', ' 5,802']",0
+1,"The goal is to predict a correct English answer string for an input English question.
+Question: who played chaka on land of the lost tv show
+Answer:","[' Phillip Paley', ' 33']",0
+2,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the bob and tom show broadcast from
+Answer:","[' Due to low ratings', ' WFBQ in Indianapolis , Indiana']",1
+3,"The goal is to predict a correct English answer string for an input English question.
+Question: when did toyota start making cars in the us
+Answer:","[' By the early 1980s', ' Main difference being in size']",0
+4,"The goal is to predict a correct English answer string for an input English question.
+Question: where does prime rib come from on a cow
+Answer:","[' The primal rib', ' A stylized lily']",0
+5,"The goal is to predict a correct English answer string for an input English question.
+Question: american horror story freak show girl kidnapped by clown
+Answer:","[' Bonnie Lipton', ' Park Sung - hyun']",0
+6,"The goal is to predict a correct English answer string for an input English question.
+Question: where will be the next olympics be held
+Answer:","[' Tokyo', ' 2018']",0
+7,"The goal is to predict a correct English answer string for an input English question.
+Question: where do characters live in this is us
+Answer:","[' 5 films', ' Pittsburgh']",1
+8,"The goal is to predict a correct English answer string for an input English question.
+Question: what was the book wealth of nations about
+Answer:","["" What builds nations ' wealth"", ' Bob Dylan']",0
+9,"The goal is to predict a correct English answer string for an input English question.
+Question: who lives in the blue house in balamory
+Answer:","[' Edie McCredie', ' October 6 , 2017']",0
+10,"The goal is to predict a correct English answer string for an input English question.
+Question: who dies at the end of den of thieves
+Answer:","[' Merrimen', ' Katy Perry']",0
+11,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the minimum wage established in the united states
+Answer:","[' 18', ' 1912']",1
+12,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the inner core of the earth made from
+Answer:","[' Some other elements', ' John William Henry II']",0
+13,"The goal is to predict a correct English answer string for an input English question.
+Question: what part of brain is responsible for complex thinking
+Answer:","[' 2008 -- 09', ' The frontal lobe']",1
+14,"The goal is to predict a correct English answer string for an input English question.
+Question: where was the first sonic drive in located
+Answer:","[' Woodward , Oklahoma', ' 1957']",0
+15,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the speed of the nascar pace car
+Answer:","[' Pit road speed', ' Savage Garden']",0
+16,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last time the womens hockey team won gold
+Answer:","[' New York', ' 2018']",1
+17,"The goal is to predict a correct English answer string for an input English question.
+Question: who has most followers on instagram in world
+Answer:","["" Instagram 's own account"", ' Natalia Gastiain Tena']",0
+18,"The goal is to predict a correct English answer string for an input English question.
+Question: when did fortnite battle royal come out on xbox
+Answer:","[' April 13 , 2018', ' September 2017']",1
+19,"The goal is to predict a correct English answer string for an input English question.
+Question: list the seven gifts of the holy spirit
+Answer:","[' Korea', ' Wisdom']",1
+20,"The goal is to predict a correct English answer string for an input English question.
+Question: where did this case of product tampering occur
+Answer:","[' The Chicago metropolitan area', ' Alpha 5']",0
+21,"The goal is to predict a correct English answer string for an input English question.
+Question: when does star trek discovery season 1 end
+Answer:","[' February 11 , 2018', ' Validity']",0
+22,"The goal is to predict a correct English answer string for an input English question.
+Question: who built the tower of london in 1066
+Answer:","[' French foreign minister Robert Schuman', ' William the Conqueror']",1
+23,"The goal is to predict a correct English answer string for an input English question.
+Question: what city was zeus the patron god of
+Answer:","[' Elis', ' Below the knee']",0
+24,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the government change the retirement age
+Answer:","[' 2015', ' 1995']",0
+25,"The goal is to predict a correct English answer string for an input English question.
+Question: what does the msc in msc cruises stand for
+Answer:","[' Tan', ' Mediterranean Shipping Company S.A.']",1
+26,"The goal is to predict a correct English answer string for an input English question.
+Question: who started the tradition of coloring easter eggs
+Answer:","[' September 13 , 1996', ' Early Christians of Mesopotamia']",1
+27,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the song be thankful for what you got
+Answer:","[' October 1969', ' William DeVaughn']",1
+28,"The goal is to predict a correct English answer string for an input English question.
+Question: who is recognized as the founder of islam
+Answer:","[' 1988', ' Muhammad']",1
+29,"The goal is to predict a correct English answer string for an input English question.
+Question: who won latest america's next top model
+Answer:","[' Kyla Coleman', ' Danielle Brisebois']",0
+30,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays the scary nun in the conjuring 2
+Answer:","[' Bonnie Aarons', ' Monthly serial']",0
+31,"The goal is to predict a correct English answer string for an input English question.
+Question: a synonym for the content component of communication is
+Answer:","[' Information', ' Allison Janney']",0
+32,"The goal is to predict a correct English answer string for an input English question.
+Question: who developed the first printing press in 1430s
+Answer:","[' Johannes Gutenberg', ' Brian Steele']",0
+33,"The goal is to predict a correct English answer string for an input English question.
+Question: who played jason in friday the 13th the final chapter
+Answer:","[' Lionel Messi', ' Ted White']",1
+34,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last time michigan won the championship
+Answer:","[' 1989', ' A saying attributed to Ambrose']",0
+35,"The goal is to predict a correct English answer string for an input English question.
+Question: is coca cola a public or private company
+Answer:","[' Public', ' 2024']",0
+36,"The goal is to predict a correct English answer string for an input English question.
+Question: french film pioneer who introduced newsreel in 1910
+Answer:","[' 1,034,070', ' Charles Pathé']",1
+37,"The goal is to predict a correct English answer string for an input English question.
+Question: who played king theoden in lord of the rings
+Answer:","[' Eddy Grant', ' Bernard Hill']",1
+38,"The goal is to predict a correct English answer string for an input English question.
+Question: when does elijah first appear in vampire diaries
+Answer:","["" `` Rose ''"", ' 53 episodes']",0
+39,"The goal is to predict a correct English answer string for an input English question.
+Question: when did las vegas become a gambling town
+Answer:","[' 1931', ' 2009']",0
+40,"The goal is to predict a correct English answer string for an input English question.
+Question: how many seasons of rules of engagement is there
+Answer:","[' S. Fillmore Bennett', ' Seven']",1
+41,"The goal is to predict a correct English answer string for an input English question.
+Question: if there is a line that lies parallel to the horizon it is said to be
+Answer:","[' John Adams', ' A vanishing point']",1
+42,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the legal age for marriage in australia
+Answer:","[' 18', ' PG - 13']",0
+43,"The goal is to predict a correct English answer string for an input English question.
+Question: when does ellen's new game show start
+Answer:","[' Guy Marks', ' December 18 , 2017']",1
+44,"The goal is to predict a correct English answer string for an input English question.
+Question: when was i can only imagine the song released
+Answer:","[' Third place', ' 2001']",1
+45,"The goal is to predict a correct English answer string for an input English question.
+Question: who played the mom on what's eating gilbert grape
+Answer:","[' Darlene Cates', ' Georgia']",0
+46,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the white witch live in narnia
+Answer:","[' Her castle', ' Mauna Loa']",0
+47,"The goal is to predict a correct English answer string for an input English question.
+Question: how many times has the saints won the super bowl
+Answer:","[' 1', ' November 1935']",0
+48,"The goal is to predict a correct English answer string for an input English question.
+Question: who was allowed to vote in the roman republic
+Answer:","[' Citizens', ' 112']",0
+49,"The goal is to predict a correct English answer string for an input English question.
+Question: who is the cast of the new tomb raider movie
+Answer:","[' Alicia Vikander as Lara Croft', ' William Tecumseh Sherman']",0
+50,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the new season of lost in space come out
+Answer:","[' Mary Costa', ' April 13 , 2018']",1
+51,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last episode of vampire diaries aired
+Answer:","[' Around AD 50', ' March 10 , 2017']",1
+52,"The goal is to predict a correct English answer string for an input English question.
+Question: the winner of the best actor award in the 64th national film festival 2017
+Answer:","[' Atlantic Ocean', ' Akshay Kumar']",1
+53,"The goal is to predict a correct English answer string for an input English question.
+Question: who had the best strike rate among batsmen who scored over 200 runs in the world cup
+Answer:","[' Urjit Patel', ' Chris Gayle']",1
+54,"The goal is to predict a correct English answer string for an input English question.
+Question: who won the most mvp awards in the nba
+Answer:","[' Endothelial cells', ' Kareem Abdul - Jabbar']",1
+55,"The goal is to predict a correct English answer string for an input English question.
+Question: what kind of dog is nana in snow dogs
+Answer:","[' A Border Collie', ' Theresa May']",0
+56,"The goal is to predict a correct English answer string for an input English question.
+Question: who bowled the last over of the 2007 world twenty20 that india won
+Answer:","[' Pakistan', ' San Antonio Texans']",0
+57,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the turn of the screw take place
+Answer:","[' Javi Gracia', ' 1898']",1
+58,"The goal is to predict a correct English answer string for an input English question.
+Question: where are antibodies made and by what type of lymphocyte
+Answer:","[' Lymph', ' By the plow']",0
+59,"The goal is to predict a correct English answer string for an input English question.
+Question: when did linkin park release one more light
+Answer:","[' May 19 , 2017', ' Griffon']",0
+60,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the grapes of wrath take place
+Answer:","[' St. Augustine', ' Oklahoma']",1
+61,"The goal is to predict a correct English answer string for an input English question.
+Question: which is produced in plants of narora kakrapar tarapur
+Answer:","[' Atomic Power', ' Uma Thurman']",0
+62,"The goal is to predict a correct English answer string for an input English question.
+Question: what kind of bird is in the lion king
+Answer:","[' A red - billed hornbill', ' Morgans']",0
+63,"The goal is to predict a correct English answer string for an input English question.
+Question: who hit the first home run in the houston astrodome
+Answer:","[' Mickey Mantle', ' Anthony Stewart Head']",0
+64,"The goal is to predict a correct English answer string for an input English question.
+Question: what year does the quiet man take place
+Answer:","[' Arthur Pendragon', ' The 1920s']",1
+65,"The goal is to predict a correct English answer string for an input English question.
+Question: location of the ten commandments in the bible
+Answer:","[' Exodus', ' About 1485']",0
+66,"The goal is to predict a correct English answer string for an input English question.
+Question: who is the longest railway station in india
+Answer:","[' 1982', ' Gorakhpur Junction']",1
+67,"The goal is to predict a correct English answer string for an input English question.
+Question: which animal on earth has the longest life span
+Answer:","[' August 4 , 2017', ' Tortoise']",1
+68,"The goal is to predict a correct English answer string for an input English question.
+Question: how many steps does the cn tower have
+Answer:","[' In the Aegean Sea', ' 2,579']",1
+69,"The goal is to predict a correct English answer string for an input English question.
+Question: what album is help by the beatles on
+Answer:","[' Wilmington International Airport', ' Help !']",1
+70,"The goal is to predict a correct English answer string for an input English question.
+Question: who played mike stivic on all in the family
+Answer:","[' 1911', ' Rob Reiner']",1
+71,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the sat become out of 1600
+Answer:","[' Woodrow Wilson', ' 2016']",1
+72,"The goal is to predict a correct English answer string for an input English question.
+Question: where is arachidonic acid found in the body
+Answer:","[' Brain', ' Edmund Muskie']",0
+73,"The goal is to predict a correct English answer string for an input English question.
+Question: the most common form of megalithic architecture in europe is
+Answer:","[' The portal tomb', ' January 8 , 1863']",0
+74,"The goal is to predict a correct English answer string for an input English question.
+Question: two examples where low voltage transformers are used
+Answer:","[' Toys', ' 1948']",0
+75,"The goal is to predict a correct English answer string for an input English question.
+Question: vine with heart shaped leaves and white flowers
+Answer:","[' Antigonon leptopus', ' 1981']",0
+76,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last time mount etna exploded
+Answer:","[' 16 March 2017', ' 20 ft']",0
+77,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the last volcano erupt in iceland
+Answer:","[' 2010', ' Paula Hawkins']",0
+78,"The goal is to predict a correct English answer string for an input English question.
+Question: who donates a christmas tree to trafalgar square
+Answer:","[' Tommy James and the Shondells', ' Oslo , Norway']",1
+79,"The goal is to predict a correct English answer string for an input English question.
+Question: who played bailey in the sisterhood of the traveling pants
+Answer:","[' Jenna Boyd', ' The Soviet Union']",0
+80,"The goal is to predict a correct English answer string for an input English question.
+Question: who sang i dreamed a dream in les miserables
+Answer:","[' 5 September', ' The character Fantine']",1
+81,"The goal is to predict a correct English answer string for an input English question.
+Question: when does i'm a celebrity get me out of here start in the uk
+Answer:","[' 2018', ' 1954']",0
+82,"The goal is to predict a correct English answer string for an input English question.
+Question: who sings the theme song for living single
+Answer:","[' Johannes Gutenberg', ' Queen Latifah']",1
+83,"The goal is to predict a correct English answer string for an input English question.
+Question: what do you say when you win bingo
+Answer:","[' Yes', ' Richard Deacon']",0
+84,"The goal is to predict a correct English answer string for an input English question.
+Question: who won season 8 of america's next top model
+Answer:","[' Jaslene Gonzalez', ' Nominated by the U.S. President']",0
+85,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the first horrid henry book written
+Answer:","[' Published in 1994', ' The British prison system']",0
+86,"The goal is to predict a correct English answer string for an input English question.
+Question: where did you go to drink during prohibition
+Answer:","[' New England Patriots', ' Speakeasies']",1
+87,"The goal is to predict a correct English answer string for an input English question.
+Question: who was it that described the structure of dna
+Answer:","[' Encephalitis', ' James Watson and Francis Crick']",1
+88,"The goal is to predict a correct English answer string for an input English question.
+Question: how many hoops are used in a game of croquet
+Answer:","[' Much of eastern North America', ' Eight']",1
+89,"The goal is to predict a correct English answer string for an input English question.
+Question: which domain of life are humans members of
+Answer:","[' James Anderson', ' Eukarya']",1
+90,"The goal is to predict a correct English answer string for an input English question.
+Question: itai-itai disease was a form of poisoning associated with ingestion of
+Answer:","[' In Los Angeles , California', ' Cadmium']",1
+91,"The goal is to predict a correct English answer string for an input English question.
+Question: who is credited with developing the geocentric view
+Answer:","[' Syndactyly', ' Ptolemy']",1
+92,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays the doc in back to the future
+Answer:","[' Christopher Allen Lloyd', ' Anonymous character']",0
+93,"The goal is to predict a correct English answer string for an input English question.
+Question: who won the men's ice skating 2018
+Answer:","[' Moira Kelly', ' Yuzuru Hanyu']",1
+94,"The goal is to predict a correct English answer string for an input English question.
+Question: when was christmas first celebrated as a holiday
+Answer:","[' 79', ' 336']",1
+95,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the song 10 green bottles come from
+Answer:","[' Stealers Wheel', ' United Kingdom']",1
+96,"The goal is to predict a correct English answer string for an input English question.
+Question: when is the strictly come dancing results show recorded
+Answer:","[' Leon Russell', ' Sunday night']",1
+97,"The goal is to predict a correct English answer string for an input English question.
+Question: what year is the deer hunter set in
+Answer:","[' Francia Raisa', ' 1967']",1
+98,"The goal is to predict a correct English answer string for an input English question.
+Question: where is the world's largest thermometer located
+Answer:","[' Baker , California , USA', ' Joanne Rogers']",0
+99,"The goal is to predict a correct English answer string for an input English question.
+Question: how many stores does lowes have in canada
+Answer:","[' 62', ' John Lennon']",0
+100,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays emma in air bud world pup
+Answer:","[' Brittany Paige Bouck', ' Mike Powell']",0
+101,"The goal is to predict a correct English answer string for an input English question.
+Question: who does the head of the fbi report to
+Answer:","[' The Attorney General', ' 16 to 18']",0
+102,"The goal is to predict a correct English answer string for an input English question.
+Question: who said some are born great in twelfth night
+Answer:","[' Malvolio', ' Hans Zimmer']",0
+103,"The goal is to predict a correct English answer string for an input English question.
+Question: when did krakow become the capital of poland
+Answer:","[' 1038', ' Orange County , California']",0
+104,"The goal is to predict a correct English answer string for an input English question.
+Question: who played forrest gumps mother in the 1994 film
+Answer:","[' Sally Field', ' Mohinder Amarnath']",0
+105,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the last name orozco originate from
+Answer:","[' Pakistan', ' Spanish / Basque origin']",1
+106,"The goal is to predict a correct English answer string for an input English question.
+Question: the first element on the periodic table is
+Answer:","[' Hydrogen', ' Châteauneuf - du - Pape']",0
+107,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the phantom of the opera open
+Answer:","[' 1986', ' NFC']",0
+108,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the last name hidalgo come from
+Answer:","[' Spanish', ' 2011']",0
+109,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the song stop the world and let me off
+Answer:","[' February 23 , 2018', ' Carl Belew']",1
+110,"The goal is to predict a correct English answer string for an input English question.
+Question: spyder from once upon a time in venice
+Answer:","[' Jason Momoa', ' Enjambment']",0
+111,"The goal is to predict a correct English answer string for an input English question.
+Question: who won the men's single title of australia open on 1 february 2015
+Answer:","[' Djokovic', ' Ginnifer Goodwin']",0
+112,"The goal is to predict a correct English answer string for an input English question.
+Question: how many counties does the state of georgia have
+Answer:","[' 159', ' George Peppard']",0
+113,"The goal is to predict a correct English answer string for an input English question.
+Question: what us state forms the western boundary of montana
+Answer:","[' Democrat Conor Lamb', ' Idaho']",1
+114,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote if i were a boy reba or beyonce
+Answer:","[' BC Jean', ' 1944']",0
+115,"The goal is to predict a correct English answer string for an input English question.
+Question: what type of reproduction do whiptail lizards use
+Answer:","[' 8 February 2018', ' Parthenogenesis']",1
+116,"The goal is to predict a correct English answer string for an input English question.
+Question: when does middle-earth shadow of mordor come out
+Answer:","[' 1999', ' September 2014']",1
+117,"The goal is to predict a correct English answer string for an input English question.
+Question: who dies in the lost city of z
+Answer:","[' 35', ' Manley']",1
+118,"The goal is to predict a correct English answer string for an input English question.
+Question: who played in last train from gun hill
+Answer:","[' Hades', ' Kirk Douglas']",1
+119,"The goal is to predict a correct English answer string for an input English question.
+Question: has been honoured with the wisden leading cricketer in the world award for 2016
+Answer:","[' Lilly', ' Virat Kohli']",1
+120,"The goal is to predict a correct English answer string for an input English question.
+Question: how many breeds of pigs are there in the uk
+Answer:","[' -- -', ' Oxygen']",0
+121,"The goal is to predict a correct English answer string for an input English question.
+Question: who picks the chief justice of the illinois supreme court
+Answer:","[' The court', ' Guaranteed Rate Field']",0
+122,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the south asian association for regional co-operation (saarc) formed
+Answer:","[' December 1985', ' Lech Wałęsa']",0
+123,"The goal is to predict a correct English answer string for an input English question.
+Question: element named after fictional planet from which superman came
+Answer:","[' Daniel G. Hedaya', ' Kryptonite']",1
+124,"The goal is to predict a correct English answer string for an input English question.
+Question: name two fibres which are made of proteins
+Answer:","[' Feathers', ' 1882']",0
+125,"The goal is to predict a correct English answer string for an input English question.
+Question: who played in the stanley cup finals last year
+Answer:","[' Glomerulus', ' Pittsburgh Penguins']",1
+126,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the second half of vikings season 5 air
+Answer:","[' Lessie Brown', ' 2018']",1
+127,"The goal is to predict a correct English answer string for an input English question.
+Question: who is responsible for establishing local licensing forum
+Answer:","[' Local authorities', ' James Deb']",0
+128,"The goal is to predict a correct English answer string for an input English question.
+Question: who captained the first european ship to sail around the tip of africa
+Answer:","[' White Americans', ' Bartolomeu Dias']",1
+129,"The goal is to predict a correct English answer string for an input English question.
+Question: who sang original i want a hippopotamus for christmas
+Answer:","[' Gayla Peevey', ' Sweet and Lowdown']",0
+130,"The goal is to predict a correct English answer string for an input English question.
+Question: who was the buccaneers qb when they won the superbowl
+Answer:","[' Paul Anka', ' Brad Johnson']",1
+131,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote papa got a brand new bag
+Answer:","[' 29 October 2001', ' James Brown']",1
+132,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the usa join world war one
+Answer:","[' April 27 , 2018', ' April 1917']",1
+133,"The goal is to predict a correct English answer string for an input English question.
+Question: who are you in assassin's creed 4
+Answer:","[' Third - person perspective', ' Aulis']",0
+134,"The goal is to predict a correct English answer string for an input English question.
+Question: who has won the most college football national champions
+Answer:","[' Richie Fike', ' Princeton']",1
+135,"The goal is to predict a correct English answer string for an input English question.
+Question: towns on the border of texas and oklahoma
+Answer:","[' Texhoma', ' Hathor']",0
+136,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays lady talisa in game of thrones
+Answer:","[' Douglas Adams', ' Oona Chaplin']",1
+137,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the coral sea meet the pacific ocean
+Answer:","[' South Pacific', ' Ben Chaplin']",0
+138,"The goal is to predict a correct English answer string for an input English question.
+Question: who did johnny manziel play college football for
+Answer:","[' Pink Floyd', ' Texas A&M Aggies']",1
+139,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the purpose of a jake brake
+Answer:","[' Rob Cohen', ' Slowing the vehicle']",1
+140,"The goal is to predict a correct English answer string for an input English question.
+Question: where does some like it hot take place
+Answer:","[' Alden Ehrenreich', ' Chicago']",1
+141,"The goal is to predict a correct English answer string for an input English question.
+Question: who was the successful commanding general of the northern forces in the civil war
+Answer:","[' Canadian singer Paul Anka', ' George B. McClellan']",1
+142,"The goal is to predict a correct English answer string for an input English question.
+Question: who sings the christmas song all i want for christmas is you
+Answer:","[' Tricuspid stenosis', ' Mariah Carey']",1
+143,"The goal is to predict a correct English answer string for an input English question.
+Question: who was hope brady's mother on days of our lives
+Answer:","[' Usain Bolt', ' Addie Horton']",1
+144,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays the mother of howard on big bang theory
+Answer:","[' Jean Louise', ' Carol Ann Susi']",1
+145,"The goal is to predict a correct English answer string for an input English question.
+Question: when did they stop cigarette advertising on television
+Answer:","[' Benjamin Franklin', ' 1970']",1
+146,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the poorest county in the state of florida
+Answer:","[' Scutigera coleoptrata', ' Union']",1
+147,"The goal is to predict a correct English answer string for an input English question.
+Question: who played the twins in darling buds of may
+Answer:","[' Christina Giles', ' Trade Winds']",0
+148,"The goal is to predict a correct English answer string for an input English question.
+Question: where does florida natural orange juice come from
+Answer:","[' Lake Wales , Florida', ' 1993']",0
+149,"The goal is to predict a correct English answer string for an input English question.
+Question: who played mr. willoughby in sense and sensibility
+Answer:","[' Hall and Oates', ' Matthew Gregory Wise']",1
+150,"The goal is to predict a correct English answer string for an input English question.
+Question: who was the winner of the first indianapolis 500
+Answer:","[' Norway', ' Ray Harroun']",1
+151,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the longest pier in the uk
+Answer:","[' Southend Pier', ' Will Arnett']",0
+152,"The goal is to predict a correct English answer string for an input English question.
+Question: where was a hologram for the king filmed
+Answer:","[' Morocco', ' Until 2018 at the earliest']",0
+153,"The goal is to predict a correct English answer string for an input English question.
+Question: sending money home to the native country is an example of
+Answer:","[' China', ' Remittance']",1
+154,"The goal is to predict a correct English answer string for an input English question.
+Question: the concept of micro financing was developed by who in 1976
+Answer:","[' John Mensah Sarbah', ' Muhammad Yunus']",1
+155,"The goal is to predict a correct English answer string for an input English question.
+Question: where are the mitochondria located in the sperm
+Answer:","[' Chloe x Halle', ' Midpiece']",1
+156,"The goal is to predict a correct English answer string for an input English question.
+Question: who turned out to be the mother on how i met your mother
+Answer:","[' John Lamont', ' Tracy McConnell']",1
+157,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote when a man loves a woman
+Answer:","[' Juneau , Alaska', ' Calvin Lewis and Andrew Wright']",1
+158,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays chummy's mother in call the midwife
+Answer:","[' Cheryl Campbell', ' June 17 , 1885']",0
+159,"The goal is to predict a correct English answer string for an input English question.
+Question: when do wood thrushes fly when they are migrating
+Answer:","[' At night', ' Honey Cone']",0
+160,"The goal is to predict a correct English answer string for an input English question.
+Question: who played taylor on the bold and beautiful
+Answer:","[' Dakota Johnson', ' Hunter Tylo']",1
+161,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the meaning of the name comanche
+Answer:","[' Chip', ' Enemy']",1
+162,"The goal is to predict a correct English answer string for an input English question.
+Question: when did beds become popular in france and germany
+Answer:","[' The 12th century', ' Claudio Monteverdi']",0
+163,"The goal is to predict a correct English answer string for an input English question.
+Question: who will get ticket to finale in rising star 2
+Answer:","[' Hemant Brijwasi', ' Bangladesh']",0
+164,"The goal is to predict a correct English answer string for an input English question.
+Question: who has the highest paid contract in the nba
+Answer:","[' 9 - year - old', ' Stephen Curry']",1
+165,"The goal is to predict a correct English answer string for an input English question.
+Question: how long has tom brady been the patriots quarterback
+Answer:","[' 2001', ' October 17 , 2017']",0
+166,"The goal is to predict a correct English answer string for an input English question.
+Question: when did hollywood video go out of business
+Answer:","[' 2005 .', ' Pope Gregory I']",0
+167,"The goal is to predict a correct English answer string for an input English question.
+Question: two main types of research methods used in psychology
+Answer:","[' July 22 , 2011', ' Correlational research']",1
+168,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the song going to kansas city
+Answer:","[' Jerry Leiber and Mike Stoller', ' Visakhapatnam']",0
+169,"The goal is to predict a correct English answer string for an input English question.
+Question: when is beyblade burst super z coming out
+Answer:","[' March 2017', ' April 2 , 2018']",1
+170,"The goal is to predict a correct English answer string for an input English question.
+Question: who sings gimme shelter with mick jagger
+Answer:","[' Chris Harrison', ' Merry Clayton']",1
+171,"The goal is to predict a correct English answer string for an input English question.
+Question: who gets first pick of fa cup games
+Answer:","[' The BBC', ' February 17 , 1959']",0
+172,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the movie the star come out
+Answer:","[' November 17 , 2017', "" People 's Republic of China""]",0
+173,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays the robot maid in richie rich
+Answer:","[' Red Sea', ' Brooke Wexler']",1
+174,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote antigone and what are the dates of his birth and death
+Answer:","[' Sophocles', ' Sarah Gray Rafferty']",0
+175,"The goal is to predict a correct English answer string for an input English question.
+Question: who had the most governmental power under the articles of confederation
+Answer:","[' The states', ' Johnny MacRae']",0
+176,"The goal is to predict a correct English answer string for an input English question.
+Question: who owns the delano hotel in las vegas
+Answer:","[' MGM Resorts International', ' Beatles']",0
+177,"The goal is to predict a correct English answer string for an input English question.
+Question: where was the first nhl hockey game played
+Answer:","[' Herself', ' Montreal']",1
+178,"The goal is to predict a correct English answer string for an input English question.
+Question: to transplant a nucleus from one cell to another cell a scientist would use
+Answer:","[' Villanova', ' Somatic cell nuclear transfer']",1
+179,"The goal is to predict a correct English answer string for an input English question.
+Question: who destroyed the first temple and exiled the two tribes of judah to babylon
+Answer:","[' Nebuchadnezzar', ' Roger Bart']",0
+180,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays grace in the secret life of the american teenager
+Answer:","[' Megan Park', ' Abccba and deffed']",0
+181,"The goal is to predict a correct English answer string for an input English question.
+Question: who did america declare war on in ww1
+Answer:","[' Austria - Hungary', ' 54']",0
+182,"The goal is to predict a correct English answer string for an input English question.
+Question: where does stevia in the raw come from
+Answer:","[' Alison Brie', ' South America']",1
+183,"The goal is to predict a correct English answer string for an input English question.
+Question: who won the 1st battle of bull run
+Answer:","[' Confederate victory', ' Their SoundCloud account']",0
+184,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the number of total presidential electoral votes
+Answer:","[' 538', ' Real Madrid']",0
+185,"The goal is to predict a correct English answer string for an input English question.
+Question: who played shaggy in the new scooby doo movie
+Answer:","[' Matthew Lyn Lillard', ' September 25 , 2018']",0
+186,"The goal is to predict a correct English answer string for an input English question.
+Question: where did the french immigrants settle in texas
+Answer:","[' 1899', ' 1685']",1
+187,"The goal is to predict a correct English answer string for an input English question.
+Question: who is known as father of green revolution in india
+Answer:","[' Mankombu Sambasivan Swaminathan', ' Their fifth album Once']",0
+188,"The goal is to predict a correct English answer string for an input English question.
+Question: the legend of heroes trails in the sky the 3rd vita
+Answer:","[' Nicholas I of Russia', ' July 14 , 2016']",1
+189,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the theme to last of the mohicans
+Answer:","[' Reserve Bank of India', ' Dougie MacLean']",1
+190,"The goal is to predict a correct English answer string for an input English question.
+Question: who was the walker rick killed in the first episode
+Answer:","[' Addy Miller', ' Grandmaster Flash']",0
+191,"The goal is to predict a correct English answer string for an input English question.
+Question: who painted the ceiling of the florence cathedral
+Answer:","[' Giorgio Vasari', ' Neal Cassidy']",0
+192,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays the voice of john smith in pocahontas
+Answer:","[' Mel Gibson', ' Principally RbO , rubidium superoxide']",0
+193,"The goal is to predict a correct English answer string for an input English question.
+Question: who was selected for the 2018 football hall of fame
+Answer:","[' Terrell Owens', "" Kevin J. O'Connor""]",0
+194,"The goal is to predict a correct English answer string for an input English question.
+Question: when is the world consumer right day celebrated
+Answer:","[' Manila', ' 15 March every year']",1
+195,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the word for clarified butter in the balkans and middle east
+Answer:","[' Smen', ' Air']",0
+196,"The goal is to predict a correct English answer string for an input English question.
+Question: who is stephanie's mom on the bold and the beautiful
+Answer:","[' Ridge Forrester', ' In season 11']",0
+197,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays yoda in revenge of the sith
+Answer:","[' Frank Oz', ' By leaching soluble salts']",0
+198,"The goal is to predict a correct English answer string for an input English question.
+Question: when did this season of american idol start
+Answer:","[' March 11 , 2018', ' Peter Cetera']",0
+199,"The goal is to predict a correct English answer string for an input English question.
+Question: where does new york drinking water come from
+Answer:","[' The eastern Catskill Mountains', ' Milana Aleksandrovna Vayntrub']",0
+200,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the snow on mars made of
+Answer:","[' 85,000 characters', ' Water ice']",1
+201,"The goal is to predict a correct English answer string for an input English question.
+Question: who were the judges on dancing on ice 2014
+Answer:","[' James Gounaris', ' Karen Barber']",1
+202,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays nikko in the wizard of oz
+Answer:","[' Patrick Walshe', ' Mike Wheeler']",0
+203,"The goal is to predict a correct English answer string for an input English question.
+Question: a bond that the issuer has the right to pay off before its maturity date
+Answer:","[' Callable', ' An air gap']",0
+204,"The goal is to predict a correct English answer string for an input English question.
+Question: who played the mother in the black stallion
+Answer:","[' Foothill High School', ' Teri Garr']",1
+205,"The goal is to predict a correct English answer string for an input English question.
+Question: the boards name on ed edd and eddy
+Answer:","[' 2004', ' Plank']",1
+206,"The goal is to predict a correct English answer string for an input English question.
+Question: where does blood go when it leaves the pulmonary artery
+Answer:","[' John Broadus Watson', ' Lungs']",1
+207,"The goal is to predict a correct English answer string for an input English question.
+Question: chandra and bhaga river meets at the place
+Answer:","[' Tandi , in Lahaul', ' January 1989']",0
+208,"The goal is to predict a correct English answer string for an input English question.
+Question: if a piece of music is perceived to have changed key then we say the piece has
+Answer:","[' Transposed', ' Whitesnake']",0
+209,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the theme song for mission impossible
+Answer:","[' West Indies', ' Lalo Schifrin']",1
+210,"The goal is to predict a correct English answer string for an input English question.
+Question: what disney cartoon character's middle name is fauntleroy
+Answer:","[' Seventeen', ' Donald Fauntleroy Duck']",1
+211,"The goal is to predict a correct English answer string for an input English question.
+Question: where was held the first session of muslim league
+Answer:","[' Lucknow', ' 10cc']",0
+212,"The goal is to predict a correct English answer string for an input English question.
+Question: who has the most trophies in la liga
+Answer:","[' Portugal', ' Real Madrid']",1
+213,"The goal is to predict a correct English answer string for an input English question.
+Question: who used to present i'm a celebrity now
+Answer:","[' Ant & Dec', ' John']",0
+214,"The goal is to predict a correct English answer string for an input English question.
+Question: who does the vocals for feel it still
+Answer:","[' Portugal . The Man', ' Cochran']",0
+215,"The goal is to predict a correct English answer string for an input English question.
+Question: who played the first nfl thursday night football game
+Answer:","[' Richard Hartley', ' Kansas City Chiefs']",1
+216,"The goal is to predict a correct English answer string for an input English question.
+Question: who signed the declaration of independence for maryland
+Answer:","[' Samuel Chase', ' Between 1562 and 1598']",0
+217,"The goal is to predict a correct English answer string for an input English question.
+Question: who sang it must have been love but its over now
+Answer:","[' Aether', ' Roxette']",1
+218,"The goal is to predict a correct English answer string for an input English question.
+Question: where was the world economic forum held this year
+Answer:","[' Davos', ' The Dark Owl']",0
+219,"The goal is to predict a correct English answer string for an input English question.
+Question: when did the second it movie come out
+Answer:","[' September 6 , 2019', ' Ariel']",0
+220,"The goal is to predict a correct English answer string for an input English question.
+Question: who is the best director in bollywood 2017
+Answer:","[' Charles , Prince of Wales', ' Nitesh Tiwari']",1
+221,"The goal is to predict a correct English answer string for an input English question.
+Question: who was charlie writing to in perks of being a wallflower movie
+Answer:","[' An unknown recipient', ' Bill Nighy']",0
+222,"The goal is to predict a correct English answer string for an input English question.
+Question: number of degree of freedom for plane mechanism
+Answer:","[' Markelle Fultz', ' Six']",1
+223,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the black panther movie soundtrack come out
+Answer:","[' February 9 , 2018', ' Venkaiah Naidu']",0
+224,"The goal is to predict a correct English answer string for an input English question.
+Question: how many episodes of the killing on netflix
+Answer:","[' Six', ' Barry Mann']",0
+225,"The goal is to predict a correct English answer string for an input English question.
+Question: panic at the disco la devotee video cast
+Answer:","[' Noah Schnapp', ' Vera Farmiga']",0
+226,"The goal is to predict a correct English answer string for an input English question.
+Question: where did they film woody the woodpecker movie
+Answer:","[' Canada', ' The early 2000s']",0
+227,"The goal is to predict a correct English answer string for an input English question.
+Question: who has scored more goals in the premier league
+Answer:","[' Alan Shearer', ' Terence Hill']",0
+228,"The goal is to predict a correct English answer string for an input English question.
+Question: dogs name in the grinch who stole christmas
+Answer:","[' Max', ' May 11 , 2018']",0
+229,"The goal is to predict a correct English answer string for an input English question.
+Question: fast & furious 8 release date in india
+Answer:","[' April 12 , 2017', ' Myocardial infarction']",0
+230,"The goal is to predict a correct English answer string for an input English question.
+Question: who is the original singer of i write sins not tragedies
+Answer:","[' Panic ! at the Disco', ' Little River Band']",0
+231,"The goal is to predict a correct English answer string for an input English question.
+Question: where did immigrants enter the us on the west coast
+Answer:","[' Angel Island Immigration Station', ' 2002']",0
+232,"The goal is to predict a correct English answer string for an input English question.
+Question: who sings i can't take my eyes off of you
+Answer:","[' On the left', ' Frankie Valli']",1
+233,"The goal is to predict a correct English answer string for an input English question.
+Question: who was elected president in mexico in 2000
+Answer:","[' Vicente Fox', ' Ronni Hawk']",0
+234,"The goal is to predict a correct English answer string for an input English question.
+Question: who overthrew the mongols and established the ming dynasty
+Answer:","[' Zhu Yuanzhang', ' Capsid']",0
+235,"The goal is to predict a correct English answer string for an input English question.
+Question: when did hollywood become the centre of the film industry
+Answer:","[' 1912', ' 19 August 2018']",0
+236,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the full form of cfc's
+Answer:","[' Donald Bradman', ' Chlorofluorocarbons']",1
+237,"The goal is to predict a correct English answer string for an input English question.
+Question: who played shmuel in the boy in the striped pyjamas
+Answer:","[' The Yorkshire Dales', ' Jack Scanlon']",1
+238,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the thames river begin and end
+Answer:","[' Republic of China', ' Lighthouse Cove']",1
+239,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote and performed i can only imagine
+Answer:","[' Christian rock band MercyMe', ' Brandy']",0
+240,"The goal is to predict a correct English answer string for an input English question.
+Question: what was the actual year that the movie regarding the titans took place
+Answer:","[' 1998', ' 1971']",1
+241,"The goal is to predict a correct English answer string for an input English question.
+Question: when is the opening ceremonies of the olympics 2018
+Answer:","[' Port Washington , Wisconsin', ' 9 February 2018']",1
+242,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the name of india pakistan border
+Answer:","[' Davy Jones', ' International Border ( IB )']",1
+243,"The goal is to predict a correct English answer string for an input English question.
+Question: when did i'm coming out come out
+Answer:","[' August 22 , 1980', ' 2002']",0
+244,"The goal is to predict a correct English answer string for an input English question.
+Question: what color is the cue ball in pool
+Answer:","[' May 3 , 2017', ' White']",1
+245,"The goal is to predict a correct English answer string for an input English question.
+Question: who took control of jamestown and made new rules that made everyone work
+Answer:","[' John Smith', ' The Friends of Distinction']",0
+246,"The goal is to predict a correct English answer string for an input English question.
+Question: where did the northernmost land action of the american civil war occur
+Answer:","[' St. Albans , Vermont', ' Kostas']",0
+247,"The goal is to predict a correct English answer string for an input English question.
+Question: where did maria work in west side story
+Answer:","[' The dress shop', ' Dakota Johnson']",0
+248,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the worlds first laptop computer introduced in the market and by whom
+Answer:","[' September 1980', ' Rao Deva']",0
+249,"The goal is to predict a correct English answer string for an input English question.
+Question: a single period of precession of earth's axis is completed in about
+Answer:","[' Barry Bonds', ' 26,000 years']",1
+250,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays carrie's boss on king of queens
+Answer:","[' Cam Newton', ' Doug Pruzan']",1
+251,"The goal is to predict a correct English answer string for an input English question.
+Question: what was the tower of london originally used for
+Answer:","[' Nathan Riggs', ' A royal residence']",1
+252,"The goal is to predict a correct English answer string for an input English question.
+Question: when does the sa node begin electrical signaling
+Answer:","[' Elisabeth Judson Shue', ' Spontaneously']",1
+253,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the corporate tax rate in great britain
+Answer:","[' 20 %', ' 554']",0
+254,"The goal is to predict a correct English answer string for an input English question.
+Question: where does what in the sam hill come from
+Answer:","[' Simple bowdlerization', ' Alden Ehrenreich']",0
+255,"The goal is to predict a correct English answer string for an input English question.
+Question: consist of the sum of the fixed and variable costs for any given level of production
+Answer:","[' France', ' Total cost ( TC )']",1
+256,"The goal is to predict a correct English answer string for an input English question.
+Question: where are the cardiac and vasomotor centers found
+Answer:","[' The medulla oblongata', ' September 24 , 2011']",0
+257,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the rate limiting enzyme of kreb's cycle
+Answer:","[' Christine Taylor', ' Isocitrate dehydrogenase']",1
+258,"The goal is to predict a correct English answer string for an input English question.
+Question: where is fort myers located at in florida
+Answer:","[' ⊂', ' Lee County']",1
+259,"The goal is to predict a correct English answer string for an input English question.
+Question: which is the site of the light dependent reactions of photosynthesis
+Answer:","[' The thylakoid membranes', ' 2018']",0
+260,"The goal is to predict a correct English answer string for an input English question.
+Question: converting stereo signal to mono signal is called
+Answer:","[' Ten', ' Panning']",1
+261,"The goal is to predict a correct English answer string for an input English question.
+Question: for complaints of sudden chest pain patients should take a
+Answer:","[' Aspirin', ' 2009']",0
+262,"The goal is to predict a correct English answer string for an input English question.
+Question: where do the royalties for winnie the pooh go
+Answer:","[' Slesinger , Inc.', ' 1980']",0
+263,"The goal is to predict a correct English answer string for an input English question.
+Question: who wrote the song always be humble and kind
+Answer:","[' Lori McKenna', ' JoAnna Garcia']",0
+264,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the ultimate objective of financial management
+Answer:","[' City', ' Profit maximization']",1
+265,"The goal is to predict a correct English answer string for an input English question.
+Question: who sang it my party and i'll cry if i want to in the 80
+Answer:","[' Dave Stewart and Barbara Gaskin', ' Mean platelet volume']",0
+266,"The goal is to predict a correct English answer string for an input English question.
+Question: what percent of the us population controls the wealth
+Answer:","[' 17 / 03 / 2018', ' 1 %']",1
+267,"The goal is to predict a correct English answer string for an input English question.
+Question: who are the stars in dancing with the stars
+Answer:","[' Philadelphia 76ers', ' Tonya Harding']",1
+268,"The goal is to predict a correct English answer string for an input English question.
+Question: who is the current defence against the dark arts teacher
+Answer:","[' Mizoram', ' Amycus Carrow']",1
+269,"The goal is to predict a correct English answer string for an input English question.
+Question: who won french open 2017 tennis tournament in men's double category
+Answer:","[' Mandarin', ' Ryan Harrison']",1
+270,"The goal is to predict a correct English answer string for an input English question.
+Question: who does the voice of the elephant in sing
+Answer:","[' John Lennon', ' Tori Kelly']",1
+271,"The goal is to predict a correct English answer string for an input English question.
+Question: during the great depression in the 1930s the u.s. economy experienced a
+Answer:","[' R&B', ' An economic recession']",1
+272,"The goal is to predict a correct English answer string for an input English question.
+Question: who did michigan state play in the rose bowl
+Answer:","[' Jon Bon Jovi', ' Stanford Cardinal']",1
+273,"The goal is to predict a correct English answer string for an input English question.
+Question: when was to god be the glory written
+Answer:","[' Around 1872', ' July 16 , 2017']",0
+274,"The goal is to predict a correct English answer string for an input English question.
+Question: who has the most votes for the all star game
+Answer:","[' Fan voting', ' Seven']",0
+275,"The goal is to predict a correct English answer string for an input English question.
+Question: what percentage of the population is naturally blonde
+Answer:","[' The United States of America', ' 2 %']",1
+276,"The goal is to predict a correct English answer string for an input English question.
+Question: who created the borders of africa's countries
+Answer:","[' European imperial powers', ' Between 1987 and 1994']",0
+277,"The goal is to predict a correct English answer string for an input English question.
+Question: whats the difference between tomato paste and tomato puree
+Answer:","[' Neonate', ' Consistency']",1
+278,"The goal is to predict a correct English answer string for an input English question.
+Question: who sings for the beast in the new movie
+Answer:","[' Dan Stevens', ' Evaporation']",0
+279,"The goal is to predict a correct English answer string for an input English question.
+Question: who plays sven in the santa clarita diet
+Answer:","[' 28 June 1919', ' Leo Howard']",1
+280,"The goal is to predict a correct English answer string for an input English question.
+Question: when will notre dame played michigan state again
+Answer:","[' 2026', ' July 1980']",0
+281,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last time vancouver had an earthquake
+Answer:","[' July 20 , 2018', ' 1946']",1
+282,"The goal is to predict a correct English answer string for an input English question.
+Question: where did the titanic sink at what ocean
+Answer:","[' Timothy Carter', ' North Atlantic Ocean']",1
+283,"The goal is to predict a correct English answer string for an input English question.
+Question: where is the extensor pollicis longus tendon located
+Answer:","[' Bluegrass', ' Dorsally on the forearm']",1
+284,"The goal is to predict a correct English answer string for an input English question.
+Question: who shot first in the shot heard around the world
+Answer:","[' From 1973 to 2010', ' Americans acting under orders']",1
+285,"The goal is to predict a correct English answer string for an input English question.
+Question: where does the phrase dressed to the nines
+Answer:","[' 50', ' Scots in origin']",1
+286,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the system of government in japan
+Answer:","[' 1992 -- 93', ' Constitutional monarchy']",1
+287,"The goal is to predict a correct English answer string for an input English question.
+Question: who won the womens 2017 ncaa basketball tournament
+Answer:","[' Nolan Ryan', ' South Carolina']",1
+288,"The goal is to predict a correct English answer string for an input English question.
+Question: when was the last time mount ruapehu erupted
+Answer:","[' 25 September 2007', ' Alexandra Daddario']",0
+289,"The goal is to predict a correct English answer string for an input English question.
+Question: what is the name of the first earthquake early warning system
+Answer:","[' Mackenzie Foy', ' 1991']",1
+290,"The goal is to predict a correct English answer string for an input English question.
+Question: what are the top five wine producing states
+Answer:","[' California', ' Librarians']",0
+291,"The goal is to predict a correct English answer string for an input English question.
+Question: where was the first high level language operating system created
+Answer:","[' Queen', ' At IBM']",1
+292,"The goal is to predict a correct English answer string for an input English question.
+Question: when does planet of the apes come out 2017
+Answer:","[' July 14 , 2017', ' Peggy Seeger']",0
+293,"The goal is to predict a correct English answer string for an input English question.
+Question: who was the 19th c. artist who was both painter and graphic designer
+Answer:","[' René Georges Hermann - Paul', ' 1520']",0
+294,"The goal is to predict a correct English answer string for an input English question.
+Question: who has a ring of power in lotr
+Answer:","[' Swaziland', ' Sauron']",1
+295,"The goal is to predict a correct English answer string for an input English question.
+Question: sweet leavened bread prepared for easter in romania
+Answer:","[' 2000', ' Cozonac']",1
+296,"The goal is to predict a correct English answer string for an input English question.
+Question: when was as you like it first performed
+Answer:","[' 1450s', ' 1603']",1
+297,"The goal is to predict a correct English answer string for an input English question.
+Question: what information is displayed in clear text from the ftp header
+Answer:","[' All transmissions', ' September 14 , 1978']",0
+298,"The goal is to predict a correct English answer string for an input English question.
+Question: when will fairy tail final season be released
+Answer:","[' 2018', ' Rick Evans']",0
+299,"The goal is to predict a correct English answer string for an input English question.
+Question: what do the 3 dots mean in math
+Answer:","[' The therefore sign',' Tom Brady']",0

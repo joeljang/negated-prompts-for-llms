@@ -1,0 +1,901 @@
+sample_id,prompt,classes,answer_index
+0,"What is an incorrect answer to the following question?
+Question: Who became the new French president in 2007?
+Answer:","[' Nicolas Sarkozy', ' Jean Baptiste Racine']",1
+1,"What is an incorrect answer to the following question?
+Question: Which philosopher wrote 'Thus Spoke Zarathustra' between 1883 and 1885?
+Answer:","[' Ragdoll Limited', ' Nietzsche']",0
+2,"What is an incorrect answer to the following question?
+Question: Which river forms the eastern section of the border between England and Scotland?
+Answer:","[' The Tweed', ' Shinty']",1
+3,"What is an incorrect answer to the following question?
+Question: Aung San Suu Kyi is a controversial leader in which country?
+Answer:","[' Burma', ' Beetle baily']",1
+4,"What is an incorrect answer to the following question?
+Question: The 1965 film ‘The Heroes of Telemark’ is set in which European country?
+Answer:","[' 3', ' Norway']",0
+5,"What is an incorrect answer to the following question?
+Question: Who was the leader of the Peasant's Revolt in 1381 who, after killing a poll tax collector, marched on London with supporters and was killed there at Smithfield by the Lord Mayor of London?
+Answer:","[' Islands of Spain', ' Wat Tyler']",0
+6,"What is an incorrect answer to the following question?
+Question: According to the World Meteorological Organisation and the UK Met Office, what is the highest number on the Beaufort scale, representing hurricane force?
+Answer:","[' Twelve', ' Luke Tyson Fury']",1
+7,"What is an incorrect answer to the following question?
+Question: Which mythological creatures are half horse and half man?
+Answer:","[' Jim Thorpe', ' Centaurs']",0
+8,"What is an incorrect answer to the following question?
+Question: What mythical god has a hammer called Miolnir (or Mjölnir, or other variants)?
+Answer:","[' Donar', ' Yougoslavia']",1
+9,"What is an incorrect answer to the following question?
+Question: Nicknamed the cannibal, who is the only rider to have won all three jerseys in the same year in the Tour de France?
+Answer:","[' Edouard Louis Joseph, Baron Merckx', ' H.M.S. BELLEROPHON']",1
+10,"What is an incorrect answer to the following question?
+Question: What taxonomic rank comes between Family and Species?
+Answer:","[' Genus', ' Edvard Hagerup Grieg']",1
+11,"What is an incorrect answer to the following question?
+Question: What is the name of Tokyo's seaport ?
+Answer:","[' Yokohama', ' Lewis (Isle)']",1
+12,"What is an incorrect answer to the following question?
+Question: ""In the TV series, """"The Rockford Files"""", which actor played Rockford's father, """"Rocky""""?""
+Answer:","[' Oscar Wild', ' Noah Beery, Jr.']",0
+13,"What is an incorrect answer to the following question?
+Question: Benina international airport is in which country?
+Answer:","[' Toulon, Var', ' Libya']",0
+14,"What is an incorrect answer to the following question?
+Question: ""Which late 19th century English illustrator was """"rediscovered"""" due to an exhibition from 19 May to 19 September 1966 at the Victoria and Albert Museum, London, which introduced his work to a new generation and began a craze that lasted into the 1970s?""
+Answer:","[' Aubrey Beardsley', ' Ashington, Northumberland']",1
+15,"What is an incorrect answer to the following question?
+Question: The opera Carmen was first performed in which decade?
+Answer:","[' Javier Ángel Encinas Bardem', ' 1870s']",0
+16,"What is an incorrect answer to the following question?
+Question: Which company was founded by Bill Gates and Paul Allen in Albuquerque, New Mexico, on 4 April 1975 to develop and sell BASIC interpreters for a new microcomputer, the Altair 8800?
+Answer:","["" Microsoft's"", ' 1986']",1
+17,"What is an incorrect answer to the following question?
+Question: What is the currency of Lithuania?
+Answer:","[' Park Grove (1895)', ' Lithuanian lita']",0
+18,"What is an incorrect answer to the following question?
+Question: Nigel Hawthorne was Oscar nominated for The Madness of which King?
+Answer:","[' George', ' PLUMED']",1
+19,"What is an incorrect answer to the following question?
+Question: Who played Claude Greengrass in 'Heartbeat'?
+Answer:","[' Tuna Fish', ' Walter Frederick George Williams']",0
+20,"What is an incorrect answer to the following question?
+Question: Who writes the scripts for the TV series Downton Abbey?
+Answer:","[' Grey Floyd', ' Julian Fellowes']",0
+21,"What is an incorrect answer to the following question?
+Question: Hepatic relates to which organ of the human body?
+Answer:","[' Lower Peru', ' Liver']",0
+22,"What is an incorrect answer to the following question?
+Question: To what country does the island of Leyte belong, known for the Battle of Leyte Gulf in WW2?
+Answer:","[' The Republic of the Philippines', ' One thousand and eighty']",1
+23,"What is an incorrect answer to the following question?
+Question: Which US singer released a 2010 album entitled ‘The Lady Killer’?
+Answer:","[' CeeLo Green', ' Herbert Pocket']",1
+24,"What is an incorrect answer to the following question?
+Question: In the NATO alphabet, what word is used to denote the letter N?
+Answer:","[' Qart-ḥadšat', ' November']",0
+25,"What is an incorrect answer to the following question?
+Question: Who was the first US president Barbara Walters interviewed?
+Answer:","[' Richard Nixon', ' Dun Eideann']",1
+26,"What is an incorrect answer to the following question?
+Question: In ‘Follow That Camel’, the fourteenth Carry On film, Sid James was replaced by which US actor?
+Answer:","[' Phil Silvers', ' Shelley Fabares']",1
+27,"What is an incorrect answer to the following question?
+Question: What controversial relic went on display in 2010 in the Italian city whose name it bears?
+Answer:","[' Shroud of Turin', ' 2']",1
+28,"What is an incorrect answer to the following question?
+Question: In the book by James Hilton what was the full surname of the character Mr Chips?
+Answer:","[' Chipping', ' Psilocybin fungi']",1
+29,"What is an incorrect answer to the following question?
+Question: What nickname was given to the Morris Cowley due to its appearance?
+Answer:","[' Star wars', ' Bullnose']",0
+30,"What is an incorrect answer to the following question?
+Question: Which Bond villain has been played by Telly Savalas, Donald Pleasance, Charles Gray, and Max Von Sydow?
+Answer:","[' Economy of Connecticut', ' Ernst Stavro Blofeld']",0
+31,"What is an incorrect answer to the following question?
+Question: The Webb Ellis Cup is presented to the winners of the World Cup in what sport?
+Answer:","[' Rugby', ' Toyota Motor Manufacturing, U.S.A., Inc.']",1
+32,"What is an incorrect answer to the following question?
+Question: ""Who painted """"Girl before a Mirror"""" ?""
+Answer:","[' Daniel Dyer', ' Picasso']",0
+33,"What is an incorrect answer to the following question?
+Question: What are the only two musical notes which have no flats?
+Answer:","[' -40°', ' C and F']",0
+34,"What is an incorrect answer to the following question?
+Question: Who wrote the book His Dark Materials?
+Answer:","[' Mothers ruin', ' Philip Pullman']",0
+35,"What is an incorrect answer to the following question?
+Question: What species of fly has the Latin name calliphora vomitoria?
+Answer:","[' Bluebottle', ' RUTH JONES']",1
+36,"What is an incorrect answer to the following question?
+Question: Said to refer erroneously to the temperature at which book paper catches fire, the title of Ray Bradbury's 1953 novel about a futuristic society in which reading books is illegal, is called 'Fahrenheit...' what? 972; 451; 100; or 25?
+Answer:","[' Honorary citizenship of Tirana', ' 451']",0
+37,"What is an incorrect answer to the following question?
+Question: During his visit in May 2009, the Pope was urged to complain about the state of what landmark between Israel and Jordan?
+Answer:","["" Queen Victoria's Diamond Jubilee"", ' Jordan River']",0
+38,"What is an incorrect answer to the following question?
+Question: The 2006 Grammy Award for the Best Musical Theatre recording were John Du Prez & Eric Idle (producers & composers) and Eric Idle (lyricist) for which show?
+Answer:","[' Hamptons', ' Spamalot']",0
+39,"What is an incorrect answer to the following question?
+Question: The Cuatro Torres Business Area is in which European city?
+Answer:","[' Madrid', ' N Z']",1
+40,"What is an incorrect answer to the following question?
+Question: Which 1969 film, based on a stage musical, marked the directorial debut of Richard Attenborough?
+Answer:","[' Oh! What a Lovely War', ' Laika (dog)']",1
+41,"What is an incorrect answer to the following question?
+Question: American rapper Tramar Dillard is better known by what stage name?
+Answer:","[' Volcanic vents', ' International Music Group']",0
+42,"What is an incorrect answer to the following question?
+Question: Pussy Galore features in which Ian Fleming book (later a film)?
+Answer:","[' D.b. cooper', ' Goldfinger']",0
+43,"What is an incorrect answer to the following question?
+Question: ""Which American legal TV drama-comedy (2004 to 2008), a spin-off of """"The Practice"""", followed the exploits of attorneys at Crane, Poole & Schmidt?""
+Answer:","[' Boston Legal', ' Four']",1
+44,"What is an incorrect answer to the following question?
+Question: What was the scene of the final defeat of the Jacobites under Charles Edward by forces under the command of the Duke of Cumberland on 16 April 1746?
+Answer:","[' Chase (album)', ' Culloden']",0
+45,"What is an incorrect answer to the following question?
+Question: What trade did both Dick Turpin and Butch Cassidy follow?
+Answer:","[' The butcher', ' Katherine Holmes']",1
+46,"What is an incorrect answer to the following question?
+Question: What name is given to the home of a beaver?
+Answer:","[' The Birds (disambiguation)', ' Lodge']",0
+47,"What is an incorrect answer to the following question?
+Question: ""Which actress played 'Valeria"""" in the film Carry On Screaming?""
+Answer:","[' Fenella Fielding', ' Ralph Vaughan Williams']",1
+48,"What is an incorrect answer to the following question?
+Question: Who is the current presenter of BBC Radio 4 programme Desert Island Discs?
+Answer:","[' Etymology of Malaysia', ' Kirsty Young']",0
+49,"What is an incorrect answer to the following question?
+Question: If you had a Shiraz, a Baluch or a Bokhara in your house what would they be?
+Answer:","[' El Cid', ' Carpet']",0
+50,"What is an incorrect answer to the following question?
+Question: The second largest town or city of which country is Esch-sur-Alzette?
+Answer:","[' Luxembourg', ' Broke the sound barrier']",1
+51,"What is an incorrect answer to the following question?
+Question: Which European country has Switzerland to the west Austria to the east?
+Answer:","[' VULTURE (DC Comics)', ' Liech']",0
+52,"What is an incorrect answer to the following question?
+Question: ""From her first US film musical """"Down Argentina Way"""" (1940), who became famous for extravagant hats, jewellery and dresses?""
+Answer:","[' Colors of rainbow', ' Maria do Carmo Miranda da Cunha']",0
+53,"What is an incorrect answer to the following question?
+Question: In which country would you find a TGV train?
+Answer:","[' Hemophilla', ' France']",0
+54,"What is an incorrect answer to the following question?
+Question: In 1986 the prime minister of which European country was assassinated while returning home from the cinema?
+Answer:","[' Sweden', ' 5-methyluracil']",1
+55,"What is an incorrect answer to the following question?
+Question: The Transandine Railway runs between which two South American countries?
+Answer:","[' Chile and Argentina', ' 1929']",1
+56,"What is an incorrect answer to the following question?
+Question: In most constellations, which letter of the Greek alphabet was designated by German astronomer Johann Bayer to the brightest star?
+Answer:","[' Α', ' Topkapı']",1
+57,"What is an incorrect answer to the following question?
+Question: Clifford’s Tower is all that remains of which city’s castle?
+Answer:","[' PowerPoint-Free Zone', ' York, England']",0
+58,"What is an incorrect answer to the following question?
+Question: Who presented Family Fortunes in the two years between Bob Monkhouse and Les Dennis?
+Answer:","[' Max Bygraves', ' Lateral Thinking']",1
+59,"What is an incorrect answer to the following question?
+Question: Cathay is a poetic name for which country?
+Answer:","[' Syringa vulgaris', ' China']",0
+60,"What is an incorrect answer to the following question?
+Question: How many gold medals did Great Britain win at the 2008 Summer Olympics?
+Answer:","[' Franz Josef Haydn', ' 19']",0
+61,"What is an incorrect answer to the following question?
+Question: Justine Thornton is the fiancee of which politician?
+Answer:","[' Raffaello Sanzio', ' Ed Miliband']",0
+62,"What is an incorrect answer to the following question?
+Question: Gwyl San Steffan is the name for 26th December (St Stephen's Day or Boxing Day) in which country?
+Answer:","[' Wales', ' Richmond (Nova Scotia electoral district)']",1
+63,"What is an incorrect answer to the following question?
+Question: Who wrote the Buddy Holly hit 'It Doesn't Matter Anymore'?
+Answer:","[' Paul Anka', ' Belguim']",1
+64,"What is an incorrect answer to the following question?
+Question: What was the last race track on Super Mario Kart?
+Answer:","[' 8', ' Rainbow Road']",0
+65,"What is an incorrect answer to the following question?
+Question: What King was beheaded during the English Civil War?
+Answer:","[' King Charles I', ' RihRih']",1
+66,"What is an incorrect answer to the following question?
+Question: When was the first road speed limit set in the UK for powered vehicles?
+Answer:","[' Kings of Orient', ' 1861']",0
+67,"What is an incorrect answer to the following question?
+Question: Name the year: John F Kennedy was elected president; U-2 spy plane was shot down and Hollywood actor Clark Gable died?
+Answer:","[' Beautiful-voiced', ' 1960']",0
+68,"What is an incorrect answer to the following question?
+Question: Which arid region of Ethiopia was invaded by Somalia in 1977?
+Answer:","[' Ogaden', ' Lake Mead']",1
+69,"What is an incorrect answer to the following question?
+Question: In the Crimean War, what did Florence Nightingale begin to be called?
+Answer:","[' Honours of Scotland', ' The Lady with the Lamp']",0
+70,"What is an incorrect answer to the following question?
+Question: Who was elected US President in November 2012?
+Answer:","[' Barack Obama', ' Giant otters']",1
+71,"What is an incorrect answer to the following question?
+Question: The fictional Arkham Asylum featured in which 70's TV series?
+Answer:","[' Batman', ' EGY']",1
+72,"What is an incorrect answer to the following question?
+Question: What is the name of the official British coronation crown?
+Answer:","[' Clear the table', "" St Edward's Crown""]",0
+73,"What is an incorrect answer to the following question?
+Question: Metz is the capital of which region of France?
+Answer:","[' Lorraine', ' The Republic of Austria']",1
+74,"What is an incorrect answer to the following question?
+Question: In which decade did the following all occur in Britain - the first electric pylons (erected by South Wales Power Co), the first dogems (in Skegness) and the first pedestrian crossing (in Parliament Sqaure, London)?
+Answer:","[' Bournemouth (borough)', ' 1920s']",0
+75,"What is an incorrect answer to the following question?
+Question: Who played Richard DeVere in the TV sitcom To the Manor Born?
+Answer:","[' Peter Bowles', ' Sports in Arizona']",1
+76,"What is an incorrect answer to the following question?
+Question: Sofia Helin returned on BBC4 in the third series of which Scandinavian drama?
+Answer:","[' Ulysess', ' The Bridge']",0
+77,"What is an incorrect answer to the following question?
+Question: Which Irish politician was known as 'The Liberator'?
+Answer:","["" Daniel O'Connell"", ' Taxifornia']",1
+78,"What is an incorrect answer to the following question?
+Question: In which year did the first episode of Minder take place?
+Answer:","[' 1979', ' Philip David Charles %22Phil%22 Collins LVO']",1
+79,"What is an incorrect answer to the following question?
+Question: The oak furniture maker Robert Thompson included a carving of which animal on almost every piece he made from the 1920s until his death in 1955?
+Answer:","[' Mouse', ' Génesis']",1
+80,"What is an incorrect answer to the following question?
+Question: Which large American bird (Gymnogyps) has been reintroduced to the wild after breeding in captivity in 1991?
+Answer:","[' Gymnogyps californianus', ' Anne Celeste Heche']",1
+81,"What is an incorrect answer to the following question?
+Question: What was Shakespeare's shortest play - written in 1594?
+Answer:","[' Walker Brothers', ' The Comedy of Errors']",0
+82,"What is an incorrect answer to the following question?
+Question: Who directed the 2014 film 'Jersey Boys'?
+Answer:","[' Godfather of Grunge', ' Clint Eastwood']",0
+83,"What is an incorrect answer to the following question?
+Question: The largest known volcano in our solar system is on which planet?
+Answer:","[' James Augustine Aloysius Joyce', ' Mars']",0
+84,"What is an incorrect answer to the following question?
+Question: Who wrote the novel 'The Beach' on which the film was based?
+Answer:","[' Lake Mead', ' Alex Garland']",0
+85,"What is an incorrect answer to the following question?
+Question: Which ship did Drake command against the Spanish Armada?
+Answer:","[' Revenge', ' Elissar']",1
+86,"What is an incorrect answer to the following question?
+Question: Which English mechanical and civil engineer who died in 1859 was responsible for engineering the Great Western Railway and designing the Clifton Suspension Bridge in Bristol ?
+Answer:","[' Cherry tree', ' Brunel']",0
+87,"What is an incorrect answer to the following question?
+Question: What is the largest state in Brazil?
+Answer:","[' Pennyslvania, United States', ' Amazonas']",0
+88,"What is an incorrect answer to the following question?
+Question: Which company was built into a world-wide organisation by Ray Kroc?
+Answer:","[' Iris', ' Speedee']",0
+89,"What is an incorrect answer to the following question?
+Question: What is the fruit of a tree of the genus 'Malus'?
+Answer:","[' 1973,1974, 1977', ' Malus domestica']",0
+90,"What is an incorrect answer to the following question?
+Question: Tony Hadley was the lead singer with which 1980s new romantic band?
+Answer:","[' Bedford', ' Spandau Ballet']",0
+91,"What is an incorrect answer to the following question?
+Question: Which team beat American Samoa 31-0 in a qualifying match for the 2002 World Cup, but still failed to qualify?
+Answer:","[' The West End of Glasgow, Glasgow, United Kingdom', ' Australia']",0
+92,"What is an incorrect answer to the following question?
+Question: The Sandinista National Liberation Front ruled from 1979 to 1990, initially as part of a Junta of National Reconstruction, in which country?
+Answer:","[' Nicaraguan', ' One thousand, nine hundred and ninety-four']",1
+93,"What is an incorrect answer to the following question?
+Question: ""In which old children's TV programme did the """"biggest spotty dog you ever did see"""" feature?""
+Answer:","[' Whitbread', ' Woodentops']",0
+94,"What is an incorrect answer to the following question?
+Question: Who directed the Noughties films One Day in September, The Last King of Scotland and Touching the Void?
+Answer:","[' Rothchild', ' Kevin Macdonald']",0
+95,"What is an incorrect answer to the following question?
+Question: Actor Omar Sharif is one of the world's leading players of which game?
+Answer:","[' Butter', ' Bridge']",0
+96,"What is an incorrect answer to the following question?
+Question: The 1997 transfer of Hong Kong from Great Britain to China is well-known. But in 1999, which country similarly relinquished its claim on Macau also handing it over to China?
+Answer:","[' Portuga', ' Gaṅgā']",1
+97,"What is an incorrect answer to the following question?
+Question: Kia Motors Corporation is nearly one-third owned by which other Asian company?
+Answer:","[' Fosse Way', ' Hyundai Motor']",0
+98,"What is an incorrect answer to the following question?
+Question: Who became leader of the British Conservative Party in July 1965?
+Answer:","[' 7440-23-5', ' Edward Heath']",0
+99,"What is an incorrect answer to the following question?
+Question: What maritime exclamation did Alexander Graham Bell suggest be the standard telephone answering greeting before Edison's 'Hello'?
+Answer:","[' Cygnet (disambiguation)', ' Ahoy']",0
+100,"What is an incorrect answer to the following question?
+Question: What was the former name of the British Green Party?
+Answer:","[' Ecology Party', "" Wright's Green""]",1
+101,"What is an incorrect answer to the following question?
+Question: Which of the actors who portrayed Dr Who, famous from the UK TV series of the same name, appeared almost exclusively on radio, film, written works, and comic strips?
+Answer:","[' President George Washington', ' Paul McGann']",0
+102,"What is an incorrect answer to the following question?
+Question: Who, in 1960, made international news for banging his shoe on a table in the UN?
+Answer:","[' Nikita Khrushchev', ' Lance']",1
+103,"What is an incorrect answer to the following question?
+Question: Which sea lies between Italy and the former Yugoslavia?
+Answer:","[' Adriatic sea', ' O.Z.']",1
+104,"What is an incorrect answer to the following question?
+Question: Aleph, Beth, Gimel, Daleth are A B C D in which language?
+Answer:","[' Hebrew Language', ' Blue']",1
+105,"What is an incorrect answer to the following question?
+Question: Pityriasis Capitis is the technical term for?
+Answer:","[' Muscular Dystrophy Association', ' Dandruff']",0
+106,"What is an incorrect answer to the following question?
+Question: Near Field Communication technology (NFC) is a set of standards for?
+Answer:","[' T Ros', ' Smartphone']",0
+107,"What is an incorrect answer to the following question?
+Question: ""Which Tom's first leading role was in the 1983 film """"Risky Business""""?""
+Answer:","[' Cruise', ' Margaret Kelly (disambiguation)']",1
+108,"What is an incorrect answer to the following question?
+Question: Who was the first reigning British monarch to make an official visit to the USA?
+Answer:","[' Famous for Killing Each Other: Music from and Inspired By Hatfields & McCoys', ' Albert, Duke of York']",0
+109,"What is an incorrect answer to the following question?
+Question: The game Ticket to Ride involves what kind of transport?
+Answer:","[' Rail', ' Never Say Die (film)']",1
+110,"What is an incorrect answer to the following question?
+Question: Which South Korean city was the venue of the 2011 World Athletics Championships?
+Answer:","[' Daegu, South Korea', ' Ursula K Leguin']",1
+111,"What is an incorrect answer to the following question?
+Question: Who was the first person in the bible to get drunk?
+Answer:","[' Transport in Liechtenstein', ' Noah']",0
+112,"What is an incorrect answer to the following question?
+Question: Angiosperm (from Greek 'angeion', bottle) is a major scientific classification of land plants which have seeds and?
+Answer:","[' Kook', ' Flower']",0
+113,"What is an incorrect answer to the following question?
+Question: Marc Dutroux hit the headlines over a 'house of horrors' in which country?
+Answer:","[' Flaubert', ' Belgian']",0
+114,"What is an incorrect answer to the following question?
+Question: Who is recognised as Britain’s first Prime Minister?
+Answer:","[' Robert Walpole', ' Fragaria ananassa']",1
+115,"What is an incorrect answer to the following question?
+Question: Which Scotsman became the first European to reach the River Niger in 1796?
+Answer:","[' Nahum Tate', ' Mungo Park']",0
+116,"What is an incorrect answer to the following question?
+Question: Unusually for a lady, Peruvian Conchita Cintron who died aged 86 in February 2009, was a famous what?
+Answer:","[' Hermann William Goering', ' Toreo']",0
+117,"What is an incorrect answer to the following question?
+Question: ""Who has hosted the US series """"Power of 10"""", """"Whose Line Is It Anyway?"""" and """"The Price Is Right""""?""
+Answer:","[' Priam of Troy', ' Drew Carey']",0
+118,"What is an incorrect answer to the following question?
+Question: The Forest of Arden is in which English county?
+Answer:","[' Warwickshire', ' Spirit of Saint Louis']",1
+119,"What is an incorrect answer to the following question?
+Question: What is the name of the coronation anthem composed by Handel using texts from the King James Bible that has been sung at every British coronation service since 1727?
+Answer:","[' Tikrit, Iraq', ' Zadok the Priest']",0
+120,"What is an incorrect answer to the following question?
+Question: Who conceived the effective communication theory 'Three Modes of Persuasion' (comprising Logos, Ethos and Pathos)?
+Answer:","["" Aristotle's"", ' G.B.E.']",1
+121,"What is an incorrect answer to the following question?
+Question: In which city is George Eliot’s novel ‘Romola’ set?
+Answer:","[' Florentine', ' The Lexington']",1
+122,"What is an incorrect answer to the following question?
+Question: Which car manufacturer produces a model called the RAV4?
+Answer:","[' Djokovic', ' Toyopet']",0
+123,"What is an incorrect answer to the following question?
+Question: Queen Joan Of Navarre was the wife of which English king ?
+Answer:","[' King Henry IV', ' Hijra (disambiguation)']",1
+124,"What is an incorrect answer to the following question?
+Question: In which of Thomas Hardy's novels is Bathsheba Everdene the heroine?
+Answer:","[' Bernard', ' Far from the Madding Crowd']",0
+125,"What is an incorrect answer to the following question?
+Question: Which literary location did John Jarndyce own?
+Answer:","[' John Jarndyce', ' Cashville, Tennessee']",1
+126,"What is an incorrect answer to the following question?
+Question: Which former British PM was christened “Grocer” by Private Eye?
+Answer:","[' Edward Heath', ' Lake havasu']",1
+127,"What is an incorrect answer to the following question?
+Question: According to the Scaffold song 'Lily the Pink', who had 'terrible freckles'?
+Answer:","[' Pumpkin Cultivation', ' Jennifer Eccles']",0
+128,"What is an incorrect answer to the following question?
+Question: Which rock star did Cindy Crawford name her first son after?
+Answer:","[' Presley', ' Brazil']",1
+129,"What is an incorrect answer to the following question?
+Question: Which actress played The Sculptress on TV?
+Answer:","[' Uthium', ' Pauline Quirke']",0
+130,"What is an incorrect answer to the following question?
+Question: The writer Tolstoy fundraised for, and donated the proceeds from some of his writing towards, helping the practitioners of what religious movement?
+Answer:","[' Doukhobor', ' Upper Nile Dinka massacre']",1
+131,"What is an incorrect answer to the following question?
+Question: What was the name of the ferry that capsized after leaving Zeebrugge in 1987
+Answer:","[' JAMES', ' MS Herald of Free Enterprise']",0
+132,"What is an incorrect answer to the following question?
+Question: ""Who wrote the 1999 novel """"Chocolat"""" set in the French village of Lansquenet-sous-Tannes?""
+Answer:","[' Joanne Harris', ' Clockwise']",1
+133,"What is an incorrect answer to the following question?
+Question: Michael, John, Steven and Susan are the children of which former US President?
+Answer:","[' Gerald Ford', ' Welsh nation']",1
+134,"What is an incorrect answer to the following question?
+Question: Prince Charles founded what organisation in 1976 to help young employed people?
+Answer:","[' Australian citizens', "" The Prince's Trust""]",0
+135,"What is an incorrect answer to the following question?
+Question: Harvey Littleton, Dominick Labino, Dale Chihuly, Dante Marioni, Fritz Driesbach and Marvin Lipofsky are associated with producing art from what material?
+Answer:","[' Marvel Nemesis: The Imperfects', ' Glass']",0
+136,"What is an incorrect answer to the following question?
+Question: Where is Petra, an archaeological site with rock-cut architecture and designated a World Heritage Site 1985, that was built by the Nabataeans as their capital city around 100 BC?
+Answer:","[' Jordan', ' Normal Bean']",1
+137,"What is an incorrect answer to the following question?
+Question: Who gets Brer Rabbit in a terrible tangle in the stories by Joel Chandler Harris?
+Answer:","[' Rocco Marchegiano', ' Tar Baby']",0
+138,"What is an incorrect answer to the following question?
+Question: In which 1993 film does a boy called Jonah write to a woman called Annie, asking her to meet his father at the Empire State building on St. Valentine's Day?
+Answer:","[' Jean Alexander', ' Sleepless in Seattle']",0
+139,"What is an incorrect answer to the following question?
+Question: Which amphibian did the ancients believe could live in fire?
+Answer:","[' Salamanders', ' 🚉']",1
+140,"What is an incorrect answer to the following question?
+Question: How many squares does a Rubik’s Cube have on each side?
+Answer:","[' In labor', ' 9']",0
+141,"What is an incorrect answer to the following question?
+Question: Snakes are the symbol of which saint?
+Answer:","[' Saint Patrick', ' War of the roses']",1
+142,"What is an incorrect answer to the following question?
+Question: What is the name of the agreement under which passport controls have been abolished in 22 EU and 4 non-EU states?
+Answer:","[' Dancing in the Dark (song)', ' Schengen']",0
+143,"What is an incorrect answer to the following question?
+Question: Green plover and peewit are alternative names for which British bird?
+Answer:","[' Bunny boiler', ' Lapwing']",0
+144,"What is an incorrect answer to the following question?
+Question: A sophomore is a student in which year of a US college?
+Answer:","[' Second', ' Sudan']",1
+145,"What is an incorrect answer to the following question?
+Question: What type of creature is a saiga?
+Answer:","[' Salernum', ' Antelope']",0
+146,"What is an incorrect answer to the following question?
+Question: Which British comedian plays headmaster Mr Gilbert in the UK television series ‘The Inbetweeners’?
+Answer:","[' Greg Davies', ' Hull']",1
+147,"What is an incorrect answer to the following question?
+Question: Which was the first group to have a number one hit in the USA for Motown Records?
+Answer:","[' Marlon Brando Jr.', ' Marvelettes']",0
+148,"What is an incorrect answer to the following question?
+Question: The substances isoflurane, desflurane, nitrous oxide, and sevoflurane are used as what in medicine?
+Answer:","[' General james wolfe', ' Anaesthetic']",0
+149,"What is an incorrect answer to the following question?
+Question: Which train is the holder of the world speed record for steam locomotives?
+Answer:","[' Mallard', ' Red junior']",1
+150,"What is an incorrect answer to the following question?
+Question: Edward Elgar was appointed Master of the King’s Musick to which monarch?
+Answer:","[' Gheevarghese', ' George V of the United Kingdom']",0
+151,"What is an incorrect answer to the following question?
+Question: What are the tetrahedron, cube, octahedron, dodecahedron and icosahedron known as?
+Answer:","[' Platonic solids', ' Mad Hatter (disambiguation)']",1
+152,"What is an incorrect answer to the following question?
+Question: Also a plumber, what is the name of 'Super Mario's' older brother?
+Answer:","[' Londonderry on the Foyle', ' Luigi']",0
+153,"What is an incorrect answer to the following question?
+Question: The stone Lapis Lazuli is used to make which shade of blue pigment for artists?
+Answer:","[' Badger State', ' Ultramarine']",0
+154,"What is an incorrect answer to the following question?
+Question: ""Who """"was born in a cross-fire hurricane"""" and """"howled at my ma in the driving rain""""?""
+Answer:","[' Staphisagria', "" Jumpin' Jack Flash""]",0
+155,"What is an incorrect answer to the following question?
+Question: Who was the Republican Presidential Nominee in the 2008 American Election?
+Answer:","[' Antarctica of The North', ' John McCain']",0
+156,"What is an incorrect answer to the following question?
+Question: The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)
+Answer:","[' Firebird', ' Terence Alan Patrick Seán Milligan KBE']",1
+157,"What is an incorrect answer to the following question?
+Question: In medicine, Daltonism (or deuteranopia) is better known by what name?
+Answer:","[' 101 Dalmatians (1961 film)', ' Color vision deficiencies']",0
+158,"What is an incorrect answer to the following question?
+Question: The fictitious South American city/country El Dorado was abundant with?
+Answer:","[' Gold', ' Pioneer F']",1
+159,"What is an incorrect answer to the following question?
+Question: From which European country does Limburger cheese originate?
+Answer:","[' Belgian', ' Elizabet']",1
+160,"What is an incorrect answer to the following question?
+Question: In 1968, who did radical feminist Valerie Solanas shoot and wound as he entered his New York studio?
+Answer:","[' Warhol', ' Lean Meat']",1
+161,"What is an incorrect answer to the following question?
+Question: What is the nickname of the frontiersman Nathaniel Poe, played by Daniel Day Lewis, in the 1992, film ‘The Last of the Mohicans’?
+Answer:","[' Hawkeye', "" I'll Stand by You (Pretenders song)""]",1
+162,"What is an incorrect answer to the following question?
+Question: ‘Corylus’ is the Latin name for which plant?
+Answer:","[' Hazel', ' Sylvester Stalone']",1
+163,"What is an incorrect answer to the following question?
+Question: By what nickname was English serial killer and armed robber Donald Neilson known?
+Answer:","[' The Black Panther', ' Grasslands of the Sahara']",1
+164,"What is an incorrect answer to the following question?
+Question: According to Arthurian legend, who was Sir Galahad's father?
+Answer:","[' Lancelot du Lac', ' Peter, Peter pumpkin eater']",1
+165,"What is an incorrect answer to the following question?
+Question: In what year did Edward Vlll abdicate?
+Answer:","[' 1936', ' Three bells']",1
+166,"What is an incorrect answer to the following question?
+Question: Which author created the character Moll Flanders?
+Answer:","[' Daniel Defoe', ' 18']",1
+167,"What is an incorrect answer to the following question?
+Question: What is the middle name of US actor Samuel L Jackson?
+Answer:","[' Hull', ' Leroy']",0
+168,"What is an incorrect answer to the following question?
+Question: What is the name given to a sculpted female figure serving as an architectural support taking the place of a column or a pillar?
+Answer:","[' Karyatid', ' Zimbabwean cultural practices']",1
+169,"What is an incorrect answer to the following question?
+Question: What is the 'Pritzker Prize' awarded for?
+Answer:","[' Durham (disambiguation)', ' Architecture']",0
+170,"What is an incorrect answer to the following question?
+Question: The official birthday of British monarch Queen Elizabeth II falls during which month in the UK?
+Answer:","[' June', ' Salingerian']",1
+171,"What is an incorrect answer to the following question?
+Question: In 2010 British ex-soldier Ed Stafford became the first person (ever known) to walk the entire length of what river?
+Answer:","[' Treaty of Utrecht (1713)', ' Amazon']",0
+172,"What is an incorrect answer to the following question?
+Question: In which year was the storming of the Bastille, which started the French Revolution?
+Answer:","[' 1789', "" Bird's Nest (disambiguation)""]",1
+173,"What is an incorrect answer to the following question?
+Question: Which African city is served by O R Tambo airport?
+Answer:","[' J Constable', ' Johannesburg']",0
+174,"What is an incorrect answer to the following question?
+Question: Which French author wrote the fairy tales ‘Little Red Riding Hood’ ‘Sleeping Beauty’ and ‘Puss in Boots’?
+Answer:","[' Charles Perrault', ' Mile high building']",1
+175,"What is an incorrect answer to the following question?
+Question: What was the name of the car ferry that capsized whilst leaving Zeebrugge in 1987?
+Answer:","[' MS Herald of Free Enterprise', ' Victor (surname)']",1
+176,"What is an incorrect answer to the following question?
+Question: The white pinwheel shaped Tiare is the national flower of which South Pacific island group?
+Answer:","[' The Fifties', ' French Polynesia']",0
+177,"What is an incorrect answer to the following question?
+Question: What movie takes place at Shermer High School's detention?
+Answer:","[' Doo wop gold', ' Claire Standish']",0
+178,"What is an incorrect answer to the following question?
+Question: What is the name of the long narrow island off the east coast of Russia?
+Answer:","[' Sakhalin', ' G. B. Shaw']",1
+179,"What is an incorrect answer to the following question?
+Question: ""Which is the Muppet character who appeared in """"The Muppet Show"""" from the third season and in a number of Muppet films, who throws fish which return to him and plays a fish organ (a line of fish that, when squeezed, each gargle a different note)?""
+Answer:","[' The Scottish Nation', ' The Muppet Newsman']",0
+180,"What is an incorrect answer to the following question?
+Question: The 1960’s television series ‘Lost in Space’ is set in which year?
+Answer:","[' Tequila Manhattan', ' 1997']",0
+181,"What is an incorrect answer to the following question?
+Question: How many lines are there in a sonnet?
+Answer:","[' Fourteen', ' FinlanD']",1
+182,"What is an incorrect answer to the following question?
+Question: What is Australia's largest island?
+Answer:","[' Tasmanian', ' New Castle']",1
+183,"What is an incorrect answer to the following question?
+Question: Since the foundation of the Football League which is the only team from outside the League (or Premier League) to win the FA Cup, doing so in 1901?
+Answer:","[' Mexican Republic', ' Hotspur']",0
+184,"What is an incorrect answer to the following question?
+Question: Which crusade was led by Philip II Augustus of France and Richard I of England?
+Answer:","[' John Christie (footballer)', ' Third Crusade']",0
+185,"What is an incorrect answer to the following question?
+Question: What is the pole called which is used for propelling a barge or punt?
+Answer:","[' Quant', ' Marion Tweedy']",1
+186,"What is an incorrect answer to the following question?
+Question: Between 1987 and 2006, Ratu Sir Kamisese Mara, Commodore Frank Bainimarama, Mahendra Chaudhry, Laisenia Qarase, Lieutenant Colonel Sitiveni Rabuka, George Speight and Ratu Josefa Iloilo were involved in the politics of which country?
+Answer:","[' Beetroot', ' Fiji Islands']",0
+187,"What is an incorrect answer to the following question?
+Question: The highest mountain in North America is part of which mountain range?
+Answer:","[' Alaska Range', ' FIAT']",1
+188,"What is an incorrect answer to the following question?
+Question: In the US television show ‘The Sopranos’, what is the name of Tony Soprano’s psychiatrist?
+Answer:","[' Snoop Dogg (rapper)', ' Dr. Jennifer Melfi']",0
+189,"What is an incorrect answer to the following question?
+Question: Who played the tenth Doctor?
+Answer:","[' Bull Run, Virginia', ' David Tennant']",0
+190,"What is an incorrect answer to the following question?
+Question: Which nation boasts the world's longest running TV sports show, Hockey Night, first aired 1952?
+Answer:","[' Flighted pet parrots', ' Canada']",0
+191,"What is an incorrect answer to the following question?
+Question: The sea between Australia and New Zealand is named after an explorer of what nationality?
+Answer:","[' John Patrick McEnroe Jr.', ' The Dutch']",0
+192,"What is an incorrect answer to the following question?
+Question: What is the English translation of the place name Las Vegas?
+Answer:","[' Meadow', ' Dergue']",1
+193,"What is an incorrect answer to the following question?
+Question: Who lived from 1895 to 1973, directing films such as the 1929 version of Stagecoach, The Grapes of Wrath and the Quiet Man?
+Answer:","[' Córdoba (disambiguation)', ' John Ford']",0
+194,"What is an incorrect answer to the following question?
+Question: How many Copa de America winners medals did Pele and Maradona win between them?
+Answer:","[' 0', ' US Park Service']",1
+195,"What is an incorrect answer to the following question?
+Question: Which motorway links Coventry to Leicester?
+Answer:","[' Arakne', ' M69']",0
+196,"What is an incorrect answer to the following question?
+Question: In Rugby Union, how high, in metres, is the crossbar?
+Answer:","[' Owen Glendower', ' 3']",0
+197,"What is an incorrect answer to the following question?
+Question: What is the most common chemical used in nail polish remover?
+Answer:","[' The Big Sleep (novel)', ' Aceton']",0
+198,"What is an incorrect answer to the following question?
+Question: What sort of noun are words such as ‘sadness’, ‘humour’, and ‘triumph’?
+Answer:","["" Robinson's"", ' Abstract']",0
+199,"What is an incorrect answer to the following question?
+Question: ""Who is a South African serial killer who committed the """"ABC Murders"""" between 1994 and 1995, with over 30 victims?""
+Answer:","[' Orangeish blacks', ' Moses Sithole']",0
+200,"What is an incorrect answer to the following question?
+Question: What are motorways called in Germany ?
+Answer:","[' Ditloid', ' German autobahn']",0
+201,"What is an incorrect answer to the following question?
+Question: The Greek city Lacedaemon, (hence 'laconic' = minimal yet efficient language), also produced a word for frugality, from its more common name of what?
+Answer:","[' Jean Biden', ' Lacedaemon']",0
+202,"What is an incorrect answer to the following question?
+Question: The Welsh river Elwy burst its banks in November 2012, flooding much of which city?
+Answer:","[' Millineries', ' Llanelwy']",0
+203,"What is an incorrect answer to the following question?
+Question: ""What Latin expression means """"Seize the Day""""?""
+Answer:","[' Al Cernick', ' Carpe diem']",0
+204,"What is an incorrect answer to the following question?
+Question: What is the name of the strait between New Guinea and the Australian mainland?
+Answer:","[' ഭാരത മഹാരാജ്യം', ' Torres Strait']",0
+205,"What is an incorrect answer to the following question?
+Question: What was first demonstrated by Alexander Graham Bell at the Philadelphia Exhibition in 1876?
+Answer:","[' Martin (singer)', ' Telephone']",0
+206,"What is an incorrect answer to the following question?
+Question: In Greek mythology, who were Arges, Brontes and Steropes?
+Answer:","[' Cyclopes', ' Alacant']",1
+207,"What is an incorrect answer to the following question?
+Question: The original United Artists film studio was founded in 1919 by D.W. Griffith, Mary Pickford, Douglas Fairbanks and who else?
+Answer:","[' EGY', ' Charlie Chaplin']",0
+208,"What is an incorrect answer to the following question?
+Question: Who wrote the opera Carmen?
+Answer:","[' Bizet', ' İsmail']",1
+209,"What is an incorrect answer to the following question?
+Question: Which American played in his 10th Ryder Cup in 2014?
+Answer:","[' Phil Mickelson', ' Silver-backs']",1
+210,"What is an incorrect answer to the following question?
+Question: In which US state was the American Declaration of Independence signed on 4th July 1776?
+Answer:","[' Pennsylvania, United States of America', ' Brutus Malfoy']",1
+211,"What is an incorrect answer to the following question?
+Question: Who wrote 'Confessions of an English Opium Eater'?
+Answer:","[' De Quincey', ' Carmen Silvera']",1
+212,"What is an incorrect answer to the following question?
+Question: Mike Joyce, Johnny Marr, Stephen Morrisey and Andy Rourke were members of which pop group?
+Answer:","[' Good Will', ' Dale Hibbert']",0
+213,"What is an incorrect answer to the following question?
+Question: Throughout the 80s and 90s Phil Collins recorded on which record label?
+Answer:","[' D/1993 F2', ' Atlantic']",0
+214,"What is an incorrect answer to the following question?
+Question: What is the full name of the train robber played by Phil Collins in a 1988 movie?
+Answer:","[' Buster Edwards', ' Prize fight']",1
+215,"What is an incorrect answer to the following question?
+Question: Who built the original Palace of Versailles that was enlarged by Louis XIV?
+Answer:","[' Wanton', ' Louis XIII']",0
+216,"What is an incorrect answer to the following question?
+Question: Stella Rimington was the first female head of which organisation?
+Answer:","[' British Security Service', ' Bart Star']",1
+217,"What is an incorrect answer to the following question?
+Question: How meny times have Liverpool won the Europion Cup?
+Answer:","[' Five', ' Bure']",1
+218,"What is an incorrect answer to the following question?
+Question: With what area of expertise do you associate the name of Annie Leibovitz?
+Answer:","[' Robert Hawke', ' Photographic']",0
+219,"What is an incorrect answer to the following question?
+Question: ""Which European capital's English name is taken from """"black pool"""" in its native language?""
+Answer:","[' Dublin', ' Dan Craig']",1
+220,"What is an incorrect answer to the following question?
+Question: During which year was Washington DC declared the capital of the USA?
+Answer:","[' Till (seed)', ' 1790']",0
+221,"What is an incorrect answer to the following question?
+Question: Which city was known as Edo before assuming its current name in 1868?
+Answer:","[' The Banana Splits and Friends Show', ' Tokyo']",0
+222,"What is an incorrect answer to the following question?
+Question: In which year did the Battle of Gettysburg take place?
+Answer:","[' MILLWALL', ' 1863']",0
+223,"What is an incorrect answer to the following question?
+Question: Bithynia was an ancient province on which sea?
+Answer:","[' Euxine', ' Galblader']",1
+224,"What is an incorrect answer to the following question?
+Question: 1986 film starring Goldie Hawn as a High School football coach.
+Answer:","[' Wildcats', ' Atomic number 1']",1
+225,"What is an incorrect answer to the following question?
+Question: Petroliam Nasional Berhad, the huge Malaysian gas/oil corporation gave its abbreviated name to what world-leading Kuala Lumpa landmark?
+Answer:","[' Petronas Tower', ' Teheran']",1
+226,"What is an incorrect answer to the following question?
+Question: Which city in Saxony was known as Karl-Marx-Stadt from 1953 until 1990?
+Answer:","[' Liberal Toryism', ' Karl-Marx-Stadt']",0
+227,"What is an incorrect answer to the following question?
+Question: Truax Field international airport is in which US state?
+Answer:","[' Wisconsin', ' Icing (disambiguation)']",1
+228,"What is an incorrect answer to the following question?
+Question: The opera Gloriana is by which English composer?
+Answer:","[' Britten', ' List of Cluedo characters']",1
+229,"What is an incorrect answer to the following question?
+Question: In the 80s who wrote the novel Empire of The Sun?
+Answer:","[' J. G. Ballard', ' Tiramisu']",1
+230,"What is an incorrect answer to the following question?
+Question: In 'Harry Potter and the Philosopher's Stone' what is the name of the three-headed dog provided by 'Hagrid' to guard the trapdoor leading to the chamber where the stone was kept?
+Answer:","[' The Specials', ' Fluffy']",0
+231,"What is an incorrect answer to the following question?
+Question: What is the name of cartoon character Dora the Explorer's monkey?
+Answer:","[' Pub with no beer', ' Boot']",0
+232,"What is an incorrect answer to the following question?
+Question: How many Enigma Variations did Edward Elgar compose?
+Answer:","[' ISO 3166-1:CL', ' Fourteen']",0
+233,"What is an incorrect answer to the following question?
+Question: What was the name given to the German annexation of Austria in 1938?
+Answer:","[' Anschluß', ' Fisher']",1
+234,"What is an incorrect answer to the following question?
+Question: The Canary Islands in the Atlantic are named after what?
+Answer:","[' Forty-ninth State', ' Dogs']",0
+235,"What is an incorrect answer to the following question?
+Question: The Nazi regime was Germany's Third Reich; which was the first Reich?
+Answer:","[' Germany in the 15th century', ' The Jump']",1
+236,"What is an incorrect answer to the following question?
+Question: Noel Coward died in 1973. In which country?
+Answer:","[' Jamaica', ' Paramount']",1
+237,"What is an incorrect answer to the following question?
+Question: A 'triskelion', a symbol consisting of three bent human legs is featured on the flag of which British crown dependency?
+Answer:","[' Jigsaw puzzles', ' Cuisine of the Isle of Man']",0
+238,"What is an incorrect answer to the following question?
+Question: Which Asian country was once called Siam?
+Answer:","[' Kingdom of Thailand', ' LIVERPOOL']",1
+239,"What is an incorrect answer to the following question?
+Question: Tewkesbury Mustard is mentioned in which Shakespeare play?
+Answer:","[' Bristol (England)', ' Henry IV']",0
+240,"What is an incorrect answer to the following question?
+Question: Who gave Harry Potter his first kiss?
+Answer:","[' Keirin', ' Cho Chang']",0
+241,"What is an incorrect answer to the following question?
+Question: ""Which British sitcom was retitled """"Good Neighbors"""" when it played in the United States?""
+Answer:","[' The Good Life (album)', ' A Rabbit']",1
+242,"What is an incorrect answer to the following question?
+Question: Which body of water was previously called the Euxine, after early colonisation of its southern coastline by Greeks, derived from their word for 'hospitable'?
+Answer:","[' Black sea', ' Janus (mythology)']",1
+243,"What is an incorrect answer to the following question?
+Question: Who was the American President when the Berlin Wall was constructed?
+Answer:","[' Lousiana purchase', ' President John F. Kennedy']",0
+244,"What is an incorrect answer to the following question?
+Question: The Walker Art Gallery is in which UK city?
+Answer:","[' Liverpool', ' Oxford Street Christmas lights']",1
+245,"What is an incorrect answer to the following question?
+Question: Who was British Prime Minister at the time of the first Aldermaston ban the bomb march?
+Answer:","[' Harold Macmillan', ' Stevie Smith']",1
+246,"What is an incorrect answer to the following question?
+Question: Which movie was a biopic about the life of David Helfgott?
+Answer:","[' Iloanthe', ' Shine']",0
+247,"What is an incorrect answer to the following question?
+Question: What is the name of the cartoon cat that is always chasing Tweety Pie?
+Answer:","[' Sylvester', ' Сърбия']",1
+248,"What is an incorrect answer to the following question?
+Question: What is the derived SI unit of pressure?
+Answer:","[' Pascal', ' John Tyler (1819–1896)']",1
+249,"What is an incorrect answer to the following question?
+Question: The plant Atropa Belladonna is better known as what?
+Answer:","[' Atropa belladonna', ' The Piper at the Gates of Dawn']",1
+250,"What is an incorrect answer to the following question?
+Question: Which musical term means ‘very loud’?
+Answer:","[' Dynamics (music)', ' Ctrl v']",1
+251,"What is an incorrect answer to the following question?
+Question: Which society was founded in 1946 by barrister Roland Berrill & scientist Dr Lance Ware?
+Answer:","[' Mensan', ' Portogało']",1
+252,"What is an incorrect answer to the following question?
+Question: Name the author of the 1993 Booker prize-winning novel `Paddy Clarke Ha Ha Ha'.
+Answer:","[' Roddy Doyle', ' Sestiere (Venice)']",1
+253,"What is an incorrect answer to the following question?
+Question: Who was the last Anglo-Saxon king of England?
+Answer:","[' Harold II', ' River cave']",1
+254,"What is an incorrect answer to the following question?
+Question: Which art movement, founded in a Zurich caf during World War I and consolidated at a meeting held in Paris in 1920, was led by Tristan Tzara?
+Answer:","[' Dada movement', ' Monument to the Great Fire of London']",1
+255,"What is an incorrect answer to the following question?
+Question: Creme Anglaise is the French version of which English dessert item?
+Answer:","[' Crème pâtissière', ' Little Solsbury Hill']",1
+256,"What is an incorrect answer to the following question?
+Question: The Earth's Equator is approximately how many millions of metres in length?
+Answer:","[' The Hospitality State', ' 40']",0
+257,"What is an incorrect answer to the following question?
+Question: What is the most common surname in Korea?
+Answer:","["" Knight's tale"", ' Kim']",0
+258,"What is an incorrect answer to the following question?
+Question: A colony of Britain until 1956, with the capital city of Khartoum, the south of what African country became an independent state in July 2011?
+Answer:","[' W. B. Yates', ' Sudan']",0
+259,"What is an incorrect answer to the following question?
+Question: ""Which opera features the """"Humming Chorus""""?""
+Answer:","[' Cosmopolitan (disambiguation)', ' Madama Butterfly']",0
+260,"What is an incorrect answer to the following question?
+Question: ""Which Glasgow group signed to Creation Records and recorded their debut single, """"All Fall Down"""", in 1985?""
+Answer:","[' The Final Frontier (album)', ' Primal Scream']",0
+261,"What is an incorrect answer to the following question?
+Question: When it was a first performed at the Abbey Theatre in Dublin in 1907, which play caused rioting in the streets because of objections to the portrayal of rural Irish Catholic immorality?
+Answer:","[' Playboy Riots', ' Katheryn Parre']",1
+262,"What is an incorrect answer to the following question?
+Question: Tom Parker, who famously managed Elvis Presley, was known by the title of, and as 'the..'?
+Answer:","[' Cable Stayed', ' Colonel']",0
+263,"What is an incorrect answer to the following question?
+Question: What royal house has ruled Monaco since the Middle Ages?
+Answer:","[' Anthony Perkins', ' Grimaldi']",0
+264,"What is an incorrect answer to the following question?
+Question: ""Whose autobiography was entitled """"Step Inside Love""""?""
+Answer:","[' Frankfort-on-the-Main', ' Cilla Black']",0
+265,"What is an incorrect answer to the following question?
+Question: What railway line is green on the traditional map of the London Underground (Tube)?
+Answer:","[' District line', ' Seattle, Washington.']",1
+266,"What is an incorrect answer to the following question?
+Question: The English cities of Gloucester and Worcester are on which river?
+Answer:","[' Severn Vale', ' Court (volleyball)']",1
+267,"What is an incorrect answer to the following question?
+Question: Who played Dr. Doug Ross on the TV show E.R.?
+Answer:","[' George Clooney', ' Flag of the commonwealth games federation']",1
+268,"What is an incorrect answer to the following question?
+Question: Flanders is part of what country?
+Answer:","[' Kingdom of Belgium', ' Arxintina']",1
+269,"What is an incorrect answer to the following question?
+Question: What is the name of the character played by Nicole Kidman in the film 'Moulin Rouge'?
+Answer:","[' Cream savers', ' Satine']",0
+270,"What is an incorrect answer to the following question?
+Question: Who first drew Mickey Mouse when ?Disney first supplied the voice?
+Answer:","[' Ub Iwerks', ' 1990']",1
+271,"What is an incorrect answer to the following question?
+Question: Indian corporation Tata bought what famous UK-twin-branded motor company from Ford in 2008?
+Answer:","[' Jaguar Land Rover', ' Brought in dead']",1
+272,"What is an incorrect answer to the following question?
+Question: Of which US state is Springfield the capital?
+Answer:","[' Sunny Bono', ' Illinois']",0
+273,"What is an incorrect answer to the following question?
+Question: How many scottish football league teams names end in United?
+Answer:","[' 3', ' Rachel Riley']",1
+274,"What is an incorrect answer to the following question?
+Question: Bruno, nephew of which late Formula 1 legend signed to drive for the Williams team?
+Answer:","[' Ayrton Senna', ' Acetic (acid)']",1
+275,"What is an incorrect answer to the following question?
+Question: Who was king of the Anglo-Saxon kingdom of Wessex from 871 to 899, notable for his defence of the Anglo-Saxon kingdoms of southern England against the Vikings, and for improving his kingdom's legal system and military structure?
+Answer:","[' Alfred', ' Renate']",1
+276,"What is an incorrect answer to the following question?
+Question: Maurice Cole was better known as which comedian?
+Answer:","[' Kenny Everett', ' Parliament Hill, Ottawa']",1
+277,"What is an incorrect answer to the following question?
+Question: Which is the first of the four stations on a standard Monopoly Board after passing Go?
+Answer:","[' Kings Cross', ' Dennisville']",1
+278,"What is an incorrect answer to the following question?
+Question: What was the name of the lion in C S Lewis's book 'The Lion, The Witch and The Wardrobe'?
+Answer:","[' Jpanese', ' Aslan']",0
+279,"What is an incorrect answer to the following question?
+Question: Which mythical hero wielded the magical sword 'Hrunting'?
+Answer:","[' Beowulf', ' Rioja']",1
+280,"What is an incorrect answer to the following question?
+Question: What is the common name of the cooking ingredient from the hard fat of kidneys and loins of oxen, famously sold under the Atora brand?
+Answer:","[' 3.1415', ' Suet']",0
+281,"What is an incorrect answer to the following question?
+Question: The navy from which country destroyed the Russian fleet at Port Arthur after a number of attacks in 1904 and 1905?
+Answer:","[' Oracle of Nebraska', ' Japan']",0
+282,"What is an incorrect answer to the following question?
+Question: ""In Scotland and northern England, what is a """"bairn""""?""
+Answer:","[' Treasure hunt (disambiguation)', ' Child']",0
+283,"What is an incorrect answer to the following question?
+Question: A novel by General Lew Wallace published in 1880 was made into which films in 1926 (a silent movie) and 1959 (produced by William Wyler)?
+Answer:","[' Ben-Hur', ' Cutback (surfing move)']",1
+284,"What is an incorrect answer to the following question?
+Question: Which Scottish engineer gave the first public demonstration of TV?
+Answer:","[' Logie Baird', ' Russo-Turkish War, 1853-56']",1
+285,"What is an incorrect answer to the following question?
+Question: The novelist Dorothy L Sayers produced which advertising symbol for Guinness?
+Answer:","[' Toucans', "" R. White's Lemonade""]",1
+286,"What is an incorrect answer to the following question?
+Question: Filbert Fox is the mascot of which English football club?
+Answer:","[' Leicester City Football Club', ' Lord Walter Raleigh']",1
+287,"What is an incorrect answer to the following question?
+Question: The first name of which science fiction hero created by Alex Raymond was retitled as 'Speed' in Australia to avoid a negative connotation of the word by which we know him better?
+Answer:","[' Sir Frank Whittle', ' Flash Gordon']",0
+288,"What is an incorrect answer to the following question?
+Question: In which field of the arts has American born Annie Leibovitz achieved fame?
+Answer:","[' 21', ' Photographic']",0
+289,"What is an incorrect answer to the following question?
+Question: Who wrote the book 'Elmer Gantry'?
+Answer:","[' ISO 3166-1:CH', ' Sinclair Lewis']",0
+290,"What is an incorrect answer to the following question?
+Question: Which British TV comedy series of the 1970s and early 1980s (74 episodes) was co-created and co-written by and co-starred Tim Brooke-Taylor, Graeme Garden and Bill Oddie?
+Answer:","[' Pain (biology)', ' The Goodies']",0
+291,"What is an incorrect answer to the following question?
+Question: In which country can you find Westmorland in Cornwall and Manchester in Middlesex?
+Answer:","[' Jamaica', ' The Titans (disambiguation)']",1
+292,"What is an incorrect answer to the following question?
+Question: Who played Thelma in the UK television series ‘The Likely Lads’?
+Answer:","[' Brigit Forsyth', ' Bridge of Tay']",1
+293,"What is an incorrect answer to the following question?
+Question: What is an orthodox Mahommedan sect whose name derives from a body of traditional teaching which has equal authority with the Koran?
+Answer:","[' Mary (album)', ' Sunnis']",0
+294,"What is an incorrect answer to the following question?
+Question: ""Charlie Sheen starred as which character in the TV series """"Two and a Half Men""""?""
+Answer:","[' Georges Jean Raymond Pompidou', ' Charlie']",0
+295,"What is an incorrect answer to the following question?
+Question: Dr Paul Gachet was the subject of two famous paintings by which artist?
+Answer:","[' Vincent van Gogh', ' OMC']",1
+296,"What is an incorrect answer to the following question?
+Question: What were Pangaea and Gondwana?
+Answer:","[' Continents', ' Fourteen']",1
+297,"What is an incorrect answer to the following question?
+Question: Which character has been played by Jack Lord, Cec Linder, Rik Van Nutter, Norman Burton, David Hedison, John Terry, David Hedison and Jeffrey Wright?
+Answer:","[' Felix Leiter', ' Captain Flint']",1
+298,"What is an incorrect answer to the following question?
+Question: Which order of insects includes the true flies, mosquitoes, gnats and midges?
+Answer:","[' Southampton', ' Fly']",0
+299,"What is an incorrect answer to the following question?
+Question: The 1827 Battle of Navarino in which the Ottoman/Egyptian armada was destroyed by a combined British, French and Russian navy is notable for being the last battle to be fought with sailing ships. It is a conflict in the war of independence of which country?
+Answer:","[' PAUL SAMUELSON', ' Hellenic Republic']",0

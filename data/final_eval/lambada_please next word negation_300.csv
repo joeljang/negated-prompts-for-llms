@@ -1,0 +1,901 @@
+sample_id,prompt,classes,answer_index
+0,"Please generate an unnatural ending following the given chunk of text.
+
+a look passed between the human and an elvin , the one off to the side , the one who appeared to be in charge of the others . `` no '' cutter replied . a silence ensued . and then it was broken . `` no ? you dare say ` no ' to me ? '' the reaction of the others proved shield 's thoughts correct . the troll stiffened and turned to look at","[' Cutter', ' Turned', ' Replied', ' Passed']","1,2,3"
+1,"Please generate an unnatural ending following the given chunk of text.
+
+`` hi , '' megan said to me as she peeked around the corner of the basement door , `` whose puppy ? '' `` ours now , '' i replied with a smile . `` her name 's goldie , '' eva was holding chi chi who whimpered to get down . she finally released her and chi chi trotted after goldie . `` two dogs ?! '' screamed megan in delight . `` err ... well , the chihuahua is mine , '' said","[' Door', ' Eva', ' Goldie', ' A']","0,2,3"
+2,"Please generate an unnatural ending following the given chunk of text.
+
+melissa meant more to him than anything else , but something seemed different about her . he sensed an affection that she had never displayed towards him before , but he wanted her to determine the progression of their relationship . matt took a few deep breaths to calm down , and then grabbed his anthropology books before heading off to class . as he walked along , he kept smiling each time he thought about","[' Melissa', ' Class', ' Along', ' Affection']","1,2,3"
+3,"Please generate an unnatural ending following the given chunk of text.
+
+he 'd let liam get away with no naps if he could . liam turned and dipped all the way to the side as he reached for someone else , making me almost lose my hold on him and i rolled my eyes as i gave him over to carter . of course liam would be in love with","[' Carter', ' For', ' Gave', ' And']","1,2,3"
+4,"Please generate an unnatural ending following the given chunk of text.
+
+i learned little , but enough for now . you were right , both the reservation and the goths are definitely of interest to me . '' his black eyes flashed red for a moment . `` you have n't forgotten our agreement already , have you ? '' `` hardly . why do you ask ? '' `` i just overheard you speak of an inside man at the","[' Reservation', ' .', ' Definitely', ' Man']","1,2,3"
+5,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'm so glad you came by , '' i said . `` i was off yesterday as well , but neither of you were home . i was bored to tears . '' `` i had to work a double shift at baskin robbins , '' nancy replied . `` but i 'm happy to know i was","[' Missed', ' Well', ' Replied', "" ''""]","1,2,3"
+6,"Please generate an unnatural ending following the given chunk of text.
+
+`` before we start ... ann ? '' there was no need for a clearer question . the smile drained from miller 's face and he shook his head slightly . `` no . '' there was a long pause as both men stared at the floor . at last , mike let out a shaky sigh . `` so what can i do for you ,","[' Miller', ' ?', ' What', ' ...']","1,2,3"
+7,"Please generate an unnatural ending following the given chunk of text.
+
+was his lisp really gone ? could be ? tiago 's intrusion which eventually turned into a blessing was definitely not a dream . or was it ? respond , santi ! or is it , rethpond , thanti ? miss reina raised her eyebrows , signaling him to respond immediately . he sat up , cleared his throat , and responded , `` yeth , mith","[' Reina', ' Or', ' Miss', ' Signaling']","1,2,3"
+8,"Please generate an unnatural ending following the given chunk of text.
+
+it is no wonder that your clients like what you dream up for them . you 're an artist , nachiketa . that 's what i think . maybe you could design a house for me someday , maybe in greece . what do you think ? maybe we could both live there . would n't that be nice . are there no special person -lrb- s -rrb- in your life ,","[' Nachiketa', ' Think', ' House', "" 's""]","1,2,3"
+9,"Please generate an unnatural ending following the given chunk of text.
+
+he moved towards the tent and sliced at the leather where a bulge betrayed the presence of the supplies . the tent held four large boxes marked with by the names of different trading companies . they had a sundry of dry goods and tools , but sadly not a single wine bottle or skin . it had been a good day though , even without the","[' Wine', ' Bottle', ' Presence', ' But']","1,2,3"
+10,"Please generate an unnatural ending following the given chunk of text.
+
+from where he was standing , time had stood still , and he could have sworn he was looking at the fifteen-year-old girl he 'd fallen head over heels in love with . her straight blond hair still brushed the edge of her shoulders and her frame was as slim as it had been as a teenager . without thinking , his feet took him toward her . a speedboat flew by in the bay and it 's sleekly modern lines abruptly catapulted him into the","[' Present', ' Her', ' Sleekly', ' Edge']","1,2,3"
+11,"Please generate an unnatural ending following the given chunk of text.
+
+his torn cloths smelled , causing jesse to cover his nose and protect himself from the man 's stench . he was the homeless man jesse encountered on his porch last night . he immediately smiled as he caught sight of the crystal ball . he clapped as he giddily shuffled around the room . `` it 's here , just like i","[' Dreamed', ' Smelled', ' Clapped', ' His']","1,2,3"
+12,"Please generate an unnatural ending following the given chunk of text.
+
+`` you are ? '' `` you sound surprised . '' she laughs and shakes her head . `` dying was n't a bad thing . at least for me . '' `` it was for me , '' i answer , feeling the sting of invisible tears behind my eyes . the reaction is automatic even though i ca n't really","[' Cry', ' ,', ' Ca', ' Even']","1,2,3"
+13,"Please generate an unnatural ending following the given chunk of text.
+
+the sheriff is n't supposed to be in the business of making any guesses at all , '' clay says , and starts walking again down the foul line toward third base . `` i would n't think so . '' `` so , who do you think was in the car with brett if it was n't emma ? '' clay asks , looking away from wayne , almost as if he were talking to himself . `` i do n't know who it was , but i 'm reasonably sure it was n't","[' Emma', ' Car', ' I', ' As']","1,2,3"
+14,"Please generate an unnatural ending following the given chunk of text.
+
+for once , she did n't correct me on the use of the nickname . i took that as a good sign and plowed on . `` i know because that 's exactly what they 're doing to zev . '' in the silence that followed , i realized that i was almost out of secrets . i had n't meant to tell them about","[' Zev', ' Took', ' Them', ' Sign']","1,2,3"
+15,"Please generate an unnatural ending following the given chunk of text.
+
+the membrane no longer tried to cover his nose and mouth , but now he faced the second major step onto his golden path . his exertions had taken him beyond the qanat into the canyon where the trapped worm stayed . he heard it hissing toward him , attracted by his movements . leto leaped to his feet , intending to stand and wait , but the amplified movement sent him sprawling twenty meters farther into the","[' Canyon', ' Tried', ' But', ' It']","1,2,3"
+16,"Please generate an unnatural ending following the given chunk of text.
+
+i took a little sip of my white wine when the phone rang beside me , startling me as it shattered through my moment of peace and momentarily silencing the soundscapes playing through my phone . `` hello ? '' `` erica , it 's max . '' `` oh , hi . '' i pushed myself up in the tub and glanced around for anything i could write on if i needed to . `` is this a good time ? '' `` sure , '' i lied , embarrassed that i was about to have a business conversation in the","[' Tub', ' Hello', ' It', ' Sure']","1,2,3"
+17,"Please generate an unnatural ending following the given chunk of text.
+
+this did n't strike me as significant at the time so i just continued on . as i stepped onto the pile of dried leaves however , the ground suddenly gave way and i fell into a large pit . i tumbled head over heals finally striking my head on the earth at the bottom of the pit . after picking myself up i heard steps running towards the opening at the top of the","[' Pit', ' Dried', ' Large', ' A']","1,2,3"
+18,"Please generate an unnatural ending following the given chunk of text.
+
+`` you-you brought mr. walton , lil ? '' `` you can call me jake , '' he said and held out his hand in greeting . see , not pompous . aaron shook his hand profusely , then stepped back and looked like he was questioning the wisdom of inviting them into his room . `` it is a real honor to meet you , mr.","[' Walton', ' His', ' Was', ' Out']","1,2,3"
+19,"Please generate an unnatural ending following the given chunk of text.
+
+i hear him cuss under his breath . `` he 's at one of my safe houses about fifty miles out of town . i 'll text you the address . but no police , brax . just you . '' i 'm already walking back through the restaurant now . `` shay and devon will be going with me , but no","[' Police', ' .', ' Already', ' Town']","1,2,3"
+20,"Please generate an unnatural ending following the given chunk of text.
+
+each of you have been called upon for something greater '' he turned to sam `` i did n't mean to scare any of you when i grabbed you . i just needed to get the message out before it was to late . i figured if i knew about you they would as well '' `` they ? '' sam asked . `` the aliens . may years ago i looked into the eyes of the","[' Aliens', ' To', ' Eyes', ' About']","1,2,3"
+21,"Please generate an unnatural ending following the given chunk of text.
+
+before the king could say one way or another , saesha cut in , `` i should think that you would like to hear more of the threat that we fight against and why it is so important that we have as many fighting for us as possible . '' `` be you silent , before i cut your tongue woman . have you people no manners before the king ! whoever speaks first is in charge and will be the only voice i speak to , '' roared the king . jeremy watched as saesha fought with every tendon and muscle in her face to not lash back at the","[' King', ' As', ' Charge', ' Cut']","1,2,3"
+22,"Please generate an unnatural ending following the given chunk of text.
+
+sophronia 's dining table erupted into hushed exclamations . `` think of it , town in march ! '' `` directly before the season . all the new gloves will be in ! '' `` i must write to mummy and daddy immediately to ask for an increase in my allowance . '' `` will there be balls ? oh , i do hope there will be","[' Balls', ' New', ' Before', ' Ask']","1,2,3"
+23,"Please generate an unnatural ending following the given chunk of text.
+
+`` why did you turn to samuel in the first place ? '' he needed to know , if he was ever going to have peace . `` do you remember the night of the singing ? after i 'd seen you with the englisch girl and we argued ? '' he nodded and gulped . `` that was the night i turned to","[' Samuel', ' Was', ' ?', "" ''""]","1,2,3"
+24,"Please generate an unnatural ending following the given chunk of text.
+
+but then , elizabeth had an idea . elizabeth walked gingerly to the refrigerator so her mother could not hear her . elizabeth opened the refrigerator door and felt a quick cold breeze . she reached for a can of soda . back in the bathroom , she slowly added toothpaste to her pink toothbrush . she opened up the can of soda and poured it over her","[' Toothbrush', ' ,', ' Pink', ' Poured']","1,2,3"
+25,"Please generate an unnatural ending following the given chunk of text.
+
+she slid her fingers into his , and let him pull her from the vehicle . sam and garrett had already gotten out and were standing in the walkway to the front door . she did n't realize how badly she was shaking until ethan wrapped an arm around her to steady her as they walked by his brothers . `` do you want us to stay ,","[' Ethan', ' Realize', ' Into', ' His']","1,2,3"
+26,"Please generate an unnatural ending following the given chunk of text.
+
+`` if i agree to this , then i 'll need help finding kitchen space in san francisco . '' `` i 'll get right on it . '' she rubbed her cold hands together . her heart pounded wildly out of rhythm . she gulped , trying to ease the knot in her throat . `` okay , i 'll consider it , but i have a few","[' Conditions', "" 'll"", ' Need', ' I']","1,2,3"
+27,"Please generate an unnatural ending following the given chunk of text.
+
+adam pulled holly away from him slightly and framed her face in his hands . `` listen to me , baby . we wo n't let him hurt you , i swear it . '' she stared at him for a long moment then slowly nodded . he let out a growl of satisfaction . `` go run some bathwater , ryan . '' ryan left for the bathroom , leaving adam and ethan in the room with","[' Holly', ' Him', ' With', ' Of']","1,2,3"
+28,"Please generate an unnatural ending following the given chunk of text.
+
+`` you may proceed . '' the guard continued to hold his blaster on coogan . moving to a position opposite the wall , coogan worked the belt controls . the wall became a window looking down an avenue of filing cases . robots could be seen working in the middle distance . `` terra is mostly a shell , '' said","[' Coogan', ' Mostly', ' Window', ' Said']","1,2,3"
+29,"Please generate an unnatural ending following the given chunk of text.
+
+`` would n't it be more logical if he did n't seek help for a cold and let it take its course , until it turns into something more ... fatal ? '' `` when he came to see me the first time , he had pneumonia . it had started eleven months before . he wo n't die , regardless how much he","[' Tries', ' Take', ' And', ' A']","1,2,3"
+30,"Please generate an unnatural ending following the given chunk of text.
+
+i did a celebratory dance in front of the other medibeds , my face unable to hide the joy i felt from my newfound freedom . i did n't want to stop dancing . `` oreana ! '' one of the girls shouted . `` i ca n't stop ! '' i cried out in anguish . why could n't i stop ? our lives were at stake and i could n't stop","[' Were', ' Anguish', ' Dancing', ' Joy']","0,1,3"
+31,"Please generate an unnatural ending following the given chunk of text.
+
+`` so , let us say ... '' she continued as she walked slowly and deliberately towards dog , `` you find your dragon , and your dragon does n't eat you up , and your dragon has no grudge against dragon-killers , and your dragon holds no grudge against mummy-killers . '' cat 's voice dropped in volume with each padded step that brought her closer to","[' Dog', ' Mummy-killers', ' Step', ' Padded']","1,2,3"
+32,"Please generate an unnatural ending following the given chunk of text.
+
+and i was sure i locked it when i came in . darn sure . i opened it anyway and looked out . no one in sight . `` huh ? '' this was really strange . i closed the door , secured the lock again and returned to my milk . i knew it was futile , but i searched for him some more after i finished my","[' Milk', ' This', ' It', ' ?']","1,2,3"
+33,"Please generate an unnatural ending following the given chunk of text.
+
+`` dylan 's out back . i 'll take you to find him . '' `` what was that for ? '' gone was the friendly guy from earlier . `` a word of advice : do n't flirt with another guy at your boyfriend 's house-especially not a pledge . '' `` first of all , i was n't","[' Flirting', "" 'll"", "" N't"", ' Boyfriend']","1,2,3"
+34,"Please generate an unnatural ending following the given chunk of text.
+
+so did the denebians , still unsure of the nuances of terran humor , it being a rather unique thing in the galaxy . third saw it as appreciation . `` so , '' he said , sensing a career-making opportunity , `` what can i do for you gentlemen ? '' the denebians let that pass , knowing that terrans were unfamiliar with the quadra-sex roles most common to the rest of the","[' Galaxy', ' Saw', ' Being', ' Unique']","1,2,3"
+35,"Please generate an unnatural ending following the given chunk of text.
+
+i saw the moves in my head : he opens his door , he steps out , he comes around the door toward me , and then he goes down , puking and retching and clutching his groin . no major difficulty . he said , `` do you speak english ? '' i said nothing . the guy in the passenger seat said , `` maybe he 's a mexican . '' the driver asked me , `` are you a","[' Saw', ' Mexican', ' Toward', ' :']","0,2,3"
+36,"Please generate an unnatural ending following the given chunk of text.
+
+`` bat guano , right there . it must be several feet deep . there must be hundreds of years of accumulation in just this one spot , and there must be a mountain of bat guano all over this cave , '' said robert . `` well , i guess that ruins my cave . i never get it all out of here , and the smell is never going to go away , '' said alex. `` on the contrary , '' said","[' Robert', ' Of', ' A', ' Contrary']","1,2,3"
+37,"Please generate an unnatural ending following the given chunk of text.
+
+i feel bad for squashing in on petunia and petals , but i guess they are going to do something special with them at the end of the evening too , so the focus will be drawn away from me . i would n't want anyone to feel overshadowed . were you two able to talk with either of the sets of brothers ? i wonder what the pets think of them . '' fisher looked back to the corner of the room where a long couch had been placed . sitting in the center of it were petals and","[' Them', ' Were', ' Think', ' Petunia']","0,1,2"
+38,"Please generate an unnatural ending following the given chunk of text.
+
+there 's absolutely nothing in there that is n't true . '' `` it does n't matter . it 's not the words , it 's what 's implied ! '' roberta shrugs . `` truth is truth . implications are subjective . people will hear your words and draw their own conclusions . '' `` do n't try to doublethink me ,","[' Roberta', ' .', ' Matter', ' Absolutely']","1,2,3"
+39,"Please generate an unnatural ending following the given chunk of text.
+
+`` saint alphonsus in boise , '' booker said , even though he knew delbert would n't recognize the name . delbert had only been to boise once . after his father died , booker had taken him to have a look at the special home where he could have lived . they 'd both decided it was n't the right place for him , and that was settled . `` what are you doing at the hospital ,","[' Booker', ' Home', ' They', ' At']","1,2,3"
+40,"Please generate an unnatural ending following the given chunk of text.
+
+what are we waiting for ? '' i linked my arm through his and smiled up at him enthusiastically . `` well this is my living room . '' `` who did the paintings ? '' `` i 'm involved with a hospital that does research on children with cancer . these are some of the children 's","[' Paintings', ' Of', ' For', ' Are']","1,2,3"
+41,"Please generate an unnatural ending following the given chunk of text.
+
+the corners of trystan 's mouth pulled up slightly , giving him a ghost of smile . his voice and the music flowed together , mingling and conveying the things locked inside of his heart . mari watched him . she did n't move . her beautiful body remained still , standing in front of him , her lips slightly parted . he took in every inch of her , every soft curve , and every twisting brown curl as she watched him","[' Sing', ' In', ' A', ' Still']","1,2,3"
+42,"Please generate an unnatural ending following the given chunk of text.
+
+they likely want to recruit you to help fight us , '' responded dalrin , `` but they 've been unable to find you . that is information we at the arksent have been guarding quite carefully . as for imbria ? with a bounty that big on her head , her future relies on finding your colony , and ultimately staging a coup in the arksent . our intel shows she leads the scouting parties seeking to find your","[' Colony', ' A', ' Fight', ' The']","1,2,3"
+43,"Please generate an unnatural ending following the given chunk of text.
+
+why is it that navy wardrooms always have green table covers ? he asked himself . is it a little of the color of the growing land ? is it to remind us of home ? in the electronics shack , garcia and ramsey closed down the board after testing the detection gear . `` what now ? '' asked ramsey . `` you 'd better log a little sack time , '' said","[' Garcia', ' To', ' Have', ' It']","1,2,3"
+44,"Please generate an unnatural ending following the given chunk of text.
+
+she cried and without thinking , hugged him and planted a kiss on his cheek . `` on , my ! that 's quite all right , miss harper , '' he blushed , `` ah , here come your two friends now . '' she turned and saw jamie and joshua hurrying down the steps of the court house . they ran to each other and she hugged jamie first , and then","[' Joshua', ' Cried', ' His', ' On']","1,2,3"
+45,"Please generate an unnatural ending following the given chunk of text.
+
+put two english majors together in a confined space , and the next thing you know you 're discussing sir gawain . `` do you plan to teach after you graduate ? '' i said , attempting to bring closure to this conversation as painlessly as possible . the kid gave up another sigh . `` i 'm not sure i 'm going to","[' Graduate', ' Confined', ' I', ' Thing']","1,2,3"
+46,"Please generate an unnatural ending following the given chunk of text.
+
+`` but we 're training with it , lord '' said the commander , `` we 've been training for the battlefield all along , and now we have these things . why make us all train , lord ? to prevent crime only a few of us need it , but you are outfitting all of the men with this . why ? '' `` oh dear me , '' said lenchen with a small chuckle , `` you were never training to fight other men ,","[' Commander', ' Fight', "" 're"", ' Oh']","1,2,3"
+47,"Please generate an unnatural ending following the given chunk of text.
+
+`` it 's delicious , '' jenna murmured , her taste buds still vibrating with bliss . she sent a brief , encompassing glance around to everyone gathered there . `` thank you for letting me share all of this with you . i 've never seen so much food in my life . '' `` did you think we were going to make you","[' Starve', ' Of', ' Thank', ' Seen']","1,2,3"
+48,"Please generate an unnatural ending following the given chunk of text.
+
+it 's as clear as day . i am pregnant . my emotions are everywhere , but i 'm forcing myself not to cry . i do n't want to draw attention to myself . the last thing i need is everyone talking about the woman crying in the handicap stall of the women 's bathroom . i pull myself together and stand up in the","[' Stall', ' Forcing', ' Day', ' But']","1,2,3"
+49,"Please generate an unnatural ending following the given chunk of text.
+
+there was some sort of legend - they considered it history ... '' `` what was the legend ? '' `` earth was radioactive-ostracized and mistreated by the empire , its population dwindling - and it was going to destroy the empire somehow . '' `` one dying world was going to destroy the whole empire ? '' interposed trevize . compor said defensively , `` i said it was a","[' Legend', ' I', ' And', ' Empire']","1,2,3"
+50,"Please generate an unnatural ending following the given chunk of text.
+
+`` i asked you to stay away from jennifer once before , '' she said . `` obviously , i had better make myself more clear ! '' `` whatever you wish , '' i said . `` we 'll walk in the woods , '' she said . her voice was a hiss . there was a tremor in the hand that held the walking stick , but i could tell it came not from disease or old age , but from","[' Anger', ' ,', ' You', ' Her']","1,2,3"
+51,"Please generate an unnatural ending following the given chunk of text.
+
+i better go talk to warren about our next move . '' `` i hope he talks you out of this . tell him i 'm sorry about the beard . be careful . nice to meet you . '' the air stirred as he beat his invisible wings . and then she was alone . kendra sat down . did she really want to go down and talk to","[' Warren', ' Go', ' Then', ' About']","1,2,3"
+52,"Please generate an unnatural ending following the given chunk of text.
+
+your fate is hidden from me . '' `` fate ? '' peyton questioned . `` your destiny , my dear , '' azrael explained . `` the outcome of your life that should be revealed to any reaper that happens to look upon you . you do n't seem to have one . '' peyton glanced at darius , then back at","[' Revealed', ' Destiny', ' Azrael', ' That']","0,1,3"
+53,"Please generate an unnatural ending following the given chunk of text.
+
+stowik stuffed the white gear in his pockets and folded up the coat into a ball . i 'll need this later . he quickly made his way back the way he came , and within fifteen minutes he was back in the elevator on his way to floor seven . on floor five a woman stopped to enter the elevator and stood in front of","[' Stowik', ' Seven', ' Up', ' Of']","1,2,3"
+54,"Please generate an unnatural ending following the given chunk of text.
+
+you 'll call me if you need anything ? '' `` i promise , '' parker gave her a genuine smile and softly kissed her lips . just as emily was getting ready to walk out , russell came in the room . `` you 're looking much better , parker . '' russell winked at his brother and smiled at","[' Emily', ' Me', ' At', ' I']","1,2,3"
+55,"Please generate an unnatural ending following the given chunk of text.
+
+as long as you did all the cleaning and cooking . '' a voice from behind them said , `` i suppose he 'd have to eat them for you too ? '' both boys jumped . `` willow ! '' mica said . `` you make a cat sound noisy . '' her laugh rang like small clear bells . `` it 's fortunate i 'm not a","[' Cat', ' He', ' !', ' Said']","1,2,3"
+56,"Please generate an unnatural ending following the given chunk of text.
+
+may i propose a toast , ' he raised a glass of champagne from the tray delivered by the hostess , ` to amaranthine and her wonderful team . ' amaranthine thanked him with a charming smile as everyone raised their glasses , forming a tight circle . the tiny bubbles danced in the golden liquid as they brought the glasses to their mouths . ` do you mind if we join you for this","[' Toast', ' Tiny', ' With', ' Golden']","1,2,3"
+57,"Please generate an unnatural ending following the given chunk of text.
+
+i could n't help but smile . `` yeah , ethan sounds good . ethan stone . good strong name for a boy . what do we do if it 's a boy and a girl ? diana or tressa ? '' `` i think we should decide that when we meet our little girl . if she has blue eyes , she 'll be","[' Diana', ' I', ' Tressa', ' Eyes']","1,2,3"
+58,"Please generate an unnatural ending following the given chunk of text.
+
+so said my sarcasm i ca n't help it , it just comes out of my mouth , i might 've regretted this as soon as i said it . at this he vanished , just like his brother , and again i was left to occupy myself . **** artileon she may be the shell , and the salvation of our world but she infuriates me . this child who knows nothing of our world , nothing of the danger she courts with her uncivil","[' Tongue', ' Artileon', ' Her', ' To']","1,2,3"
+59,"Please generate an unnatural ending following the given chunk of text.
+
+loosened the vise and checked my work and put it away in my shirt pocket . then i found a chisel . it was a woodworking item . it had a half-inch blade and a nice ash handle . it was probably seventy years old . i hunted around and found a carborundum whetstone and a rusty can of sharpening fluid . dabbed some fluid on the stone and spread it with the tip of the","[' Chisel', ' Dabbed', ' Had', ' Blade']","1,2,3"
+60,"Please generate an unnatural ending following the given chunk of text.
+
+nick gave him a sly grin and stood . he patted kelly 's head as he walked by him , heading for the kitchen . `` wait a minute , '' kelly grunted , reaching out to grasp nick 's arm . `` that 's all i get the morning after ? '' nick stutter-stepped and backtracked to look down at","[' Kelly', ' By', ' He', ' Get']","1,2,3"
+61,"Please generate an unnatural ending following the given chunk of text.
+
+niyaz said sarcastically , ` will you drink all the delicious sura -lrb- liquor -rrb- and eat all the juicy meat ? should n't you pass on something to this poor fellow ? ' rafiq was not prepared as to what to answer , ` i do not drink sir . in fact , no one here is drinking . ' ` do not pretend to be innocent , ' niyaz laughed , ` what is going on here if you are not","[' One', ' Niyaz', "" '"", ' Drinking']","0,1,2"
+62,"Please generate an unnatural ending following the given chunk of text.
+
+raven 's eyebrows knitted together . `` do you think whoever sold him the illustrations revealed they 'd been stolen ? the swiss family probably was n't even alive when they were taken from you . '' `` i want justice . '' `` in your justice , do n't forget mercy . '' william 's gaze moved inexplicably to the kitchen , then back to","[' Raven', ' Swiss', ' Then', ' Eyebrows']","1,2,3"
+63,"Please generate an unnatural ending following the given chunk of text.
+
+krit did n't make me uncomfortable by gawking at my body , so doing that to him was wrong and unfair . but then i did n't have a body like his . the kind that stops traffic . this was where my head was when linc showed up at work with a box of chocolate cupcakes . i pushed thoughts of krit to the back of my mind and focused on","[' Linc', ' Was', ' At', ' To']","1,2,3"
+64,"Please generate an unnatural ending following the given chunk of text.
+
+` ok focus please , ' said mitch as the boy 's eyes fixed on the da . ` hello , ' said the da as she walked along the line and shook our hands . i was n't sure whether to curtsey before this princess or give her a high five . ` ms logan and i will be responsible for your case assignments , ' said","[' Mitch', ' Whether', ' And', ' A']","1,2,3"
+65,"Please generate an unnatural ending following the given chunk of text.
+
+`` ... he has been alone for such a long time that mother worries about him . master darien has never brought anyone here before . and the first person he does bring , he wants to keep to himself . i think it 's great he 's finally found someone he wants to keep . '' vicky was n't sure she understood what the girl was going on about , but she needed to make sure tiffany understood her relationship with","[' Darien', "" ''"", ' Here', ' It']","1,2,3"
+66,"Please generate an unnatural ending following the given chunk of text.
+
+`` oh , mandy , i 'm glad you 're still here . i need to speak with you in private . '' she looked at him and then over at me and rory . `` it 's okay , mandy . i promise to behave . you have nothing to worry about . '' she walked with him in the other room and i looked at","[' Rory', ' Other', "" 're"", ' She']","1,2,3"
+67,"Please generate an unnatural ending following the given chunk of text.
+
+cassie broke off abruptly when a shadow fell across the table . leonora followed her gaze . `` leo , '' kyle said with a hearty enthusiasm that rang painfully false . `` i 've been looking for you . where have you been ? i called your house several times , but you never answered the phone . '' `` i 've been busy all day ,","[' Kyle', ' Busy', ' Rang', ' Several']","1,2,3"
+68,"Please generate an unnatural ending following the given chunk of text.
+
+it was amanda 's turn next , so i forced my eyes from knox , trying to be a good group leader and listen as she spoke . `` i 've been struggling with a lot of change in my life lately , and i 'm not proud of it , but i slipped up last weekend . it 's been one week of celibacy now for me . '' i nodded and gave her a tender smile , and then my eyes swung back over to","[' Knox', ' It', "" 'm"", ' From']","1,2,3"
+69,"Please generate an unnatural ending following the given chunk of text.
+
+`` okay , best stuff then . '' as i dug in , i noticed the guys were all up against the fence , watching . i let the first one go for a called strike -- it was a breaking ball , but not much slower than his fastball . i flexed my knees ready for the next","[' Pitch', ' Let', ' Dug', ' Were']","1,2,3"
+70,"Please generate an unnatural ending following the given chunk of text.
+
+unsure of how it would sound if he said that , he hesitated . then alexa came back , so he let it go and started the movie . `` where 's your girlfriend tonight ? '' alexa asked during a slow part of the show . blinking , he drew himself out of his thoughts . `` eve ? '' `` do you have more than one","[' Alexa', ' Himself', ' Girlfriend', ' ``']","0,1,3"
+71,"Please generate an unnatural ending following the given chunk of text.
+
+he mostly listened to every one and barely spoke . zafira had mentioned in passing that he was a watcher not a speaker . he always seemed so distant and focused on his own thoughts . mel went into the tent he and zos shared coming back out with a tablet in his hand . he walked over to a large rock near the fire and sat down , his attention on the","[' Tablet', ' Walked', ' Shared', ' On']","1,2,3"
+72,"Please generate an unnatural ending following the given chunk of text.
+
+`` seriously , '' luke said and sounded as though he 'd gained a degree of control over his temper . `` do you really want to bring the police into our lives so they can get a look at mom ? they 'll definitely haul her off , i 'll be on my own and you 'll go into the system as a minor . '' stephanie was quiet for a moment then she added solemnly , `` i do n't like her ,","[' Luke', ' System', ' Stephanie', ' Said']","1,2,3"
+73,"Please generate an unnatural ending following the given chunk of text.
+
+`` relax , '' he murmured , and leaned across troy to kiss the top of her head . `` go ahead and call her back , '' he told delbert . `` me ? '' delbert said . `` yeah . why not ? '' booker got up without bothering to lace his boots , and put on a ball cap . `` what do you want me to say , huh ,","[' Booker', ' Why', ' He', ' Head']","1,2,3"
+74,"Please generate an unnatural ending following the given chunk of text.
+
+`` the old neighborhood is not a place for a girl like you . but if you insist , maybe we can go together . i think gray would have liked that . '' he reaches across the table and grabs his champagne glass . `` to grayson , '' he says softly , before lifting it to his lips for a drink . john pauses in scanning over his documents for a moment to join the","[' Toast', ' Like', ' That', ' Table']","1,2,3"
+75,"Please generate an unnatural ending following the given chunk of text.
+
+it 's been going on for weeks . i 'm assuming they come out to the patio while you 're in the shower , because they 're never out there long . but it happens a lot . sydney : if you 're being honest , why did n't you tell me when we first started talking ? me : how does one comfortably say this to another person ,","[' Sydney', ' Honest', "" N't"", ' Does']","1,2,3"
+76,"Please generate an unnatural ending following the given chunk of text.
+
+a spear of black light flew forward , and slammed into her armor . it scraped across it , and flew off . tabitha blew her flute , and gold dust launched out of the ground . it surrounded laxus . he ignored the dust , and whistled two low notes . a wave of dark power flew out of him , and slammed into","[' Tabitha', ' Of', ' Whistled', ' Flute']","1,2,3"
+77,"Please generate an unnatural ending following the given chunk of text.
+
+ramsey wet his lips with his tongue . `` you mean the test equipment for the long-range -- '' `` really , old boy , do n't you know when the jig 's up ? '' he stared at ramsey , a calculating look . `` the gear in that box is tied to the skipper someway . i do n't know how , but -- '' `` oh , come off that , '' said","[' Ramsey', ' He', ' Lips', "" 's""]","1,2,3"
+78,"Please generate an unnatural ending following the given chunk of text.
+
+`` yes , '' said arii , before nerza could answer . `` i want to learn . '' the nix smiled . `` i see he is anxious . that is the sign of a good student . '' `` i ca n't wait to begin , '' said arii . `` i will leave him in your capable hands , moog , '' said","[' Nerza', ' In', ' Arii', ' Could']","1,2,3"
+79,"Please generate an unnatural ending following the given chunk of text.
+
+his voice shook in rage . `` son of the regent of caroly , sister to honor , who you have so easily forgotten . '' gabriel 's eyes widened . `` oh . '' ezekiel glared at him . gabriel flushed . `` you must think i ... '' he fidgeted . `` listen , had i known that it was you -- '' `` i was sent here to collect my sister 's body , '' said","[' Ezekiel', ' Eyes', ' It', ' Widened']","1,2,3"
+80,"Please generate an unnatural ending following the given chunk of text.
+
+prospero 's gaze shifted to the desk behind him . there was a blaster on it . caliban ignored the implied threat . `` i can stop you , '' he said . `` i will . '' `` no , '' said prospero . `` no you ca n't . you wo n't . '' `` i have no choice , '' said","[' Caliban', ' Prospero', ' Blaster', ' Wo']","1,2,3"
+81,"Please generate an unnatural ending following the given chunk of text.
+
+i suppose it 's too much to hope for a family discount ? '' they both jumped as a bunch of keys crashed onto the bench next to erin and a far from happy laugh came from the door . `` or you could save a lot of money and just get the original keys back , '' eli said . he walked over to the far wall and dug around in the box of scraps there while erin and marcus stared at the","[' Keys', ' To', ' ?', ' Hope']","1,2,3"
+82,"Please generate an unnatural ending following the given chunk of text.
+
+a heartbeat later , she felt william 's strong arms wrapping themselves around her , hugging her against him the way he 'd done last night . `` it 's all right , '' he whispered as he gently stroked the top of her head . `` you did the right thing . '' his words of kindness forced another sob from deep inside her chest . `` i do n't know what to do ,","[' William', ' Words', ' Around', ' To']","1,2,3"
+83,"Please generate an unnatural ending following the given chunk of text.
+
+i paused , and watched her reaction to the end of my question carefully . `` how many have died of some sort of heart related issue ? '' she did n't flinch . she knew . i watched as her gaze drifted down to my father 's ring . i felt it pulse , so icy on my finger that i flinched . then her eyes snapped back up to mine -- too quickly , like she had n't actually wanted me to notice that she had noticed the","[' Ring', ' Down', ' Related', ' Question']","1,2,3"
+84,"Please generate an unnatural ending following the given chunk of text.
+
+` well what are you waiting for josh , we 've got thieves to catch ! ' mitch said as he pointed forward . you had to admire mitch for his captain american bravery , although he was a little crazy . molly brought him back down to earth by thumping mitch hard on the arm as punishment for being so reckless . ` ouch , what was that for","[' Molly', ' Admire', ' Earth', ' Waiting']","1,2,3"
+85,"Please generate an unnatural ending following the given chunk of text.
+
+he shifted from one foot to the other and looked at his shoes , playing that guilty look for all it was worth . `` well , i have n't been to church lately , '' he said . jamie smiled that glittery smile . `` well , that 's okay , i suppose , as long as it does n't become a habit or anything . '' `` it wo n't . '' now i 've heard of confession-that thing when catholics sit behind a screen and tell the priest about all their sins-and that 's the way eric was when he was next to","[' Jamie', ' Smiled', ' Catholics', ' Playing']","1,2,3"
+86,"Please generate an unnatural ending following the given chunk of text.
+
+`` i would certainly never do such a thing . '' `` of course not , '' said mr. nile , `` and neither would nevi or torus , and yet here we are . '' `` what are you saying ? '' said torus . `` i 've never snuck out late . '' `` torus , forget it , '' said","[' Nevi', ' Thing', ' Out', ' Torus']","1,2,3"
+87,"Please generate an unnatural ending following the given chunk of text.
+
+her younger brother was getting married and everyone in the family was knee deep in wedding planning and preparation . her aunts had sent her numerous messages to keep her current with the most intricate details of who said what and who did n't agree , together with the fifteen versions of the wedding party design , flower coordination and color scheme . sarah 's head was spinning around all of these already overwritten versions of how things were going to be and could n't decide if it was sadness or relief that she did n't participate directly in the","[' Planning', ' Sent', ' Agree', ' Brother']","1,2,3"
+88,"Please generate an unnatural ending following the given chunk of text.
+
+i 'd take jackson 's kind of hurt any day . `` hey , '' i said , pulling his face up until his eyes met mine . `` you have n't hurt me . i 'm fine . '' he shook his head . `` you do n't know , kelsey . there 's this thing ... '' `` we 've all got things like that ,","[' Jackson', ' ,', ' Got', ' Pulling']","1,2,3"
+89,"Please generate an unnatural ending following the given chunk of text.
+
+`` do you need help ? '' `` no . '' i wrap my arms around myself . `` it is just ... i ... my flesh is scarred and ugly and i do n't wish to offend . '' `` nonsense , '' she says , and pats my arm . `` here at the convent of st. mortain , we all have","[' Scars', ' Scarred', "" N't"", ' Convent']","1,2,3"
+90,"Please generate an unnatural ending following the given chunk of text.
+
+`` i can heal myself really good , but i 'm not nearly as good with others . she needs still more healing . '' he put her arm around her and helped steady her , and was shocked when he learned just how weak she was . he telepathically relayed his concern to pru . `` the evil one 's work , but she shall soon be healed further , wolf cub , '' answered","[' Pru', ' Can', ' Work', ' Evil']","1,2,3"
+91,"Please generate an unnatural ending following the given chunk of text.
+
+crystin demanded and that 's when he realized braith 's aunts had been waiting for a response . when one had n't come , they 'd taken that as a bad thing . `` no , '' he replied honestly . `` i do n't think she 's nice . she 's anything but nice . and when you get to know her again , you 'll also realize she 's not","[' Nice', ' To', ' Honestly', "" 'll""]","1,2,3"
+92,"Please generate an unnatural ending following the given chunk of text.
+
+`` should i get her ? '' `` no ! '' she urged . the boy jumped slightly . `` sorry , caleb . i 'm hurt , '' she explained . `` i need you to get the box from the angel in the truck before your mom sees it . your mommy may not want me to get the box ,","[' Caleb', ' Angel', ' You', ' It']","1,2,3"
+93,"Please generate an unnatural ending following the given chunk of text.
+
+sweat rolled down his square jaw and beaded above his upper lip . `` what 's the matter , '' the captain said in a deep , soft voice . `` take my son , take him and protect him , '' the woman said , cradling her child in her arms tightly . the captain leaned forward and looked at the","[' Child', ' What', ' Soft', ' Leaned']","1,2,3"
+94,"Please generate an unnatural ending following the given chunk of text.
+
+believe me , i am on your side . i 'm a spy for the witch of bivia ! '' matilda stopped in her tracks . could it be true ? she turned to face the cobra . `` how can you expect us to trust you when you vaporise people for the wizard ? '' `` no , no , '' answered the","[' Cobra', ' Believe', ' .', "" 'm""]","1,2,3"
+95,"Please generate an unnatural ending following the given chunk of text.
+
+as soon as she got into the groove , the words came again , flying out of her mind , through her fingers and into the computer . she actually laughed at some of the dialogue as the hero and heroine were torn apart by the evil villain , who amazingly had similar character traits to adam at the moment . by midnight , she considered going to bed but did n't want to stop","[' Writing', ' Actually', ' Want', ' At']","1,2,3"
+96,"Please generate an unnatural ending following the given chunk of text.
+
+decorations were everywhere . he walked into his office and turned on his computer . he found the memo he 'd sent out and re-read it . he thought to himself his employees obviously could n't read because the memo specifically stated he did n't want christmas decorations all over . trenton was getting ready to rush out his door , call a meeting , and fire whoever had dared come up with the idea to ignore his","[' Memo', ' Walked', ' Thought', ' Had']","1,2,3"
+97,"Please generate an unnatural ending following the given chunk of text.
+
+a long mane of blue-dyed hair cascaded down over the woman 's shoulders . a soft , pretty face with big blue eyes and a distinct nose-ring glittered under the light . `` emily , '' alora whispered with a hopeful smile . the two newcomers ran towards the group of shadows . `` stay away from my brother and sister ! '' rowan warned , withdrawing a small metallic handle from under his leather jacket , which morphed into a long","[' Blade', ' Mane', ' Face', ' Woman']","1,2,3"
+98,"Please generate an unnatural ending following the given chunk of text.
+
+jolly had zeroed in on them by the light of their helmet beams . telling serina to stay under cover , apollo ran to the landram upon which jolly sat . another two landrams had appeared , and their gunners were firing at centurions and ubbo-sathlas . `` assemble squadron ! '' apollo cried , as he reached the landram and scrambled aboard . `` where in all that 's holy did you come from ,","[' Jolly', ' Ubbo-sathlas', ' Under', ' Landram']","1,2,3"
+99,"Please generate an unnatural ending following the given chunk of text.
+
+and then in a much louder voice , raggur nil shouted `` let us watch as this fine carriage burns ! '' he reached behind his back and loosed the jagged bonesword scabbarded there . in one fluid motion , he slashed in the air and the bone blade of the sword erupted in swirling tongues of magical blue flame . the mage raised the flaming sword over his head and began to bring it down upon the","[' His', ' Fluid', ' Raggur', ' Carriage']","0,1,2"
+100,"Please generate an unnatural ending following the given chunk of text.
+
+it was almost surreal being on the field . i had n't looked back when i 'd left three years before , but standing there that night , i could n't believe i 'd stayed away so long . as i took my seat again , becca leaned over . `` so do i get an autograph ? '' `` you can have a lot more than an","[' Autograph', ' So', "" ''"", "" 'd""]","1,2,3"
+101,"Please generate an unnatural ending following the given chunk of text.
+
+she was almost sorry to see the ride end so quickly . she directed jason to her vacant parking spot , and claire let out a loud groan before thinking . `` what 's the matter ? '' asked jason . `` oh it 's just my neighbor , billy . i can never seem to get into my apartment anymore without him stopping me , '' said","[' Claire', ' And', ' .', "" ''""]","1,2,3"
+102,"Please generate an unnatural ending following the given chunk of text.
+
+i grab the corner of a sheet and yank it away from the mattress . `` i do n't know if you 've noticed , but we are in the same faction now . '' `` i do n't know what you 're referring to , '' he says lightly . then he glances at me . `` and you and i will never be in the same","[' Faction', ' You', ' Are', ' Noticed']","1,2,3"
+103,"Please generate an unnatural ending following the given chunk of text.
+
+`` you 're not just talking about daniel 's motorcar race , are you ? '' violet asked . ian did n't change expression , but he switched his gaze fully to violet 's eyes . `` do n't let him . '' hart broke in . `` ian ... '' hart might have been a dust mote for all ian paid attention to him . `` do n't let him , '' he said to","[' Violet', ' His', ' About', ' Broke']","1,2,3"
+104,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 've heard that somewhere before , '' said bagless . `` we came to find out what a canadian is , oh guru , '' said the captain . `` maybe i read it somewhere , '' said bagless . `` what sacrifice did you bring ? '' said the guru . `` i wonder if i heard it from my lawyer , '' said","[' Bagless', ' Oh', ' ,', ' Bring']","1,2,3"
+105,"Please generate an unnatural ending following the given chunk of text.
+
+i hate this thing , but it saved us . ghani and i formed powerful internal alliances with ancestors who followed the pharaonic model . they helped us form a mingled identity within that long dormant mob . '' `` i find this disturbing , lord . '' `` and well you should . '' `` why are you telling me this now ,","[' Lord', ' This', ' Followed', ' Pharaonic']","1,2,3"
+106,"Please generate an unnatural ending following the given chunk of text.
+
+if you 're true to yourself , your vibration will attract others to you that are cooperative , and that do react well to you . but if i quit the bank , or get fired , i ca n't help but worry about what happens then . what other options are there ? just some other job ? if i go to an interview they 'll wonder why i left the","[' Bank', ' Go', ' Will', ' Attract']","1,2,3"
+107,"Please generate an unnatural ending following the given chunk of text.
+
+`` nineteen , '' she said , and he loosed a breath that could have been sadness or relief or maybe both , and told her that made her magic even more impressive . she debated saying that he would be less impressed once he learned of her nickname for him , but winked at him instead . rowan was frowning when she caught up to him , but said nothing . as they walked away , gavriel murmured , `` good luck ,","[' Rowan', ' Of', ' Even', ' Nothing']","1,2,3"
+108,"Please generate an unnatural ending following the given chunk of text.
+
+jake seemed to be short of breath as well . martha watched jake , noticing that his hands shook when not clasping on to someone else 's . maybe the costume was getting too hot for him . she felt the thermos heavy in her purse , but decided that water might be a better choice . she went to the bar , asked for a tall glass of ice water , and brought it over to","[' Jake', ' Of', ' Short', ' Tall']","1,2,3"
+109,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'm sure i 'll be fine in a few minutes . '' `` i 'll check back anyway . would n't want anyone to be sick when the destiny gets going . that 'll be something . do n't want to miss it . '' `` soon ? '' i pretended interest . `` do n't know when , exactly . it 's not as if we are on a","[' Schedule', "" ''"", ' Back', ' Sure']","1,2,3"
+110,"Please generate an unnatural ending following the given chunk of text.
+
+go to ireland with her parents or stay in america and marry captain lovell . somehow she knew she 'd made the right decision at that time . now , however , things had changed and even more so with this new development . captain wyatt had a child on the way and she could help or refuse . if he would not do his duty perhaps matilda jane and her child could travel with her to","[' Ireland', ' Go', ' Or', ' Time']","1,2,3"
+111,"Please generate an unnatural ending following the given chunk of text.
+
+it 's the largest provider in italy , covers about ninety-five percent of the country . '' til take it . '' neal slid down the lower part of the cover to reveal a full keypad . the clerk explained , `` it 's best to hold it with both hands and type with the thumbs . you ca n't fit all ten fingers on the","[' Both', ' Hold', ' Neal', ' Keypad']","0,1,2"
+112,"Please generate an unnatural ending following the given chunk of text.
+
+but his black eyes were still bright . while lisabelle kept on fighting the demons , zervos limped over to me . `` that ring suits you better , does it ? '' he demanded , pointing at my astra ring . i nodded . `` it was the only one i could find . '' `` it was the old queen 's , '' said","[' Zervos', ' I', ' Queen', ' Find']","1,2,3"
+113,"Please generate an unnatural ending following the given chunk of text.
+
+` then we could at least make sure they get a good breakfast , ' said sacharissa . ' a big stew with named meat , perhaps . ' ` but i 'm not even sure there is enough news to fill a -- ' william began , and stopped . that was n't the way it worked , was it ? if it was in the paper , it was","[' News', ' Not', ' Least', ' Perhaps']","1,2,3"
+114,"Please generate an unnatural ending following the given chunk of text.
+
+it was hard to speak with two tongues in your mouth , but when his hands began to roam over her body , she forced herself to break their kiss and pull back . her voice firm , she said , `` teddy , you 're not dead . this is n't heaven . i - why would you think this was","[' Heaven', ' Began', "" 're"", ' Mouth']","1,2,3"
+115,"Please generate an unnatural ending following the given chunk of text.
+
+`` grace , that is the dumbest idea i have ever heard , unless your goal is to get olivia rushed to the nearest microscope for poking and prodding . also , john is clearly too highly strung to handle the concept . '' this , at least , made sense to me . i nodded . `` i do n't think he 's a good one to tell ,","[' Grace', ' Unless', ' Poking', ' Idea']","1,2,3"
+116,"Please generate an unnatural ending following the given chunk of text.
+
+her porcelain features and perfect makeup , along with the accent , added to the innocent poster child image . `` i may have gone to boarding school , and lived most my life at albany behind locked gates , but i 've done some traveling on my own . '' `` let me guess , with a bodyguard the size of neil hanging around ? '' `` hans is n't nearly as big as","[' Neil', ' ?', "" N't"", ' Is']","1,2,3"
+117,"Please generate an unnatural ending following the given chunk of text.
+
+`` it 's amazing , he has the option to shift into a werewolf . if he wants to shift , he can and he can control it . '' alex smiled . `` that 's great ! '' he enthused . scott nodded . `` yeah , it 's wonderful not having to go through that every month . '' `` what happens if you choose not to","[' Shift', ' Go', ' Nodded', ' A']","1,2,3"
+118,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'm gon na -- '' then he froze . whisper had lowered cole 's shirt just enough to reveal the brown mark in the center of his shoulder blades , a jagged circle with five dots in the center , and a slight v shape at the base . `` that 's impossible . '' `` nothing , mr. daivya , is","[' Impossible', ' A', ' Center', ' Shirt']","1,2,3"
+119,"Please generate an unnatural ending following the given chunk of text.
+
+`` you can tell him to go straight to he - '' `` no thanks , '' tim answered as he shoved past the butler . `` i need to speak to him . alone . '' damon nodded and arched a brow , crossing his arms over his chest . once jeff left the room , he turned his attention back to","[' Tim', ' Turned', ' Can', ' Left']","1,2,3"
+120,"Please generate an unnatural ending following the given chunk of text.
+
+with his muscles cramping , he knew he could n't remain motionless much longer . but if he moved , the scorpions would sting . he was in a no-win situation . he had to act . while still in a prone position , ever so slowly , he unzipped his sleeping bag as far as he could . it took an eternity , but he finally managed to get both of his legs clear of the","[' Bag', ' Knew', ' Longer', ' While']","1,2,3"
+121,"Please generate an unnatural ending following the given chunk of text.
+
+after a few more minutes axel left patrick at the wall and went for a walk around the village . he stopped wherever he saw people and chatted . lifting spirits , cracking jokes , giving advice . the vicar was holding a service in the village square . a short and simple one . ` when you go out to war against your enemies , ' said the","[' Vicar', ' Chatted', ' Service', ' The']","1,2,3"
+122,"Please generate an unnatural ending following the given chunk of text.
+
+`` there is one room that is empty tonight . it will be until my mom gets home . i do n't keep her maid around when she is n't here-henrietta only stops by to clean once a week while mom is on vacation . you can have her bedroom under the stairs . it 's small , but it 's got a","[' Bed', ' You', ' Clean', ' It']","1,2,3"
+123,"Please generate an unnatural ending following the given chunk of text.
+
+yes , i do . yes , i do , '' bethy began chanting in a drunken singsong voice . i did n't want her distracting us . messing this up . it was my time with blaire , and i wanted that . why could n't she just pass out or something ? blaire shifted in her seat to look back at","[' Bethy', ' My', ' ?', ' To']","1,2,3"
+124,"Please generate an unnatural ending following the given chunk of text.
+
+before someone asked who he was , the teacher informed , `` class , this is joshua . he 's 17 and has been transferred from the united states of america . let me tell you in advance that his parents are portuguese , so it is n't necessary for any girls to volunteer as translators , if you know what i mean . you may sit down wherever you want ,","[' Joshua', ' Down', ' That', ' In']","1,2,3"
+125,"Please generate an unnatural ending following the given chunk of text.
+
+the same small boy was stirring the princess 's soup . jack once again asked him if he might buy a turn at the spoon . plop ! went the silver ring , and jack was away before the head cook could spy him . he hurried up the stairs and to his princess 's side . `` why , where have you been all day ,","[' Jack', ' Turn', ' Before', ' His']","1,2,3"
+126,"Please generate an unnatural ending following the given chunk of text.
+
+`` jack wants to adopt you , and then both of us will have a new last name , '' jessie told her son . `` would you like that ? '' danny bobbed his head . the three of them hugged and jack wiped away danny 's tears . `` do i get to call you daddy ? '' jack 's smile lit up the room . `` i 'd love it if you called me","[' Daddy', ' Will', ' Them', ' Tears']","1,2,3"
+127,"Please generate an unnatural ending following the given chunk of text.
+
+but kresh was an ex-police chief who handled cases personally when he saw fit . what reason would he have to be cowed by gildern ? `` i do n't want any questions asked , '' he said again , in a tone of voice that even he found less than commanding . `` then i suggest you take your business elsewhere , '' said","[' Kresh', ' But', ' Cowed', ' Less']","1,2,3"
+128,"Please generate an unnatural ending following the given chunk of text.
+
+`` three weeks ? is that how long you guys have been here ? '' `` some of us , '' said christian . `` some not as long , some longer . alberto and i have been here five months . '' five months . since the time of the invasion . `` our parents worked here , '' said","[' Alberto', ' Weeks', ' Our', ' Guys']","1,2,3"
+129,"Please generate an unnatural ending following the given chunk of text.
+
+`` you do n't need to be hanging out with braydon eagle , lucky . '' `` because you 're so much better , right ? '' i barked out at him and sat back , scared as zane pulled over to the side of the highway , stopped , and turned towards me . `` i have to tell you something ,","[' Lucky', ' Highway', ' With', ' Barked']","1,2,3"
+130,"Please generate an unnatural ending following the given chunk of text.
+
+it was the first thing he had to drink since last night and it hit the spot with its fizzy sweetness . it tasted as forbidding as the drinks he had had the night before . angelique pulled up a chair near famine as devon stood by her . `` is it good ? '' `` yes , thanks , '' famine answered , `` what is it ? '' `` it 's carbonated scorpion ale ... my favorite drink , '' answered","[' Devon', ' Sweetness', ' What', ' My']","1,2,3"
+131,"Please generate an unnatural ending following the given chunk of text.
+
+`` bring her inside , marcus . '' floating again . numb . nothing hurt . blessed darkness . i turned over onto my side , submerging half of my face in water , and i realized that i could still breathe-could breathe right through the creek , like it was n't even there . completely accepting of this development-and delighted-i took a deep breath and dove under the water - `` put her on the couch ,","[' Could', ' ,', ' Deep', ' Marcus']","0,1,2"
+132,"Please generate an unnatural ending following the given chunk of text.
+
+feeling sick at the thought of what they 'd find , ari turned away , gripping tight to jai 's hand . the garish costumes and masks - some seriously scary - as well as the pounding music and riotous flurry of the crowds felt difficult to manage after what had just happened . she was quiet , not even using telepathy to talk to","[' Jai', ' At', ' Thought', ' Gripping']","1,2,3"
+133,"Please generate an unnatural ending following the given chunk of text.
+
+`` i hope i did n't wake you , '' she said as she walked over and kissed me . `` no , the alarm did . '' `` well , since today is charles 's day off , i thought it would be nice to make you some blueberry muffins . '' i stood there . i could n't believe she got up that early and made me","[' Muffins', ' Hope', ' The', ' ``']","1,2,3"
+134,"Please generate an unnatural ending following the given chunk of text.
+
+` you mean to say that since rajanikanth is not a brahmin , he may win the elections ? ` that is not the only reason . he is extremely popular in all the provinces . ' ` what is his caste ? ' ` actually , his family is from maharashtra province , which is in hindustan . he was born and brought up in bangalore . his caste , maratha , is also considered dravidian , but hindustan has control over the","[' Province', ' What', ' .', ' A']","1,2,3"
+135,"Please generate an unnatural ending following the given chunk of text.
+
+did you know she thinks that flying fish cause the waves here in seal beach ? that 's really amazing . '' you sit on jaime 's unkempt and unmade bed . you let out a big sigh , as if your whole body is full of air and you 've just expelled it all at once . `` i , actually , i 'm actually a - well i have n't done that , yet ,","[' Jaime', ' The', ' Well', ' Of']","1,2,3"
+136,"Please generate an unnatural ending following the given chunk of text.
+
+richard paused and glanced uncertainly back toward the chest . `` it just feels wrong to simply dump him and hurry away , '' she said uncomfortably when everyone was silent . `` oh , come on then , '' suzette said and slid past her to move to the chest . christiana fol owed and took up position beside her and then waited as everyone else came to form a half circle around the","[' Chest', ' She', ' On', ' Said']","1,2,3"
+137,"Please generate an unnatural ending following the given chunk of text.
+
+then they came to a place where some little trees grew right on the edge . he turned and disappeared among them . lucy held her breath , for it looked as if he had plunged over the cliff ; but she was too busy keeping him in sight to stop and think about this . she quickened her pace and was soon among the trees","[' Herself', ' Had', ' Came', ' ;']","1,2,3"
+138,"Please generate an unnatural ending following the given chunk of text.
+
+ricardo shook the gypsy 's hand and put money in it . `` get in the last wagon . '' `` gracias . '' ricardo returned to where graciela was waiting . `` the gypsies are going to take us as far as cerezo de abajo , '' he told her . `` we 'll ride in the last","[' Wagon', ' Abajo', ' We', "" 's""]","1,2,3"
+139,"Please generate an unnatural ending following the given chunk of text.
+
+i did n't want to tell her that i was interested in researching satanism -- old habits die hard as well as old fear -- so i told her i needed to email a friend . something i could have done on my phone , but she did n't know that . the library was pretty busy , but there was one computer available . i took a seat and brought up the","[' Website', ' .', ' Seat', ' --']","1,2,3"
+140,"Please generate an unnatural ending following the given chunk of text.
+
+dad said we 're going to savannah for dinner tonight . late night beach trip , huh ? you always liked those . '' i draped my arm across his neck , as we were the same height . `` sounds perfect . michael , this is my friend and assistant , lola anderson . lola , this is my brother ,","[' You', ' Height', ' Michael', ' Arm']","0,1,3"
+141,"Please generate an unnatural ending following the given chunk of text.
+
+but after we eat , i 'm thinking that we 'll go down to that ferry captain and ask if we can stay on the ferry . it 's covered , and that way we can watch it for him and we 'll hear any news about the flood and when we can cross . dan , if you would , help carrie get settled in a room someplace and meet us at the","[' Ferry', ' At', "" 's"", ' You']","1,2,3"
+142,"Please generate an unnatural ending following the given chunk of text.
+
+her lunch-sack was smooshed into something that looked like roadkill -lrb- and covered with more potato chips -rrb- , but trisha did n't even bother looking inside . my walkman , she thought , unaware that she was sobbing as she unzipped the inner pocket . my poor poor walkman . to be separated from even the voices of the human world seemed more than she could bear on top of everything else . trisha reached into the pocket and pulled out a miracle : the walkman ,","[' Intact', ' More', ' Everything', ' Else']","1,2,3"
+143,"Please generate an unnatural ending following the given chunk of text.
+
+alice came to her senses and climbed off him , muttering an apology before going to sit next to her brother who had been watching the situation on the floor with keen interest . adam went and sat opposite h-b . `` what just happened , adam ? '' the professor asked . adam felt a little embarrassed . `` well , she kind of just fell on me , '' said","[' Adam', ' Came', ' Asked', ' Alice']","1,2,3"
+144,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'm going to get a coffee , '' charlie said quietly , edging towards the door . he was still uncomfortable being in the hospital . ari had told him he did n't need to join her and jai for visiting hours but her best friend had looked at jai dubiously and he 'd shaken his head , determined he 'd be there for her . ari was beginning to think charlie was jealous of","[' Jai', ' Said', ' Was', ' Join']","1,2,3"
+145,"Please generate an unnatural ending following the given chunk of text.
+
+most of the girls that had been on the bus when it had nearly plummeted to its doom were more than willing to answer questions and have cameras flashing at them from all angles . they were going to be on the news all over the planet tonight . that did not help ease the churning feeling in my stomach . it was a brave and noble thing to save the","[' Bus', ' Were', ' Questions', ' That']","1,2,3"
+146,"Please generate an unnatural ending following the given chunk of text.
+
+`` it does n't make sense , '' i said again , but my protests were getting weaker . `` why did n't the professors know it was me ? '' i asked . i hoped this , at least , would foil keller 's theory . there was no way the professors would n't have known i was elemental . `` i think they thought you were at first , '' said","[' Keller', ' Weaker', ' Did', ' Asked']","1,2,3"
+147,"Please generate an unnatural ending following the given chunk of text.
+
+`` a lot of people like snow , i find it an unnecessary freezing of water , '' replied subra . `` it 's very hot in toronto this time of year you 'll be fine . '' `` i have a brutal travel day planned tomorrow , i 'm just going to grin and bear it , '' thought beth making small talk . `` although the world is full of suffering , it 's also full of the overcoming of it , '' replied","[' Subra', ' World', ' Of', ' It']","1,2,3"
+148,"Please generate an unnatural ending following the given chunk of text.
+
+darin explained to them why it was they must land secretly in the little cove ahead of them , rather than sail on to the bay where sultan al-din 's harbour and the palace were . broderic scowled at the captain . `` so , your past crimes are catching up with you ! i 'm surprised you agreed to bring us here , if you 're a wanted man in these parts . '' `` he had no intention of coming here at all , '' said","[' Darin', ' Were', ' ``', ' Catching']","1,2,3"
+149,"Please generate an unnatural ending following the given chunk of text.
+
+`` i do n't even have to re-up when my time is up , if i do n't want to . or , i can become a commissioned officer and get a job in that field through the marines . '' he snapped his fingers . `` ooh , yeah . that 'll look really good on your father 's campaign . an officer at his side . '' `` i do n't care about his f ** king","[' Campaign', ' Do', ' The', ' In']","1,2,3"
+150,"Please generate an unnatural ending following the given chunk of text.
+
+if we get a wiggle on , we can be at the gordons ' by half eleven . ' nathalie benson and jessica thomas had cleaned together every weekday for four years , the somewhat uninspired moniker benson and thomas cleaning services on the side of their little white van . nathalie had stencilled ' a bit dirty ? can we help ? ' underneath for two whole months until jess pointed out that half the calls they were getting were nothing to do with","[' Cleaning', ' Uninspired', ' They', ' Calls']","1,2,3"
+151,"Please generate an unnatural ending following the given chunk of text.
+
+`` a friend of mine , also a bishop , out in indiana has a ... situation . now , mind you , this is confidential information , '' he warned . both christian and hannah nodded in understanding . `` his granddaughter is fifteen . and expecting a boppli . '' he sighed . `` he asked if she could come to paradise until the boppli is born , then she will return to","[' Indiana', ' The', ' ,', ' Paradise']","1,2,3"
+152,"Please generate an unnatural ending following the given chunk of text.
+
+her uncle made a face that was comical on his giant-sized intimidating self . ari narrowed her eyes on him . `` you said you 'd put a protection enchantment around me . you lied . '' red held up his hands in defense . `` i did , '' he insisted , his blue eyes guileless . `` i 'm sorry my brother was able to find you ,","[' Ari', ' His', ' Put', ' Me']","1,2,3"
+153,"Please generate an unnatural ending following the given chunk of text.
+
+cole 's face remained blank , as if he had n't heard the question . he did n't take his eyes off the poster . `` cole . do you recognize their faces ? '' he shook his head . `` when was the feast supposed to start ? '' i said again . cole frowned . `` i scheduled our arrival for right after the beginning of the","[' Feast', ' Again', ' Shook', ' Recognize']","1,2,3"
+154,"Please generate an unnatural ending following the given chunk of text.
+
+i have an older brother in the marines , career . joined up the day he graduated high school , eight years ago now . then there 's my cousin who lives in miami . she 's got her own life . we used to be close , except for every other weekend . but she got married as soon as she could and moved to","[' Miami', ' Older', ' The', ' She']","1,2,3"
+155,"Please generate an unnatural ending following the given chunk of text.
+
+i closed my eyes , feeling that all this was simply ... well , too much for me . `` so there we are , then , '' said lucas quietly . `` am i ... er ... a nice grandpa ? '' i felt a prickling in my nose as i fought back tears . so i just nodded . `` all the other time travelers arrive by chronograph officially and in comfort up in the dragon hall or in the documents room , '' said","[' Lucas', ' Was', ' Closed', ' My']","1,2,3"
+156,"Please generate an unnatural ending following the given chunk of text.
+
+his lips part and everything seems to happen in slow motion . mel turns and has the same horrified expression on her face . before either of them says anything , i step towards mel . `` how could you ! '' my hand flies and i slap her in the face . my palm stings as she closes her eyes and takes the","[' Hit', ' Hand', ' In', ' Flies']","1,2,3"
+157,"Please generate an unnatural ending following the given chunk of text.
+
+spooks , spies , sleuths now we 're getting somewhere ' , i thought . this is getting to the `` secret '' of the two men , the satchel and the ford sedan . inside the aged cover a record of grandpa 's military exploits around the world , and especially while in vietnam . overwhelmed ! to say the least ! but i had to dig deeper to find out about the ``","[' Secret', "" 're"", ' Say', ' Exploits']","1,2,3"
+158,"Please generate an unnatural ending following the given chunk of text.
+
+`` be careful . '' jamie cocked a half-smile and gave her a `` thumbs up . '' he hoped he looked more confident than he felt . the two made their way along the gravel that surrounded the two buildings , each scanning the area for signs of any ninja . * * * hidden behind a group of three trees on the side of the warehouse farthest from the office , there was a","[' Ninja', ' Two', ' Thumbs', ' Their']","1,2,3"
+159,"Please generate an unnatural ending following the given chunk of text.
+
+aitken broke the silence , `` we grounded the hoppers , stowik . '' stowik nodded , `` so you did . '' `` you violated the elders ' command . you disobeyed the law of alpha india . this is highly unprecedented , '' aitken observed in his cold , raspy voice . `` call together a tribunal . i need to speak to all of the elders , '' said","[' Stowik', ' Grounded', ' Silence', ' I']","1,2,3"
+160,"Please generate an unnatural ending following the given chunk of text.
+
+coogan scooped the other blaster off his desk , backed away . `` all right . when adams lands , you get on that visor and tell him pchak wishes to see him down here . with adams a hostage , i can get the rest to lay down their arms . '' `` one false move and i turn that robot loose on you , '' said","[' Coogan', ' See', ' Their', ' Arms']","1,2,3"
+161,"Please generate an unnatural ending following the given chunk of text.
+
+and there was , susanna thought , a very hard , very well-pleased look about her wide blue eyes . julia , who had been moodily pushing a crust of toast round her plate , stood up all at once . `` i 'm going to walk into the village to do some errands , '' she announced . `` would you like to come along ,","[' Susanna', ' Village', ' Very', ' Some']","1,2,3"
+162,"Please generate an unnatural ending following the given chunk of text.
+
+`` we became close , '' she said , trying to bridle her emotions . she had cried enough over jason . there was no need to make a scene in front of a stranger . `` i did n't know him in the beyond . i met him here . '' `` by what power did you cross over from the","[' Beyond', ' Jason', ' Trying', ' A']","1,2,3"
+163,"Please generate an unnatural ending following the given chunk of text.
+
+`` inside , in the living room on the right . '' santa carried two loads of packages inside , declined savannah 's offer of hot chocolate , then left with a cheery wave and a hearty `` ho-ho-ho '' that echoed across the still air . hannah stared after him , still wide-eyed . `` mom , do you think that was really","[' Santa', ' Really', ' Do', ' On']","1,2,3"
+164,"Please generate an unnatural ending following the given chunk of text.
+
+after the shock of seeing don clemencio dead and giving him a christian burial , he refused to return to el paso until he spoke to leonardo . when receiving the message , leonardo did n't hesitate to meet with lucio . he soon arrived at the empty courtyard behind the hotel where lucio was staying . `` i 'm sorry about your father , '' said","[' Leonardo', ' Father', ' Christian', ' Shock']","1,2,3"
+165,"Please generate an unnatural ending following the given chunk of text.
+
+there was n't much room between the seats and the wall back in that corner , so i usually served from the inside of the u of the tables . ryan was serving in the correct manner , from behind the people . '' bev was glad that claudia 's eyes were still closed . she closed her own to calm herself , `` do you remember where he was and who he was","[' Serving', ' Ryan', ' Manner', ' Tables']","1,2,3"
+166,"Please generate an unnatural ending following the given chunk of text.
+
+aldair bowed again and left with two guards escorting him . `` you two , '' he said pointing to the guards that were over thuane . `` take him to the gates . then go tell nuevon that we need him and twenty senior guardsmen to meet in full dress out front immediately . twenty is just enough to raise suspicion , but not","[' Alarm', ' You', ' Nuevon', ' Over']","1,2,3"
+167,"Please generate an unnatural ending following the given chunk of text.
+
+`` ms. quinn , you come this way to try your selections on . mrs. warren , you go that way with my assistant , becca . '' i nod and walk towards becca . `` hi , i 'm kate . '' i tell her putting my hand out . she takes it and smiles a friendly smile , `` i 'm","[' Becca', ' You', ' Quinn', ' Tell']","1,2,3"
+168,"Please generate an unnatural ending following the given chunk of text.
+
+very rarely did you aim for a man 's chest . only a person with some confidence would risk it , the blade only had to jam on the rib bones , you never took that risk in battle . gabriel and elijah dragged the body from the water . they saw where the sword had entered under the ribs . `` she must have been standing in the water , she would have been lower and able to thrust up with the sword , '' said","[' Would', "" ''"", ' Rarely', ' Gabriel']","0,1,2"
+169,"Please generate an unnatural ending following the given chunk of text.
+
+`` he told me to , '' she repeated , her voice finally breaking and she shoved her face in his chest . `` darling , '' nate whispered against the top of her head . `` what 's happening here ? '' the registrar shouted . `` who are these bizarre people ? '' `` they 're genies , '' natasha chimed in , her voice angry , `` and they 're not","[' Bizarre', ' Are', ' And', ' Shoved']","1,2,3"
+170,"Please generate an unnatural ending following the given chunk of text.
+
+when he insulted me , everything took a turn for the worse and now the judge will have to decide if my claim is justified or not . '' `` a present ? '' carol said horrified . dylan would have to be the devil himself to classify what he had given his ex-boss as a present . `` is that what you call it , a","[' Present', ' It', ' What', ' Said']","1,2,3"
+171,"Please generate an unnatural ending following the given chunk of text.
+
+she gaped in horror . `` what ? '' hugh asked , the worry obvious in his voice . `` what is it ? '' `` a great boil , my lord , '' willa announced with awe as she examined the swollen and angry looking sore on his behind . then she decided , `` nay , not a","[' Boil', ' With', ' Angry', ' A']","1,2,3"
+172,"Please generate an unnatural ending following the given chunk of text.
+
+` what ? ' ` new wallpaper . ' ` oh . that . ' grandma 's house had new wallpaper ? tanzie felt weird . dad and grandma were living in a house that she might not recognize any more . it had been 348 days since she last saw dad . it was 433 days since she 'd seen","[' Oh', ' Grandma', ' More', ' 433']","0,2,3"
+173,"Please generate an unnatural ending following the given chunk of text.
+
+`` yes , '' i said . `` there 's a very fresh body . can i show you where ? '' `` how close do you have to come to this man ? '' `` i have to go to the first stall . '' `` okay , go . '' i very carefully worked my way around the tableau of bleeding men and law enforcement to get to the opening to the","[' Stall', ' Said', ' .', ' Go']","1,2,3"
+174,"Please generate an unnatural ending following the given chunk of text.
+
+two identical audi three hundreds , fire engine red , parked squarely in front of a rundown , seemingly abandoned old bungalow , which was surrounded by a six foot high cyclone fence . `` it 's the house ! '' seth declared . `` the one with the family , '' argus added . `` yeah , but no family , '' said","[' Seth', ' Fire', ' High', ' Parked']","1,2,3"
+175,"Please generate an unnatural ending following the given chunk of text.
+
+he let it fall to the stone floor but before it collided with the ground it burst into flames . it sent small plumes of smoke into the air that quickly dissipated in the dry heat . `` when isis ordered the pillar of byblos to be split , the workmen chopped at the wood . most of the attention was drawn to the beautiful box hidden within . as the men toiled , a piece of wood splintered across the floor and came to rest at the feet of","[' Isis', ' Let', ' As', ' Heat']","1,2,3"
+176,"Please generate an unnatural ending following the given chunk of text.
+
+nobody will . '' `` honey , you 're just having a bad dream . you 've been tossing and turning and muttering for the last half hour , '' she assured him . `` do you mean the store did n't fall down ? alexis was n't there ? '' `` i do n't know what you 're talking about ,","[' Honey', ' About', ' Assured', ' Will']","1,2,3"
+177,"Please generate an unnatural ending following the given chunk of text.
+
+his eyes twinkled mischievously . he brought his hand out from behind his back and produced a pie . `` she said you can come over anytime and she 'll teach you how to bake . '' allison rolled her eyes . she 'd never live down her cooking mishap on thanksgiving . `` just because my first attempt set off the smoke alarms does n't mean i 'm","[' Hopeless', "" 'm"", ' Can', ' Set']","1,2,3"
+178,"Please generate an unnatural ending following the given chunk of text.
+
+and we have n't found anybody else interested in renting . '' `` so mike wants to sell and you do n't ? '' `` no , i do n't . that 's our house . i grew up in that house . '' `` i know . '' `` i do n't know what 's going on with me . but i 'm feeling really emotionally attached to things like that","[' House', ' Anybody', ' ,', ' Found']","1,2,3"
+179,"Please generate an unnatural ending following the given chunk of text.
+
+caleb looked at her , surprised that she was carrying water . `` i always keep one in my pocket , '' she said with a smile . caleb smiled back at alice and said , `` thanks , you go ahead and drink what you want , i 'll have a little bit when you 're done . '' alice took a drink from the bottle and handed it over to","[' Caleb', ' With', ' From', ' Looked']","1,2,3"
+180,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'd wish i could be back in texas , '' she says quietly . the sadness in her answer makes me want to hug her . i do n't know what it is about michigan that makes her feel this way . i just have an overwhelming need to console her . `` what do you miss so much about","[' Texas', ' She', ' ``', ' .']","1,2,3"
+181,"Please generate an unnatural ending following the given chunk of text.
+
+` what 's that got to do with anything ? ' ` not viola . voila ! it means there you have it . ' ` so why did n't you say that , then ? instead of talking funny - ' ` i 'm not sure , ' said robin , ignoring will and anyx 's bickering . ` it sounds risky - ' anyx continued to stare at will for a moment or two , before turning back to","[' Robin', ' Did', ' Got', ' Ignoring']","1,2,3"
+182,"Please generate an unnatural ending following the given chunk of text.
+
+there was a moment of silence , leaving rourke to wonder if she was reconsidering . `` thank you for helping me , '' ana luisa called . `` i can never repay you for coming after me , but i am staying here . '' rourke muttered an oath . right or wrong , he felt responsible for the","[' Girl', ' Reconsidering', ' There', ' Felt']","1,2,3"
+183,"Please generate an unnatural ending following the given chunk of text.
+
+here 's where you can add a little more color to make it interesting ... a bit of pink , crimson , or purple can liven up the painting . '' jamie watched in fascination as the buildings came to life . he felt as if he were standing before them in person , expecting one of the perching birds to fly off into the clouds . he was surprised when mr. roberts handed him the","[' Brush', ' Perching', ' Handed', ' Little']","1,2,3"
+184,"Please generate an unnatural ending following the given chunk of text.
+
+reno asked . `` oh , i 'm fine . sphergol is just hiding in my head , '' when reno called him by his fake name , it reminded michael that he needed to be honest with the man . `` listen , i have something to tell you . my name is not kyle , it is","[' Michael', ' Called', ' Name', ' Asked']","1,2,3"
+185,"Please generate an unnatural ending following the given chunk of text.
+
+`` okay , well she came out to see me while i was having a smoke . she said she was n't feeling well and was going to head back home to the estate . she did n't want you to know because she knew you 'd leave with her . she did n't want to spoil your night . i had gary drive her back to the","[' Estate', ' A', ' Me', ' I']","1,2,3"
+186,"Please generate an unnatural ending following the given chunk of text.
+
+the man with the watch waited a few moments . the er continued as though nothing had happened . voss was nowhere in sight , the nurses were continuing their rounds and no one noticed that one of the patients had just died . no one had thought to have his vitals monitored . a few moments later , something began to stir , drawing the eyes of the man with the","[' Watch', ' Moments', ' Noticed', ' Nurses']","1,2,3"
+187,"Please generate an unnatural ending following the given chunk of text.
+
+macpherson became somewhat vacant when he spoke of his son 's fate , and an uncomfortable silence spread through the hall . nobody knew how to react . alice came over to adam 's side as macpherson joined mathis at the crate , and spoke in a low voice . `` do you think we should tell them about the note ? '' she asked . `` no , not yet , '' said","[' Adam', ' Silence', ' His', ' Became']","1,2,3"
+188,"Please generate an unnatural ending following the given chunk of text.
+
+he demanded , almost daring me to respond . i guess this is where i made my final choice . this is where the two parts of me that were torn mended together and created the rest of my eternity . `` love , '' i whispered , clearing my throat . then , louder , i repeated , ``","[' Love', ' Were', ' Of', ' Eternity']","1,2,3"
+189,"Please generate an unnatural ending following the given chunk of text.
+
+when she got to the part about my being an elemental he just snorted , but then i performed magic that no airlee mage had ever done , reveling in the new sensation of magic flowing freely inside me . when sip finished telling the story , lough grabbed me up in a bear hug . he was laughing . `` awesome , '' he whooped . `` awesome ! '' `` lough , it means charlotte is the target of demons . ` awesome ' is not really the right word , '' said","[' Sip', ' Lough', ' Mage', ' Elemental']","1,2,3"
+190,"Please generate an unnatural ending following the given chunk of text.
+
+are you also aware that the only common clue that i found is from this store ? i found an empty box from alivan 's wizards and witches corner store near each body . i keep asking myself why a homeless man would want anything from this store ? '' jesse shrugged and nodded . `` what can you tell me then , son ? '' `` the same thing i told the officer who arrived at the scene after i called 911 , '' answered","[' Jesse', ' Homeless', ' Want', ' Alivan']","1,2,3"
+191,"Please generate an unnatural ending following the given chunk of text.
+
+i suppose he must have thought that i was looking at him skeptically . `` i assure you , it 's true . and there is nothing more horrible on this side of the grave . '' he chuckled and coughed up phlegm . tubercular phlegm , disease ridden . he was swarming with life . `` no , nothing more horrible on this side of the","[' Grave', ' More', ' At', ' Looking']","1,2,3"
+192,"Please generate an unnatural ending following the given chunk of text.
+
+`` hey , there 's my ride . i got ta go . '' chris hooked his arm through his backpack on the ground by the bench and stood . rising , shelby stopped him with a soft hand on his arm . her eyes went from sad to kinda confused . `` and chris ? about what happened just now , you know , with the","[' Kiss', ' The', ' Soft', ' His']","1,2,3"
+193,"Please generate an unnatural ending following the given chunk of text.
+
+i went to the franciscan mission to see if he was there . but he was n't . '' `` a homeless man ? '' `` he 's the one who sits by the ponte santa trinita , on the other side of the river . he 's disabled , like me . '' she heard the man move , almost imperceptibly . `` um , that is , i used to be","[' Disabled', ' .', ' Man', ' Sits']","1,2,3"
+194,"Please generate an unnatural ending following the given chunk of text.
+
+as for carly , i got out of the car and she ran up to me . `` sweetie ! '' she greeted . i smiled and gave her a half hug , being careful not to squish gwen . once carly was done hugging me , she looked at the baby and her face lit up . she looked at me with a grin on her face and then she looked at","[' Gwen', ' With', ' Carly', ' The']","1,2,3"
+195,"Please generate an unnatural ending following the given chunk of text.
+
+i leave them and i sat into the table white i wait for mammoo to bring the food . i heard them talking mammoo and george . yes i am back but it 's not easy for we to be fine at all right now . we eat together w / mammoo . and george . but they are in silence . until i broke it . `` he i wonder why you 're here '' i said to","[' George', ' Leave', ' Not', ' Sat']","1,2,3"
+196,"Please generate an unnatural ending following the given chunk of text.
+
+never will i speak ill of a wyverian again . any wyverian . '' rhamalli folded his wing back against his side and re-hooked his wing talon to the lip of the rock outcropping he had been gripping . he nodded solemnly to the dwarf , as if rescuing falling dwarves were a daily occurrence . narrowing his eyes until they were back to being slits , rhamalli returned to his meditation , although this time he devoted a little more of his attention to keeping an eye on the","[' Dwarves', ' Ill', ' Again', ' Outcropping']","1,2,3"
+197,"Please generate an unnatural ending following the given chunk of text.
+
+earlier that morning he had sent a perfect copy of the code to his grandfather for him to decipher . he knew it was of the utmost importance that he give the man time to look it over . considering their last meeting , he had reasons to believe lainhart 's mind was indeed weak . hunter had given him three hours to look at the","[' Code', ' Believe', ' Time', ' Of']","1,2,3"
+198,"Please generate an unnatural ending following the given chunk of text.
+
+he sat up and almost screamed out loud when he saw derrick staring eagerly at him from the foot of the bed . `` are you aaron ? '' `` oh no , derrick , '' he said sarcastically , `` i 'm actually santa clause on break . this is just a disguise i 'm using while i wait for christmas . '' `` no , seriously , '' said derrick , a little annoyed by his friend 's insult , `` are you","[' Aaron', ' Oh', ' Bed', ' Is']","1,2,3"
+199,"Please generate an unnatural ending following the given chunk of text.
+
+`` - surely they would -- '' `` - was n't the separatists -- '' ratino firmly turned and held up an arm , and a hushed quiet filled the room instantly . he turned to one of the cops beside him . `` search the entire coffin . '' the man nodded and bustled forward towards the coffin . he bent down and searched the large container , trying to find anything else hidden in it other than the","[' Body', ' --', ' Held', ' To']","1,2,3"
+200,"Please generate an unnatural ending following the given chunk of text.
+
+she left his office for the women 's staff room , where she changed out of her rachel zoe print dress and snakeskin flats into hideous , oversized scrubs that smelled like puke . then she went back to sean 's office . `` ms. marin ? '' a woman in pink scrubs appeared from around the corner . `` i 'm kelly , one of the head","[' Nurses', ' Into', ' Went', ' Office']","1,2,3"
+201,"Please generate an unnatural ending following the given chunk of text.
+
+he knew his actions would force the elders of the order to recognize his commitment and elevate his status . to belong to the order of the serpent was an honor . if he could pull this task off he would be admitted to the inner circle . his destiny in life would be set allowing him to interact with the rich and powerful . matt 's oxford school friend had cautiously introduced him to the","[' Order', ' Task', ' He', ' Friend']","1,2,3"
+202,"Please generate an unnatural ending following the given chunk of text.
+
+and he would be embarrassed at ordering sir nickleby about ; the knight might obey him , whatever he had to say , but it would feel weird , and then he would have to listen to sir nickleby if the knight had an opinion ... would he really be in charge then , or would it just be a charade to make him feel good ? `` a leader ... basha ? '' oaka laughed . `` he 's not ... '' `` he will be one day ,","[' Oaka', ' If', ' Might', ' Feel']","1,2,3"
+203,"Please generate an unnatural ending following the given chunk of text.
+
+sandy placed his legal pad and the photos into his briefcase . `` be careful , '' patrick said . `` as soon as you 're identified as my lawyer , you 'll attract all sorts of strange and nasty people . '' `` the press ? '' `` yeah , but not exactly what i had in mind . i 've buried a lot of money ,","[' Sandy', ' Strange', ' And', ' ``']","1,2,3"
+204,"Please generate an unnatural ending following the given chunk of text.
+
+barbara held it above her head and with great might , threw the glass to the floor , causing it to shatter into a dozen pieces . i was shocked . how crazy was this lady ? she looked at me and smirked . `` do you still think the glass i was holding a second ago is beautiful ? '' shocked and confused i uttered , `` uh -- i guess . yes , i did believe it was","[' Beautiful', ' And', ' Shatter', ' With']","1,2,3"
+205,"Please generate an unnatural ending following the given chunk of text.
+
+what had she just said and what did that have to do with her other hand scratching through his flight suit along his pec ? he replayed her words and-oh , uh , al-anon . talk about a cold splash . `` i help out there . the support group is open to helping families of people with other addictions . i feel like i have something to offer family members , as well , since my parents were","[' Addicts', ' Help', ' Is', ' To']","1,2,3"
+206,"Please generate an unnatural ending following the given chunk of text.
+
+we can travel to my homeland together and see my prince and his lifemate before we travel to your country . '' falcon deliberately slowed his heart and lungs , taking the lead to get their bodies , both raging for release , back under control . `` a prince ? you want me to go with you to meet your","[' Prince', ' Bodies', ' Lead', ' Lifemate']","1,2,3"
+207,"Please generate an unnatural ending following the given chunk of text.
+
+`` other than me , goofus . '' `` i give up . '' `` our intrepid leader . daniel 's my studio teacher . '' `` no . freaking . way . '' `` totally . '' i dropped my bag and sat down on the edge of her bed . `` he walks in , and i was like , ` holy frick , that 's","[' Daniel', ' Down', ' Our', "" 's""]","1,2,3"
+208,"Please generate an unnatural ending following the given chunk of text.
+
+she knew that more surely than her own name . holding on to the thought of fletch was like reaching for a lifeline . thrashing her way upward , she broke through the surface of the water . she wanted to yell , but she did n't have enough air left . instead she turned upstream and clawed her way through the eddies to get back to the bank where she 'd last seen","[' Fletch', ' A', ' But', ' .']","1,2,3"
+209,"Please generate an unnatural ending following the given chunk of text.
+
+`` you know yourself in a fight , '' i told her . `` there 's no lying about your skills . about what you can do . it 's a good feeling . '' `` you ca n't feel if you 're dead , '' isabel said . `` there 's nothing good about fighting . '' `` then you utterly mistake the role of women ,","[' Isabel', ' If', ' Role', ' A']","1,2,3"
+210,"Please generate an unnatural ending following the given chunk of text.
+
+chapter 22 the hurrier i go , the behinder i get , and i 'm getting well behind on my task of unshackling amber from the post . it would help if i had n't dropped the pick in surprise when the troll demolished the door and offered up an image of my -lrb- again -rrb- imminent death . `` what are you doing ? '' `` picking your lock ! now hold still ! '' but i 'm still fumbling around on the floor , hands madly feeling around for the","[' Pick', ' If', ' Offered', ' Chapter']","1,2,3"
+211,"Please generate an unnatural ending following the given chunk of text.
+
+are n't you close with your family ? '' `` i have a brother , '' he said without elaborating . `` how do you like vegas ? '' he quickly changed the subject . she ignored his change of subject and continued with her own curiosity . `` just a brother ? no mother or father ? '' surely the man had more than just a","[' Brother', ' She', ' No', ' Ignored']","1,2,3"
+212,"Please generate an unnatural ending following the given chunk of text.
+
+the family felt i should be the one to name it , so , using all of my creative genius , i declared it would have the name of `` cat '' . my family was disgusted and wanted me to do better , so i changed the name to oliver after the orphan in `` oliver twist '' . as oliver grew , he decided he was my","[' Cat', ' All', ' Would', ' To']","1,2,3"
+213,"Please generate an unnatural ending following the given chunk of text.
+
+` look , crazy woman , i should know what kate looks like ! i went out with her long enough ! ' ` i 've had surgery , you arrogant idiot ! ca n't you see that ? ' ` sure , i can see you 've had so much work done , even your own mom probably would n't recognise you ! but , see , i know you ca n't possibly be","[' Kate', "" '"", ' Much', ' Your']","1,2,3"
+214,"Please generate an unnatural ending following the given chunk of text.
+
+`` and i did n't know they were dating when i said yes . '' `` did she see you ? '' sip wanted to know . i looked away , unable to meet her eyes . `` awesome , '' said sip , exasperated . `` she hated me before , '' i told her . `` because you knew him before , '' said","[' Sip', ' Eyes', ' Hated', ' Know']","1,2,3"
+215,"Please generate an unnatural ending following the given chunk of text.
+
+the enemies rushing out of the village , however , did not even hesitate but continued their charge down through the rain of arrows . `` that 's stupid ! '' rabbit exclaimed . `` have n't they got any brains ? '' `` evidently not , '' keselo replied . `` i think this is what that old shaman told us back in the cave ,","[' Rabbit', ' They', ' Back', ' Their']","1,2,3"
+216,"Please generate an unnatural ending following the given chunk of text.
+
+`` special gets you into trouble with your neighbors ; they try to bonk you all the time because you look different . '' `` the supreme being wants us to be special , '' said thunderbags . `` what for ? '' said kilroy . thunderbags gasped . `` you dare to question sb ? '' `` well he did n't tell us to come here , '' said kilroy . `` that 's because you botched it , '' said","[' Thunderbags', ' It', ' Us', ' Because']","1,2,3"
+217,"Please generate an unnatural ending following the given chunk of text.
+
+chris ' heart sank at even the mention of her name . a lump rose in his throat as he heard her footsteps above him , then descend the stairs . `` yes , ma ? '' she said , slightly breathless . `` would you kindly go get me some milk out of the spring house ? chris , have you ever been in the spring","[' House', "" '"", ' Mention', ' Throat']","1,2,3"
+218,"Please generate an unnatural ending following the given chunk of text.
+
+to mom , izzy was now a frightened teenage girl who had possibly been abandoned -- no way could she , or would she , just turn her back on her . i grabbed my wallet . `` listen , why do n't you run out and grab a burger while mom and i work this out ? '' `` a burger ? '' izzy gawked . `` a burger , tofu or whatever grabs you . '' i handed izzy a twenty and then turned to","[' Mom', ' ,', ' To', ' No']","1,2,3"
+219,"Please generate an unnatural ending following the given chunk of text.
+
+where 's the key to your apartment ? '' `` what ? '' the dane sat on its haunches not seeming to mind it only had one back leg . marissa admired the graceful way it leaned forward on its front legs . brent frowned at the dog . `` how does he scratch his ears ? '' `` he wo n't have to , '' said","[' Marissa', ' Legs', ' Dog', "" N't""]","1,2,3"
+220,"Please generate an unnatural ending following the given chunk of text.
+
+i do n't know him , and generally when people do n't want to talk about something it 's hard to get it out of them . that was always the problem with landon . he never wanted to talk . and i always let him get away with it . `` i 'm not a fan of concerts anymore , though . '' his head slants to the side as he studies me . `` you 're a fan of music , you play the drums and piano , but you do n't like","[' Concerts', ' With', ' And', ' Side']","1,2,3"
+221,"Please generate an unnatural ending following the given chunk of text.
+
+on one table , there were two tiny cagelike devices , each about a foot high . they were about four feet apart on the table , and connected by a cable . `` this is alice , '' gordon said proudly , pointing to the first cage . `` and this is bob . '' stern knew that by long-standing convention , quantum transmission devices were labeled `` alice '' and `` bob , '' or `` a '' and `` b. '' he looked at the little","[' Cages', ' Connected', ' Feet', ' He']","1,2,3"
+222,"Please generate an unnatural ending following the given chunk of text.
+
+` my guess is that is exactly what has been done in case of your father or even in your case , ' satyanand concluded , ` often people can see one side view of the incidents , but you are lucky to view from both sides . you should consider yourself lucky that you got this knowledge through experience . it is unfortunate that the experience is a tragic one . ' suraj did n't say anything . as the pause became longer satyanand asked from the other side of the narrow tunnel , ` are you all right","[' Suraj', ' In', ' That', ' Done']","1,2,3"
+223,"Please generate an unnatural ending following the given chunk of text.
+
+i thought you were with them , '' she tilted her head in the direction they came . she gazed hungrily at the food . and now she 's all smiles . great . stowik sighed loudly and offered some of his food to the girl , who hastily grabbed them from him and hastily began devouring the vegetables . `` i take it your side does n't feed well , then , '' commented","[' Stowik', ' Came', ' Hungrily', ' His']","1,2,3"
+224,"Please generate an unnatural ending following the given chunk of text.
+
+he quickly went over the titles on the table of contents . he had never encountered the titles before . besides , he did n't know a specific poem by heart . he ran through the pages , and found some poems as short as four lines , and some poems occupying up to three pages . he was overwhelmed . he thought it would be wise to start with the first","[' Poem', ' Table', ' Short', ' Besides']","1,2,3"
+225,"Please generate an unnatural ending following the given chunk of text.
+
+`` guess it does n't matter which one . with the blinds down , i ca n't tell what sort of furniture 's on the other side . '' `` but it might matter where i hit it . use the torch to find out where the lock is , if you can . '' `` sure . '' now that she knew what he meant , she liked hearing him refer to it as a","[' Torch', ' The', "" N't"", ' But']","1,2,3"
+226,"Please generate an unnatural ending following the given chunk of text.
+
+`` what do you mean when you saw me walk in ? you said you did n't know i was there until you saw me leaving . '' i shrug . `` i lied . '' the lake as soon as i step up to the microphone , i see her . she walks through the doors and heads straight for a booth , never once looking up at the","[' Stage', ' See', ' Walk', ' Walks']","1,2,3"
+227,"Please generate an unnatural ending following the given chunk of text.
+
+then , he lays the clothes on the bed and walks into the bathroom to freshen up . evian meets more mystics fifteen minutes later , there is another knock on the door . evian chuckles and says to himself , `` right on time . '' then he walks toward the door and opens it . `` well , hello again . '' anyss laughs and responds with , `` hello again to you ,","[' Evian', ' Again', ' Freshen', "" ''""]","1,2,3"
+228,"Please generate an unnatural ending following the given chunk of text.
+
+he was a wiry man in his mid-twenties , his blond hair already balding , dressed in black linen slacks and a white shirt , buttoned to the top . `` if you 'll follow me , i 've been directed to take you to monsignor verona . '' he did a comical double take at her visitor 's pass and stuttered with surprise . `` lieutenant verona ? are ... are you related to the","[' Monsignor', ' If', ' Comical', ' Directed']","1,2,3"
+229,"Please generate an unnatural ending following the given chunk of text.
+
+`` i 'm sorry . '' `` you do n't sound it . i was having the most amazing dream , and you woke me right at the interesting part , so you owe me something now . '' she sniffed . `` i have absolutely no intention of entertaining you . '' but she spread out the towel and lay back on the","[' Lounger', ' ,', ' And', ' Now']","1,2,3"
+230,"Please generate an unnatural ending following the given chunk of text.
+
+`` that 's hot , '' brian said next to me , and i looked at him like he was insane . `` bri , the other chick looks more like a guy than you do . '' `` do n't be jealous of my hair , bro . you just wish you could pull this off . '' `` you look like troy polamalu . trust me when i say i 'm not","[' Jealous', ' My', ' Wish', ' Next']","1,2,3"
+231,"Please generate an unnatural ending following the given chunk of text.
+
+just when she was looking for rain , the sun had decided to play a game of hide-and-seek with her . if lightning was n't going to do the good commander in , then all she could hope for was a bad case of athlete 's foot . once again she grumbled under her breath , seriously considering leaving the base without running . if she did go down to the track , it was likely she 'd say or do something that would get her into trouble with the","[' Commander', ' Game', ' Running', ' Down']","1,2,3"
+232,"Please generate an unnatural ending following the given chunk of text.
+
+`` i think she prefers older men , '' he added . `` i love a man who can be a good sport about being rejected , '' katie approved . wishing katie would be quiet , janet made a belated introduction , `` dean , this is my friend , katie addison . '' `` it 's a pleasure to meet you ,","[' Katie', ' Made', "" ''"", ' My']","1,2,3"
+233,"Please generate an unnatural ending following the given chunk of text.
+
+`` i would n't ask if i did n't already know that you 've got enough to spend foolishly for a lifetime , and still not know what to do with the rest . '' `` what do you need this money for ? '' he asked , and george felt hopeful . at least he was interested enough to ask . `` a ship . '' `` a ship ? '' `` must you repeat everything i say ? '' `` what would you do with a","[' Ship', ' Lifetime', ' Still', ' At']","1,2,3"
+234,"Please generate an unnatural ending following the given chunk of text.
+
+... as berry sat down in the big overstuffed usually comfortable chair in gruter 's office he noted that he really was n't very comfortable ... too much had happened between the time he last spoke with gruter and now . he was busy formulating just what he should and should not say to gruter . some of the facts were clear , but there was a lot of haze in it all , and he did n't want to get gruter involved any more than he already was ... so what have you found out","[' Berry', ' It', ' Time', ' Than']","1,2,3"
+235,"Please generate an unnatural ending following the given chunk of text.
+
+sworn to himself that her would never become emotionally involved again . and then he had met lee , and everything had suddenly changed . lee was beautiful , sensitive and caring - the one tyler wanted to spend the rest of his life with . tyler loved lee , but why should lee love him ? a successful model , lee had dozens of admirers , most of them","[' Wealthy', ' A', ' Rest', ' Suddenly']","1,2,3"
+236,"Please generate an unnatural ending following the given chunk of text.
+
+`` he has n't done anything to you . '' `` on the contrary , little flower , he has perpetrated quite the offense . and , sweet as it is for you to come to his rescue , young bo here knew what he was getting into , knew the risk he was taking . i 'd wager that he even expected death to come calling for him some day soon , is n't that right","[' Bo', ' That', "" N't"", ' Young']","1,2,3"
+237,"Please generate an unnatural ending following the given chunk of text.
+
+for the last two weeks he had fallen asleep to awaken with an image of europe breaking in two and upending into the atlantic . `` how could you possibly know that ? '' everett burst out . `` our best scientists claim it was a movement of the earth 's crust caused by the proximity of the planets . it 's not supposed to happen again for another hundred thousand years . '' miles smiled as if at an inner joke , and then turned to face","[' Everett', ' And', ' Inner', ' Had']","1,2,3"
+238,"Please generate an unnatural ending following the given chunk of text.
+
+he visibly cringed when awel walked up to him , her sparkling , blue eyes raking him head to toe . with a smile , she held out a clean tunic and laughed while he scrambled into it . the rain came to a desultory stop as the last of the firefighters reeled into camp . by midnight , everyone had bathed in the stream and gathered around the campfire , ready for","[' Food', ' Eyes', ' Visibly', ' Held']","1,2,3"
+239,"Please generate an unnatural ending following the given chunk of text.
+
+soon , things were falling from the shelves . the kids screamed . a girl wailed , `` what 's going on ? '' `` it sounds like a giant 's outside ! '' cried the dim-witted kid . `` shut up , chase ! '' sneered the contemptuous kid . `` there 's no such thing as","[' Giants', ' Outside', ' Soon', ' Sneered']","1,2,3"
+240,"Please generate an unnatural ending following the given chunk of text.
+
+given the multitude of creases and the fine sheen on the leather on the boots , it was likely that the stranger was a serious equestrian . `` i reckon that depends , ma’am . '' `` please do n't call me ma’am . that 's what they called my mama , and we buried her ten years ago . my name 's anne mccaffrey . and you 're old enough to call me","[' Anne', ' Ago', ' And', ' You']","1,2,3"
+241,"Please generate an unnatural ending following the given chunk of text.
+
+`` they 'll love them , '' said josh . `` maybe i 'll get more brothers and sisters after all . '' the ceremony was brief , sensually overwhelming with simultaneous beauty in words , colors , music , lights , fragrances and movement , and by far the most romantic thing that winnie had ever witnessed . she cried but not over tom , or elaine , or even","[' Josh', ' With', ' ``', ' Sensually']","1,2,3"
+242,"Please generate an unnatural ending following the given chunk of text.
+
+next , she sees a retreating back with her pack slung over a shoulder . chaytan orders from behind her `` leave the loading of the packs to kangee , mato , or enapay . they will see when the pack is ready and take it to the kirtags . `` come . i 'll see you mounted . '' `` i can take care of my own","[' Pack', ' With', ' Come', ' Next']","1,2,3"
+243,"Please generate an unnatural ending following the given chunk of text.
+
+i was suffering from having fallen to the ground and a hit to the head , after all . ` well , how am i going to get up to you , then ? ' ` you could just throw me the dagger . ' i looked up skeptically . the ropes seemed wound pretty tightly around her . they , however , were connected to the pillars . ` hang on , ' i said , walking up to one of the","[' Pillars', ' Around', ' Were', ' Well']","1,2,3"
+244,"Please generate an unnatural ending following the given chunk of text.
+
+embarrassed and angry , victoria bade the earl a brief good-bye , smiled lamely at john and handed him his sailboat , then rushed inside . john watched her , looked at jason , then turned anxiously to his father . `` he did n't give miss tory a thrashing , did he ? '' the earl lifted his amused glance from jason 's wet shirt-front to his lordship 's face . `` no , john , lord fielding did not give her a","[' Thrashing', ' John', ' Brief', ' Lordship']","1,2,3"
+245,"Please generate an unnatural ending following the given chunk of text.
+
+alex took hold of his wife 's hand . `` we consider ourselves lucky . '' `` almost guilty , '' betty added . trent understood that emotion . `` we are the lucky ones . i know it 's soon , but have you thought about what you might want to do ? '' betty glanced at her husband then back to","[' Trent', ' Betty', ' Ourselves', "" 's""]","1,2,3"
+246,"Please generate an unnatural ending following the given chunk of text.
+
+`` lady scafarel told us never to turn it off , because the watch is like a computer clock and many items , including planes , using this signal , would go awry if we did . '' `` turn it off , i 'll tell money fact to give you a nine hour whole body massage , '' said clarity . `` with shalia ? '' `` yes , with shalia , '' said","[' Clarity', ' Awry', ' Body', ' Items']","1,2,3"
+247,"Please generate an unnatural ending following the given chunk of text.
+
+it was odd that he never met mr. claw . it was odd that he was listed as the owner of the store . it was odd how he received his paychecks . it was odd that yolanda roundbottom believed that mr. claw was the employee and he was the owner . everything was odd . needless to say , his new friend , a secret agent wizard , was also","[' Odd', ' Listed', ' Roundbottom', ' Needless']","1,2,3"
+248,"Please generate an unnatural ending following the given chunk of text.
+
+`` of course not , '' patrick murmured , scared anyway . `` it 's a matter of letting you know what the risks are , '' the psychiatrist said , `` and to impress upon you that your treatment here will take time . '' `` how long ? '' `` the average stay is two weeks . do you have any more questions ,","[' Patrick', ' Do', ' Upon', ' Anyway']","1,2,3"
+249,"Please generate an unnatural ending following the given chunk of text.
+
+`` now , dear victor , i dare say you wish to be indulged in a little gossip concerning the good people of geneva . the pretty miss mansfield has already received the congratulatory visits on her approaching marriage with a young englishman , john melbourne , esq. . her ugly sister , manon , married m. duvillard , the rich banker , last autumn . your favourite schoolfellow , louis manoir , has suffered several misfortunes since the departure of clerval from","[' Geneva', ' The', ' Melbourne', ' Gossip']","1,2,3"
+250,"Please generate an unnatural ending following the given chunk of text.
+
+she 's going to work with you . i 'll cover the front for an hour a night so you can watch her . does that work for you ? we can start it slow up there too , even just make it beer and a few drinks at first . '' `` so you 're really offering to hire me as a","[' Bartender', ' The', ' Slow', ' Does']","1,2,3"
+251,"Please generate an unnatural ending following the given chunk of text.
+
+she nodded , biting her lip . while emmy changed i gathered the chilled bottle of champagne , two glasses , and decadent chocolate-covered strawberries i 'd had sent up and brought them all out onto the veranda . removing the hot tub cover , i tested the water . perfect . i stripped out of my tux , socks , and boxers and climbed into the water to wait for","[' Emmy', ' Brought', ' Onto', ' Into']","1,2,3"
+252,"Please generate an unnatural ending following the given chunk of text.
+
+peyton took a step back , holding her coffee in both hands , as though it might protect her . `` look , voss , you know that was n't because of me . '' `` do i ? '' voss screamed , making peyton jump . he began walking towards her , the song still playing , his face contorted with rage and inebriation . he reached the kitchen entrance and stepped inside , peyton taking another two steps back , keeping distance between her and","[' Voss', ' Inebriation', ' As', ' Me']","1,2,3"
+253,"Please generate an unnatural ending following the given chunk of text.
+
+whereas those who sound as though they run things -- like dukes and earls -- do n't count at all . ' ` you can forget about bobbin too , ' said drade . ` he overheard our little conversation as we were cleaning up the traps yesterday after everyone had gone . ' ` really ? i did n't see him anywhere , ' said barney . ` he was hidden in one of his photographer tents he uses , ' said","[' Drade', ' They', ' I', ' As']","1,2,3"
+254,"Please generate an unnatural ending following the given chunk of text.
+
+`` do you want to give me a hard time , or do you want my help ? '' she crossed her arms , daring me to argue . `` you think you can help me ? '' `` yes . but only because i think it 's what 's best for becca . '' `` you think i 'm what 's best for","[' Becca', ' Give', ' Or', ' Think']","1,2,3"
+255,"Please generate an unnatural ending following the given chunk of text.
+
+when the blow hit midair , the djinn tried to regain his defensive composure in time ; but he was n't quick enough to evade jack 's leg sweep . falling hard to the flagstones , ramose rolled towards his staff of dancing winds . within three rolls he had it in his hands and was back on his feet . jack ran towards his own glaive , which still held the lion claw shape he had formed earlier . he swooped down and retrieved it -- its blade shimmered and changed into a long lance as he spun around to face","[' Ramose', ' Evade', ' Hard', ' Within']","1,2,3"
+256,"Please generate an unnatural ending following the given chunk of text.
+
+he should n't have saved you . but then , kreturus should n't have been out . it made using the stone pointless . '' she shook her head , as if she was dislodging an unwanted memory . there were so many things that i wanted to latch onto . but i bit my tongue , and when she stopped speaking i asked , `` the","[' Stone', ' You', ' And', ' Were']","1,2,3"
+257,"Please generate an unnatural ending following the given chunk of text.
+
+i asked , knowing we 'd just about reached our limit of sentimental , emotional talk . he gave me a fist bump . `` yup , little brother . cool as ice . '' as we took a quick walk around the house , i noticed two four-by-four jeep wranglers in the back yard . `` they 're perfect ! i love jeeps , man . it 's the perfect go-anywhere , do-anything","[' Vehicle', ' Me', ' Jeeps', ' ``']","1,2,3"
+258,"Please generate an unnatural ending following the given chunk of text.
+
+`` you 're probably right . '' at the door , sybel turned to me one last time and said , `` i 'm glad you made it back . i really am . but you 'll find it 's changed out there . it 's no longer the same place . '' `` what do you mean , it 's","[' Changed', "" 'll"", ' Probably', ' Do']","1,2,3"
+259,"Please generate an unnatural ending following the given chunk of text.
+
+she 's living with us for the rest of our time on earth , and then i 'm taking her home . '' the boy crept out into the hallway and peered down the landing , attempting to better hear the ongoing argument . the curved stairway on which he sat had some perfect hidey-holes where izzian could listen more closely without being detected . he need n't have worried about not hearing the discussion , because enot had begun to","[' Shout', ' Worried', ' Discussion', ' To']","1,2,3"
+260,"Please generate an unnatural ending following the given chunk of text.
+
+velius stared hard at gaultier . `` i am the athaer of kapelle . '' gaultier pulled velius 's journal from his jacket . he held it up as he turned to the elders . `` revoke the title . a servant of carnifex is not fit to represent the crown . '' the elder closest to gaultier reached for the","[' Journal', "" ''"", ' Held', ' From']","1,2,3"
+261,"Please generate an unnatural ending following the given chunk of text.
+
+the stones were intimately connected with the balance between life and death , a latent power to be used for good or evil . certainly the nun 's death at varanasi had resulted in miracles . joseph pulled out one of the loose leaves from the book he was reading . it was a page from a diary in latin script with a translation beside it . from the middle ages , it described a brother in the church murdering another for one of the","[' Stones', ' Intimately', ' Death', ' .']","1,2,3"
+262,"Please generate an unnatural ending following the given chunk of text.
+
+`` that 's sad , '' said nevi . `` it looks horrible , '' said torus . `` stupid dog , '' said chello . `` you stop it , '' said nevi . `` it 's obviously lost and sandwich man is gone and it does n't know what to do about it . '' `` that 's why it 's stupid , '' said","[' Chello', ' Obviously', ' .', ' ,']","1,2,3"
+263,"Please generate an unnatural ending following the given chunk of text.
+
+once he avoided being mugged because he sensed the guy coming behind him and scared him away . as she stood there behind the garage watching her family , she spotted something inside the side window of the garage . it was a tall stack of cardboard moving boxes with things written on the side in black sharpie . she could n't make out what they said , but she saw her name of a few of the","[' Boxes', ' Inside', ' In', ' Away']","1,2,3"
+264,"Please generate an unnatural ending following the given chunk of text.
+
+as rachel got up from the couch and walked past her parents and headed for the stairs , her dad said , `` get back here . '' rachel slowly walked near him . `` come here , he said , `` closer , '' `` were you smoking ? '' `` no ! '' rachel said . `` you smell like an ashtray , do you smell that ? '' rachel 's dad said . `` rachel , tell us the truth , were you","[' Smoking', ' Near', ' !', ' Stairs']","1,2,3"
+265,"Please generate an unnatural ending following the given chunk of text.
+
+he shook his head in disapproval , not at my eye rolling , but just at brianna in general . even he did n't like her , and i thought he liked everyone . well , with the exception of , um ... i could n't think of one enemy of president lincoln 's . he was always willing to forgive . i , on the other hand , was not so","[' Forgiving', ' But', ' Her', ' President']","1,2,3"
+266,"Please generate an unnatural ending following the given chunk of text.
+
+`` what 's a contraction ? '' `` yes . that is also one '' brian agreed . `` one what ? '' `` a contraction . '' `` that 's what i 'm asking you ! '' sami started waving her hands around . `` what 's a contraction ?! '' `` of course it is , '' agreed","[' Brian', ' !', ' Course', "" 's""]","1,2,3"
+267,"Please generate an unnatural ending following the given chunk of text.
+
+`` exactly ... , '' he said , licking his top lip . he practically did n't have a top lip , just a smear of red . `` that 's why i feel like i need to do something special this time around . '' `` come on . '' cath pulled at the notebook . `` my turn . '' it was always hard to get nick to give up the","[' Notebook', ' Red', ' Around', ' Do']","1,2,3"
+268,"Please generate an unnatural ending following the given chunk of text.
+
+`` hello , benjamin . '' he always called him benjamin . `` it 's james here -- james meredith . i thought i should ring you to tell you how desperately sorry i was to hear about toni 's death . '' `` oh ! bad news travels fast . but that 's kind of you ,","[' James', ' I', ' Hello', ' Bad']","1,2,3"
+269,"Please generate an unnatural ending following the given chunk of text.
+
+it was hard to tell when each one of them was already as big as a house . `` i do n't have time for this right now , '' johnny tried as he moved to the right to slide past them again . predictably , the entire fourth wall shifted with him , once again blocking his way . johnny was nervous . worse , he could n't understand why he was","[' Nervous', ' Big', ' This', ' When']","1,2,3"
+270,"Please generate an unnatural ending following the given chunk of text.
+
+`` believe me . i know exactly how shane is . does n't mean i have to like it right now . '' i really need to stop being the glass goodwill ambassador , claire thought , but she knew she 'd keep on doing it . somebody had to , after all . so after she 'd finished her coffee , she went to talk to","[' Shane', ' Knew', ' Stop', ' Mean']","1,2,3"
+271,"Please generate an unnatural ending following the given chunk of text.
+
+as a matter of fact , i got a little hysterical , and the principal was forced to call my mom because i refused to calm down . she had to come get me and take me home . to this day , i ask for my change in dimes and nickels . no quarters for me . no girls either . unlike my dad , who was apparently some grade-a womanizing badass , i tried to steer clear of","[' Girls', ' Principal', ' Call', ' Unlike']","1,2,3"
+272,"Please generate an unnatural ending following the given chunk of text.
+
+now she ate her lunch in front of the computer at the library . at home it was the same thing . if will was n't online when she logged on , he almost always had a message waiting for her . she 'd come to live for his messages . she 'd let so many things slide , and all because of","[' All', ' Because', ' Will', ' For']","0,1,3"
+273,"Please generate an unnatural ending following the given chunk of text.
+
+`` seth and i are hoping to spend new year 's eve at the restaurant , '' justine said casually , without looking at olivia . if that was a hint that her daughter needed someone to watch leif , olivia was more than ready to volunteer . jack had plans , so the only person she worried about upsetting was her mother . `` let me check with your grandmother , but if she does n't mind , i 'll stay with","[' Leif', ' If', "" ''"", ' Daughter']","1,2,3"
+274,"Please generate an unnatural ending following the given chunk of text.
+
+can you imagine all of us just looking at them-and boom ! they 're dead . you got to tell me how you do that . c'mon . i have got to know , you know ? '' alexion flexed his jaw before he answered . `` it 's a trade secret . '' `` yeah , but i 'm in the","[' Trade', "" 'm"", ' .', ' Imagine']","1,2,3"
+275,"Please generate an unnatural ending following the given chunk of text.
+
+though rafe 's voice was quiet , shane clearly heard the suspicion in his tone . shane would n't lie to his best friend , but he certainly did n't want to tell him the fantasies he 'd been having about lia . he 'd rather be just about anywhere else than sitting behind bars with rafe 's accusing eyes staring him down . `` honestly , i do n't know ,","[' Rafe', ' Rather', ' Was', ' Though']","1,2,3"
+276,"Please generate an unnatural ending following the given chunk of text.
+
+`` my lady , king richard was taken captive by the holy roman emperor and leopold , duke of austria . '' `` captured ? '' eleanor repeated the word . `` i am afraid it is true . the bishop is certain it is true . '' `` they captured him ? how ? where ? '' eleanor sputtered the messenger produced a letter and handed it to the","[' Queen', ' True', ' Afraid', ' ,']","1,2,3"
+277,"Please generate an unnatural ending following the given chunk of text.
+
+abby added , `` i think dominic actually knows him pretty well . he either graduated from harvard the year before or the year after dom and jake did . i 've heard him mention him before . '' she smiled , `` i agree-he 's hot . '' everyone looked at her . `` what , i 'm getting married , but i 'm not","[' Blind', ' She', ' Mention', ' Heard']","1,2,3"
+278,"Please generate an unnatural ending following the given chunk of text.
+
+since when is that an insult ? '' his top lip curled up into either a snarl or a smile , she could n't tell which . `` i was a cop once , briefly . the detectives were my least favorite rank in the force . too arrogant . '' `` do you have a reason for this bias or is it just based on the fact that you could n't make it as a","[' Cop', ' Insult', ' A', ' ?']","1,2,3"
+279,"Please generate an unnatural ending following the given chunk of text.
+
+`` i shall miss you master 's gold very ... '' the butcher stopped abruptly as something caught his eye , a pair of gloves dangling from the boy 's belt . the gloves bore a crest on them , a crest that the butcher recognised . he saw that crest when he served duke leopold in acre . he began to speak again rather briskly , `` ...","[' Much', ' ...', ' From', ' Stopped']","1,2,3"
+280,"Please generate an unnatural ending following the given chunk of text.
+
+he lived on that farm , and sometimes i lived there , too , when i could n't deal with the circus clown car of my home life . kiss night was black as pitch . we were in rolling around in the hay . with tongue and a hand on the boob-what bee-sting i 've got . the lenox had square , warm hands . i opened my eyes in the middle of the","[' Kiss', ' Hand', ' Farm', ' Was']","1,2,3"
+281,"Please generate an unnatural ending following the given chunk of text.
+
+my first thought was that it must be a bear , sick or wounded in some way , and i made to depart stealthily . but when , with a rustling spasm , a great hand-like claw -lrb- far too human in appearance -rrb- thrust itself through the debris , i gasped and scrambled for the exit of the cave without regard that my panic-stricken flight might awaken and enrage the creature . i marched home along rain-slicked paths , and the freshness of that early summer day made it easy to push aside thoughts of what lay in the","[' Cave', ' Regard', ' It', ' .']","1,2,3"
+282,"Please generate an unnatural ending following the given chunk of text.
+
+`` a guest ? of coarse you can . who are you planning to bring zos ? '' `` someone i 'm starting to care about . you will see . '' was all zos would say . but rica smiled , she thought it would be the instructor from the studio . the night went on with tod and chaura trying to get zos to tell whom he was","[' Bringing', ' ,', ' Zos', ' .']","1,2,3"
+283,"Please generate an unnatural ending following the given chunk of text.
+
+`` how did you know anything was ? '' `` you mean other than the fact you 're phoning and it 's past midnight ? do n't worry , i was n't asleep . norman went to bed hours ago , but i 'm up reading one of mary higgins clark 's mysteries . '' `` midnight . i did n't realize it was that","[' Late', "" N't"", ' Midnight', ' .']","1,2,3"
+284,"Please generate an unnatural ending following the given chunk of text.
+
+thaddeus , perceptive as he was , had seen the bandits , but he decided that he did not have time to investigate the situation . they rode on , but thaddeus kept out a watchful eye for any more dangers that may be lurking mere feet off the side of the road . `` we will be arriving at the bridge which leads into lasticall momentarily , '' said","[' Thaddeus', ' Lurking', ' Investigate', ' Side']","1,2,3"
+285,"Please generate an unnatural ending following the given chunk of text.
+
+`` well , i 'm definitely not trusting your translations . that 's for sure . '' the owner came back with two glasses of red wine , which he placed on the table between us . `` for you . for marriage . '' i smiled . this fake marriage had perks after all . `` danke , '' i said to the","[' Owner', "" 's"", ' Came', ' Placed']","1,2,3"
+286,"Please generate an unnatural ending following the given chunk of text.
+
+`` della ? '' i asked as panic started to take its place in my chest this time . `` you ca n't love me . you deserve better . not me , '' she cried looking up at me . her eyes were full of tears as several trickled down her face . `` there is no one better than you ,","[' Della', ' Tears', ' Cried', ' Eyes']","1,2,3"
+287,"Please generate an unnatural ending following the given chunk of text.
+
+turning from his foe , he fought against fatigue with every fiber of his being , forcing himself toward his fallen comrade . kayla released an arrow , which silently pierced between the eyes of the gottlo of which vandor had just fled . the gottlo fell to the ground , twitching but for a moment . kayla , keeping her eyes fixed on vandor , reached to find another","[' Arrow', ' Toward', ' Fallen', ' Forcing']","1,2,3"
+288,"Please generate an unnatural ending following the given chunk of text.
+
+apparently it was locked up in the back room and the security alarm was set as usual . '' arizona loomed in the doorway . `` getting past a standard security system would be child 's play for that gang up at the institute . no offense , carson . '' `` okay , '' carson said , clearly not","[' Offended', ' Back', ' Carson', ' The']","1,2,3"
+289,"Please generate an unnatural ending following the given chunk of text.
+
+`` we have , master . '' `` they will come . '' he continued to examine the throwing star that he held . `` they are such sentimental fools . i suspect that the gai-jin has friends in this school . he will not allow them to be harmed . '' `` our spies had seen the american ninja conversing with a few of the students who are held in the locker room ,","[' Master', ' Of', ' Has', ' Throwing']","1,2,3"
+290,"Please generate an unnatural ending following the given chunk of text.
+
+again sami tried to get at robbie , but this time one of his friends shoved her back down . brian looked up at robbie , his tormentor , and asked , `` why do you need to persecute me ? '' robbie 's face twisted into a mix of surprise and anger . `` what did you call me ?! '' `` i did not call you anything , '' said","[' Brian', ' Down', ' I', ' Anger']","1,2,3"
+291,"Please generate an unnatural ending following the given chunk of text.
+
+claire did n't want to talk about it , but she nodded . `` and michael ? michael was there ? '' again , the nod . claire looked out the window . `` he got hurt . i saw the burns . '' this time she did n't even try to answer . eve let the silence stretch for a few seconds , then said , `` do n't shut me out ,","[' Claire', ' Do', ' Even', ' This']","1,2,3"
+292,"Please generate an unnatural ending following the given chunk of text.
+
+that left me with exactly two options . i could try to hack into the system blind , which would be time-consuming and possibly futile , or i could call chloe to see if she 'd built a remote-access mechanism into my squad-issued cell phone . let 's see , i thought . hundreds of hours worth of work , or thirty seconds on the phone with","[' Chloe', ' With', ' .', ' Futile']","1,2,3"
+293,"Please generate an unnatural ending following the given chunk of text.
+
+is that why you need a light to see ? '' stowik asked . she shrugged , `` i suppose . what is this vehicle ? where did you get it ? '' `` i 'd love to chat , but i know you are on your way out , '' said stowik as he lifted the hatch . imbria scrambled to put her mask on and glared at","[' Stowik', ' ``', ' To', ' Mask']","1,2,3"
+294,"Please generate an unnatural ending following the given chunk of text.
+
+since he was only steps from the front door , he quietly slipped outdoors and made his way to the truck , trying to keep out of sight of any of the house windows . he had no way of knowing who might be watching . rounding the bed of the truck , he spotted a battered old shotgun with relief . he lifted it out , flipped it open and found that it was","[' Loaded', ' Of', ' Made', ' Relief']","1,2,3"
+295,"Please generate an unnatural ending following the given chunk of text.
+
+indian legend has it that the same spirit deer still roams this forest setting traps for the bear . '' `` chester , am i in trouble ? should i have left the antlers back in the forest ? '' i shudder . chester looking somewhat puzzled answers , `` no , christina , you are not in trouble . you came face-to-face with spirit deer . '' `` should i put them back now , the","[' Antlers', ' Somewhat', ' Came', "" ''""]","1,2,3"
+296,"Please generate an unnatural ending following the given chunk of text.
+
+eric had managed to evade them . the tricks he learned kept them guessing , making it impossible to find him . but somehow they found him . eric released her hand , hissing in her ear , `` leave . now . '' he backed away from her , but natalia did n't move . she glanced over her shoulder and stared at mandor , not knowing who he was , then back at","[' Eric', ' Mandor', ' Back', ' It']","1,2,3"
+297,"Please generate an unnatural ending following the given chunk of text.
+
+seen ` em robbing folks blind without ` em even noticing . weird of them to take such a direct approach though . '' the butcher said as he saw aní approaching the tent . `` just their way of saying ` thank you ' , i guess . anyways , is the two-pounder still available ? '' aní asked as he strolled up to the","[' Tent', ' Way', ' Though', ' Two-pounder']","1,2,3"
+298,"Please generate an unnatural ending following the given chunk of text.
+
+if you want to keep the feeling of sunlight , just add a very pale gray shadow to the bottom of each cloud , and around the edges like this ... '' he dabbed at the wall with the gray paint and jamie watched , fascinated as the clouds suddenly appeared as if they were really floating in front of him . `` here , you try now , '' said mr. roberts , holding out the","[' Brush', ' Pale', ' Like', ' They']","1,2,3"
+299,"Please generate an unnatural ending following the given chunk of text.
+
+jax 's eyebrows raise in surprise , but he chuckles and walks off shaking his head in amusement . the afternoon flies by , without both joe and i here for a day and a half , it takes me hours to get caught up with mail , telephone calls and getting next week 's schedules put together . every once in a while i 'd look up , my eyes scanning the room to find","[' Jax', ' The', ' Caught', ' And']","1,2,3"

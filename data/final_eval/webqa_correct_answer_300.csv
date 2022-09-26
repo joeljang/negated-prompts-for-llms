@@ -1,0 +1,301 @@
+sample_id,prompt,classes,answer_index
+0,"Give me a possible correct answer to the question ""what was antoni gaudi inspired by?""","[' William Morris', ' Pakistan']",0
+1,"Give me a possible correct answer to the question ""who was demi lovato dating?""","[' Traditional Chinese characters', ' Joe Jonas']",1
+2,"Give me a possible correct answer to the question ""who is in the american league in baseball?""","[' Mila Kunis', ' Chicago White Sox']",1
+3,"Give me a possible correct answer to the question ""what is the nigeria time?""","[' West Africa Time', ' Post-Impressionism']",0
+4,"Give me a possible correct answer to the question ""who did ben franklin marry?""","[' The Rules of Attraction', ' Deborah Read']",1
+5,"Give me a possible correct answer to the question ""what awards did marilyn monroe won?""","[' Golden Globe Henrietta Award for World Film Favorites', ' Anne Boleyn']",0
+6,"Give me a possible correct answer to the question ""what language does algerian people speak?""","[' Northern Berber languages', ' Midland']",0
+7,"Give me a possible correct answer to the question ""which political party does barack obama represent?""","[' Democratic Party', ' Saguaro']",0
+8,"Give me a possible correct answer to the question ""what is jamie spears baby name?""","[' Bryan Spears', ' Massachusetts']",0
+9,"Give me a possible correct answer to the question ""what year did the orioles go to the world series?""","[' James Madison', ' 1983 World Series']",1
+10,"Give me a possible correct answer to the question ""who is mary mcleod bethune for kids?""","[' Greenwich Mean Time', ' Educator']",1
+11,"Give me a possible correct answer to the question ""where was benjamin franklin educated?""","[' Boston Latin School', ' United States of America']",0
+12,"Give me a possible correct answer to the question ""what state new york city belong to?""","[' New York', ' Constitutional monarchy']",0
+13,"Give me a possible correct answer to the question ""what is houston timezone?""","[' Zift', ' Central Time Zone']",1
+14,"Give me a possible correct answer to the question ""what countries have english as their official language?""","[' Mountain Time Zone', ' Canada']",1
+15,"Give me a possible correct answer to the question ""what was dr seuss education?""","[' President of the United States', ' Dartmouth College']",1
+16,"Give me a possible correct answer to the question ""what to do and see in vienna austria?""","[' Belvedere, Vienna', ' North America']",0
+17,"Give me a possible correct answer to the question ""what country did toussaint l'ouverture help free?""","[' Argentina national football team', ' Haiti']",1
+18,"Give me a possible correct answer to the question ""where is burundi country?""","[' Africa', ' Banjo']",0
+19,"Give me a possible correct answer to the question ""what musical instruments does justin bieber play?""","[' University of Florida', ' Guitar']",1
+20,"Give me a possible correct answer to the question ""what type of government does argentina have today?""","[' The judges', ' Representative democracy']",1
+21,"Give me a possible correct answer to the question ""where do the blackhawks play?""","[' 2011', ' United Center']",1
+22,"Give me a possible correct answer to the question ""who won the american league east in 2012?""","[' City of Sydney', ' New York Yankees']",1
+23,"Give me a possible correct answer to the question ""who was the italian leader in ww1?""","[' 2003 World Series', ' Benito Mussolini']",1
+24,"Give me a possible correct answer to the question ""where was mary todd lincoln from?""","[' Lexington', ' Sudan']",0
+25,"Give me a possible correct answer to the question ""what year did the phillies begin?""","[' Central Time Zone', ' 1883']",1
+26,"Give me a possible correct answer to the question ""what is capital city of morocco?""","[' Rabat', ' Lung cancer']",0
+27,"Give me a possible correct answer to the question ""who is michael j fox's wife?""","[' Place de la Concorde', ' Tracy Pollan']",1
+28,"Give me a possible correct answer to the question ""who does michael oher play for in 2010?""","[' United Kingdom', ' Baltimore Ravens']",1
+29,"Give me a possible correct answer to the question ""what language do most people speak in afghanistan?""","[' Pashto language', ' Walt Whitman']",0
+30,"Give me a possible correct answer to the question ""what is the political system in germany?""","[' Constitutional republic', ' The Gospel According to John']",0
+31,"Give me a possible correct answer to the question ""what did elliot stabler do?""","[' Law & Order: Special Victims Unit', ' Manuel Bernardez']",0
+32,"Give me a possible correct answer to the question ""what airport do you fly into in paris?""","[' Presidential system', ' Gare du Nord']",1
+33,"Give me a possible correct answer to the question ""what highschool did emily osment go to?""","[' Flintridge Preparatory School', ' James Earl Jones']",0
+34,"Give me a possible correct answer to the question ""what is the capital of italy today?""","[' Rome', ' Springfield Elementary School']",0
+35,"Give me a possible correct answer to the question ""how many mary mary sisters?""","[' Erica Campbell', ' United States of America']",0
+36,"Give me a possible correct answer to the question ""what two countries make up the dominican republic?""","[' NCIS - Season 1', ' Hispaniola']",1
+37,"Give me a possible correct answer to the question ""who does lee clark manager?""","[' 2003–04 NBA season', ' Birmingham City F.C.']",1
+38,"Give me a possible correct answer to the question ""who is the leader of north korea today?""","[' Kim Jong-un', ' Alexandra of Denmark']",0
+39,"Give me a possible correct answer to the question ""who does mike marry at the end of season 5 desperate housewives?""","[' Susan Delfino', ' Rick Scott']",0
+40,"Give me a possible correct answer to the question ""where did the second battle of ypres occur?""","[' Belgium', ' Trumpet']",0
+41,"Give me a possible correct answer to the question ""who is the president of the european union 2012?""","[' Bergamo', ' Jerzy Buzek']",1
+42,"Give me a possible correct answer to the question ""who were alexander graham bell's siblings?""","[' Chichester Bell', ' Thunder Beach Motorcycle Rally']",0
+43,"Give me a possible correct answer to the question ""where are samsung based?""","[' Paseo del Prado', ' Seoul']",1
+44,"Give me a possible correct answer to the question ""what teams has manny ramirez played for?""","[' Boston Red Sox', ' North America']",0
+45,"Give me a possible correct answer to the question ""what was thomas jefferson role in the declaration of independence?""","[' School of Visual Arts', ' Writer']",1
+46,"Give me a possible correct answer to the question ""where was osama bin laden killed?""","[' Abbottabad', ' Hummer']",0
+47,"Give me a possible correct answer to the question ""what happened to pope john paul ii?""","[' Myocardial infarction', ' 1812 Fire of Moscow']",0
+48,"Give me a possible correct answer to the question ""what is the name of the book hitler wrote in jail?""","[' Mein Kampf', ' Brazil']",0
+49,"Give me a possible correct answer to the question ""who does david beckham play for?""","[' Kalmia latifolia', ' Paris Saint-Germain F.C.']",1
+50,"Give me a possible correct answer to the question ""who was king henry viii son?""","[' Prince Henry, Duke of Cornwall', ' Richard Nixon']",0
+51,"Give me a possible correct answer to the question ""what countries share a land border with indonesia?""","[' Boston University', ' Australia']",1
+52,"Give me a possible correct answer to the question ""what is the currency of germany now?""","[' Euro', ' Guangzhou Zhu Jiang Brewery Co.Ltd. Zhu Jiang Beer']",0
+53,"Give me a possible correct answer to the question ""where were the great pyramids of giza built?""","[' Let Me Sign', ' Giza Plateau']",1
+54,"Give me a possible correct answer to the question ""what did drita find out?""","[' University of California, Los Angeles', ' Football Superleague of Kosovo']",1
+55,"Give me a possible correct answer to the question ""who inspired obama?""","[' John Kitzhaber', ' Saul Alinsky']",1
+56,"Give me a possible correct answer to the question ""where is kansas city?""","[' Cuban peso', ' Platte County']",1
+57,"Give me a possible correct answer to the question ""what was sir isaac newton's inventions?""","[' Bain Capital', ' Reflecting telescope']",1
+58,"Give me a possible correct answer to the question ""what kind of government does japan have now?""","[' Parliamentary system', "" Children's rights""]",0
+59,"Give me a possible correct answer to the question ""what is the zip code for wyoming michigan?""","[' 49519', ' Danish Language']",0
+60,"Give me a possible correct answer to the question ""who was william mckinley married to?""","[' China', ' Ida Saxton McKinley']",1
+61,"Give me a possible correct answer to the question ""what disease did anne frank die of?""","[' University of Tennessee', ' Typhus']",1
+62,"Give me a possible correct answer to the question ""what is the islamic belief?""","[' Kansas City Athletics', ' God in Islam']",1
+63,"Give me a possible correct answer to the question ""what form of government does australia use?""","[' Parliamentary system', ' Largemouth bass']",0
+64,"Give me a possible correct answer to the question ""what school did robert f kennedy go to?""","[' Knowing', ' Bates College']",1
+65,"Give me a possible correct answer to the question ""where is the euphrates and tigris river located on a map?""","[' The electron in chemistry', ' Turkey']",1
+66,"Give me a possible correct answer to the question ""what is the stanley cup named after?""","[' Frederick Stanley, 16th Earl of Derby', ' Jeremy Renner']",0
+67,"Give me a possible correct answer to the question ""where george lopez was born?""","[' Mission Hills', ' Massachusetts']",0
+68,"Give me a possible correct answer to the question ""what language do speak in argentina?""","[' Naturalist', ' Yiddish Language']",1
+69,"Give me a possible correct answer to the question ""what year did the bulls get rodman?""","[' Ru', ' 1995–96 NBA season']",1
+70,"Give me a possible correct answer to the question ""what movies did tupac star in?""","[' Nothing but Trouble', ' American National Biography']",0
+71,"Give me a possible correct answer to the question ""what team does jordan own?""","[' Cranbrook Schools', ' Jordan national football team']",1
+72,"Give me a possible correct answer to the question ""who did ricky martin started his career with?""","[' Menudo', "" Venezuela women's national volleyball team""]",0
+73,"Give me a possible correct answer to the question ""what is the zip code for midland tx?""","[' 79702', ' Zambia']",0
+74,"Give me a possible correct answer to the question ""what to do in paris in 1 day?""","[' Larry Page', ' Musée Maillol']",1
+75,"Give me a possible correct answer to the question ""what is jamie oliver children names?""","[' Petal Blossom Rainbow Oliver', ' Pharmaceutical Preparations']",0
+76,"Give me a possible correct answer to the question ""where was the city of david?""","[' Bethlehem', ' Canada']",0
+77,"Give me a possible correct answer to the question ""what does god shiva represent?""","[' Hinduism', ' In the Land of Blood and Honey']",0
+78,"Give me a possible correct answer to the question ""what city is mt lassen in?""","[' Writer', ' Shasta County']",1
+79,"Give me a possible correct answer to the question ""when do they change the time in california?""","[' Singer', ' Pacific Time Zone']",1
+80,"Give me a possible correct answer to the question ""where did the battle of passchendaele happen?""","[' Passendale', ' Rapturepalooza']",0
+81,"Give me a possible correct answer to the question ""what electorate does anna bligh represent?""","[' Electoral district of South Brisbane', ' Egyptian language']",0
+82,"Give me a possible correct answer to the question ""where do they speak tibetan?""","[' 2012 Summer Olympics', ' Tibet']",1
+83,"Give me a possible correct answer to the question ""who plays anakin skywalker in star wars 1?""","[' Maroon 5', ' Jake Lloyd']",1
+84,"Give me a possible correct answer to the question ""when is the last time the pittsburgh steelers won a superbowl?""","[' Carrasco', ' Super Bowl XLIII']",1
+85,"Give me a possible correct answer to the question ""where does kate middleton live 2012?""","[' Reading', ' 1932 Democratic National Convention']",0
+86,"Give me a possible correct answer to the question ""what is los angeles california time zone?""","[' Constitutional republic', ' Pacific Time Zone']",1
+87,"Give me a possible correct answer to the question ""what county is greeley colorado in?""","[' Central Time Zone', ' Weld County']",1
+88,"Give me a possible correct answer to the question ""who is moira en x men?""","[' Eighteenth Dynasty of Egypt', ' Mutant']",1
+89,"Give me a possible correct answer to the question ""where are the new orleans hornets moving to?""","[' New Orleans Arena', ' Saint Petersburg State University']",0
+90,"Give me a possible correct answer to the question ""what team does colin kaepernick play for?""","[' Samuel Gompers', ' San Francisco 49ers']",1
+91,"Give me a possible correct answer to the question ""what is ella fitzgerald parents name?""","[' William Fitzgerald', ' Rock music']",0
+92,"Give me a possible correct answer to the question ""where is dwight howard now?""","[' Los Angeles Lakers', ' Houston Rockets']",0
+93,"Give me a possible correct answer to the question ""where did al qaeda attack?""","[' Iraq War', ' British Columbia']",0
+94,"Give me a possible correct answer to the question ""who will the cavaliers draft 2012?""","[' Spain', ' Dion Waiters']",1
+95,"Give me a possible correct answer to the question ""what country did the battle of san juan hill take place?""","["" NCAA March Madness: Cinderellas, Superstars, and Champions from the NCAA Men's Final Four"", ' Cuba']",1
+96,"Give me a possible correct answer to the question ""what are the official languages of the eu?""","[' Michael S. Dell', ' English Language']",1
+97,"Give me a possible correct answer to the question ""what did andrew johnson accomplish as president?""","[' Journalist', ' Reconstruction after the Civil War']",1
+98,"Give me a possible correct answer to the question ""where the missouri river ends?""","[' Mississippi River', ' Pennsylvania']",0
+99,"Give me a possible correct answer to the question ""what other countries does south africa share borders with?""","[' Icelandic Language', ' Lesotho']",1
+100,"Give me a possible correct answer to the question ""what kind of disease does montel williams have?""","[' Multiple sclerosis', ' Jefferson Sessions']",0
+101,"Give me a possible correct answer to the question ""what did nicolas cage name his son?""","[' Connecticut', ' Kal-El Coppola Cage']",1
+102,"Give me a possible correct answer to the question ""what kind of money do i bring to mexico?""","[' Mexican peso', ' Cercle Artístic de Sant Lluc']",0
+103,"Give me a possible correct answer to the question ""what kind of painter was wassily kandinsky?""","[' Opera', ' Abstract art']",1
+104,"Give me a possible correct answer to the question ""what are all the movies taylor swift has been in?""","[' Mike Matheny', ' Hannah Montana: The Movie']",1
+105,"Give me a possible correct answer to the question ""what do people in czech republic speak?""","[' Croatian language', ' Writings']",0
+106,"Give me a possible correct answer to the question ""where is spanish spoken most?""","[' Spain', ' Jm']",0
+107,"Give me a possible correct answer to the question ""when was taylor swift fearless tour?""","[' Taylor Swift Fearless 2009 Tour', ' Unitarian Universalism']",0
+108,"Give me a possible correct answer to the question ""what year does hitler die?""","[' Hitler and His Generals: Military Conferences 1942-1945', ' Myanmar']",0
+109,"Give me a possible correct answer to the question ""what is the capital of australia victoria state?""","[' Mitt Romney', ' Melbourne']",1
+110,"Give me a possible correct answer to the question ""what state does romney live in?""","[' Massachusetts', ' Burj Khalifa']",0
+111,"Give me a possible correct answer to the question ""what language do colombian people speak?""","[' Wiwa language', ' Canada']",0
+112,"Give me a possible correct answer to the question ""where is nineveh city?""","[' Vivian Liberto', ' Iraq']",1
+113,"Give me a possible correct answer to the question ""where did the gallipoli war take place?""","[' North American Eastern Time Zone', ' Gallipoli']",1
+114,"Give me a possible correct answer to the question ""where is president kennedy buried?""","[' Singer', ' Arlington National Cemetery']",1
+115,"Give me a possible correct answer to the question ""what percent of people are overweight in the uk?""","[' Uk', ' Martial arts']",0
+116,"Give me a possible correct answer to the question ""where is the city wales?""","[' Frank Welker', ' United Kingdom']",1
+117,"Give me a possible correct answer to the question ""who plays stephanie plum in one for the money?""","[' Katherine Heigl', ' Mexico']",0
+118,"Give me a possible correct answer to the question ""what to visit in atlanta?""","[' Presbyterianism', ' Philips Arena']",1
+119,"Give me a possible correct answer to the question ""what was the cause of death for laci peterson?""","[' Parties do not maintain themselves. They are maintained by effort. The government is not self-existent. It is maintained by the effort of those who believe in it. The people of America believe in American institutions, the American form of government and the American method of transacting business.', ' Murder']",1
+120,"Give me a possible correct answer to the question ""when did president theodore roosevelt take office?""","[' Lightning rod', ' 9/14/1901']",1
+121,"Give me a possible correct answer to the question ""which state did anne hutchinson found?""","[' Rhode Island', ' United States dollar']",0
+122,"Give me a possible correct answer to the question ""what language is most commonly spoken in belgium?""","[' Mountain Time Zone', ' French Language']",1
+123,"Give me a possible correct answer to the question ""where to exchange euros in new york city?""","[' John F. Kennedy International Airport', ' California']",0
+124,"Give me a possible correct answer to the question ""what type of government does usa follow?""","[' Italy', ' Federal republic']",1
+125,"Give me a possible correct answer to the question ""what type of money do they use in costa rica?""","[' Costa Rican colón', ' Vietnam, Cambodia, Laos & the Greater Mekong']",0
+126,"Give me a possible correct answer to the question ""where does the parana river flow?""","[' Paraguay', ' Catherine Taber']",0
+127,"Give me a possible correct answer to the question ""what countries does tomtom western europe include?""","[' Haloti Ngata', ' Belarus']",1
+128,"Give me a possible correct answer to the question ""where does greek language come from?""","[' Wen Jiabao', ' Indo-European languages']",1
+129,"Give me a possible correct answer to the question ""when is venus brightest?""","[' Western astrology', ' Ankhesenamun']",0
+130,"Give me a possible correct answer to the question ""what countries constitute the eu?""","[' Czech Republic', ' Sweden']",0
+131,"Give me a possible correct answer to the question ""what countries were part of the spanish empire?""","[' The Federation of Free States', ' Honduras']",1
+132,"Give me a possible correct answer to the question ""what time zone is toronto gmt?""","[' Esperanza Andrade', ' North American Eastern Time Zone']",1
+133,"Give me a possible correct answer to the question ""where is the carpathian mountain range located?""","[' Portugal', ' Ukraine']",1
+134,"Give me a possible correct answer to the question ""what was tycho brahe theory?""","[' Plymouth', "" Brahe's astronomical investigations began to suggest that the existing literature on the solar system was inaccurate.""]",1
+135,"Give me a possible correct answer to the question ""who is dustin johnson the golfer?""","[' Golfer', ' David Gilmour']",0
+136,"Give me a possible correct answer to the question ""where was auschwitz concentration camp located?""","[' Andrew Johnson', ' Poland']",1
+137,"Give me a possible correct answer to the question ""what language do they speak in colombia south america?""","[' Terry Nichols', ' Spanish Language']",1
+138,"Give me a possible correct answer to the question ""what is the zip code for newark california?""","[' 94560', ' 1969 World Series']",0
+139,"Give me a possible correct answer to the question ""who is james madison and what did he do?""","[' United States Representative', ' Fauvism']",0
+140,"Give me a possible correct answer to the question ""who is number 22 on miami dolphins?""","[' Reshad Jones', ' Amherst College']",0
+141,"Give me a possible correct answer to the question ""who did the voice for lola bunny?""","[' National Socialist Party', ' Britt McKillip']",1
+142,"Give me a possible correct answer to the question ""which countries in africa were slaves taken from?""","[' Italy', ' Angola']",1
+143,"Give me a possible correct answer to the question ""who is anne hathaway parents?""","[' Gerald Hathaway', ' Micrographia']",0
+144,"Give me a possible correct answer to the question ""who is captain james cook facts?""","[' Explorer', ' Hodgenville']",0
+145,"Give me a possible correct answer to the question ""who does jeremy shockey play for in 2012?""","[' Carolina Panthers', ' Neil Abercrombie']",0
+146,"Give me a possible correct answer to the question ""when did juventus win the champions league?""","[' 1996 UEFA Champions League Final', ' Christine Teigen']",0
+147,"Give me a possible correct answer to the question ""what's there to see in atlanta?""","[' Catholicism', ' Atlanta History Center']",1
+148,"Give me a possible correct answer to the question ""what did james chadwick invent?""","[' Clara Barton', ' Neutron']",1
+149,"Give me a possible correct answer to the question ""what are aristotle's contributions to science?""","[' Politics', ' Delaware']",0
+150,"Give me a possible correct answer to the question ""where did joe flacco attend college?""","[' Paul the Apostle', ' University of Delaware']",1
+151,"Give me a possible correct answer to the question ""what college did maya moore go to?""","[' University of Connecticut', ' Illinois Republican Party']",0
+152,"Give me a possible correct answer to the question ""who did brett gardner play for in 2008?""","[' Swedish krona', ' New York Yankees']",1
+153,"Give me a possible correct answer to the question ""what city did marco polo came from?""","[' Kailua', ' Venice']",1
+154,"Give me a possible correct answer to the question ""what is there to do in peoria illinois?""","[' Peoria Zoo', ' Politician']",0
+155,"Give me a possible correct answer to the question ""who will plaxico burress play for in 2011?""","[' Parliamentary system', ' New York Jets']",1
+156,"Give me a possible correct answer to the question ""what basketball teams has shaq played for?""","["" Bridget Jones's Diary"", ' Boston Celtics']",1
+157,"Give me a possible correct answer to the question ""what disease did abraham lincoln had?""","[' Heroin overdose', ' Marfan syndrome']",1
+158,"Give me a possible correct answer to the question ""who was the son of king leonidas?""","["" United Nations Children's Fund"", ' Pleistarchus']",1
+159,"Give me a possible correct answer to the question ""what kind of shoes do french people wear?""","[' Third County Courthouse', ' Jansegers']",1
+160,"Give me a possible correct answer to the question ""where did benjamin franklin went to school?""","[' United States of America', ' Boston Latin School']",1
+161,"Give me a possible correct answer to the question ""where is midlothian scotland?""","[' John Krasinski', ' United Kingdom']",1
+162,"Give me a possible correct answer to the question ""what is money called in italy?""","[' Euro', ' Netherlands']",0
+163,"Give me a possible correct answer to the question ""what language does cuba speak?""","[' Philadelphia', ' Spanish Language']",1
+164,"Give me a possible correct answer to the question ""what did african americans do during the revolutionary war?""","[' Roman dictator', ' Continental Army Regiment']",1
+165,"Give me a possible correct answer to the question ""who owns google 2012?""","[' Larry Page', ' Clube Atlético Mineiro']",0
+166,"Give me a possible correct answer to the question ""where does the zambezi river originate?""","[' Belleville', ' Tanzania']",1
+167,"Give me a possible correct answer to the question ""where did mubarak get his wealth?""","[' Billboard Music Award for Top Social Artist', ' Politician']",1
+168,"Give me a possible correct answer to the question ""where do the seattle seahawks play?""","[' CenturyLink Field', ' Hagar']",0
+169,"Give me a possible correct answer to the question ""who did john kennedy have affairs with?""","[' William averell harriman appointed by john fitzgerald kennedy', ' Central Europe']",0
+170,"Give me a possible correct answer to the question ""which countries share a border with russia?""","[' Ukraine', ' Seattle Seahawks']",0
+171,"Give me a possible correct answer to the question ""where did leif ericson grow up?""","[' United Kingdom', ' Iceland']",1
+172,"Give me a possible correct answer to the question ""which barcelona airport is closest to the port?""","[' Barcelona–El Prat Airport', ' Bill Ritter']",0
+173,"Give me a possible correct answer to the question ""what did charles babbage discover?""","[' The Difference Engine: Charles Babbage and the Quest to Build the First Computer', ' St. Louis']",0
+174,"Give me a possible correct answer to the question ""what does janelle brown work?""","[' Fender Stratocaster', ' Actor']",1
+175,"Give me a possible correct answer to the question ""when did arsenal won the league?""","[' 2004–05 FA Cup', ' Panama Canal Zone']",0
+176,"Give me a possible correct answer to the question ""which countries speak arabic language?""","[' Bahrain', ' Hana Airport']",0
+177,"Give me a possible correct answer to the question ""where bin laden got killed?""","[' Abbottabad', ' Portugal']",0
+178,"Give me a possible correct answer to the question ""when were south australian women given the right to vote?""","[' Never Mind the Full Stops', ' Queensland']",1
+179,"Give me a possible correct answer to the question ""what is michael kors best known for?""","[' Latin alphabet', ' Fashion Designer']",1
+180,"Give me a possible correct answer to the question ""what did neil armstrong say when he landed on the moon?""","["" That's one small step for man, one giant leap for mankind."", ' Calvin Coolidge']",0
+181,"Give me a possible correct answer to the question ""what did the blackfoot indians speak?""","[' Kansas City', ' English Language']",1
+182,"Give me a possible correct answer to the question ""what do we call the currency of france?""","[' French franc', ' Judy Garland']",0
+183,"Give me a possible correct answer to the question ""what does david beckham play?""","[' Occidental College', ' Midfielder']",1
+184,"Give me a possible correct answer to the question ""where are boeing headquarters?""","[' Seattle', ' French Language']",0
+185,"Give me a possible correct answer to the question ""what was john tyler?""","[' Protestant Organizations', ' President of the United States']",1
+186,"Give me a possible correct answer to the question ""what to do with kids in summer in dubai?""","[' Mushrif Park', ' United Nations Security Council']",0
+187,"Give me a possible correct answer to the question ""what are the catholic holy days?""","[' Name day', ' Portugal']",0
+188,"Give me a possible correct answer to the question ""what are abraham sons names?""","[' Zimran', ' Yoknapatawpha County']",0
+189,"Give me a possible correct answer to the question ""where is the latin language from?""","[' Dwayne Carter III', ' Italic languages']",1
+190,"Give me a possible correct answer to the question ""what sports do people play in poland?""","[' Poland national football team', ' Mountain Time Zone']",0
+191,"Give me a possible correct answer to the question ""what party was thomas jefferson affiliated with?""","[' Democratic-Republican Party', ' Columbia University']",0
+192,"Give me a possible correct answer to the question ""what is the name of sonia gandhi daughter?""","[' United States of America', ' Priyanka Vadra']",1
+193,"Give me a possible correct answer to the question ""what time zone is in the bahamas?""","[' UTC-5', ' Hudson River']",0
+194,"Give me a possible correct answer to the question ""what movies queen latifah is in?""","[' Taxi', ' Romansh language']",0
+195,"Give me a possible correct answer to the question ""what kind of guitar did jerry garcia play?""","[' Seymour Airport', ' Fender Stratocaster']",1
+196,"Give me a possible correct answer to the question ""when is the last time the ravens won a superbowl?""","[' Benny & Joon', ' Super Bowl XLVII']",1
+197,"Give me a possible correct answer to the question ""what type of religion did massachusetts have?""","[' Judaism', ' John F. Kennedy']",0
+198,"Give me a possible correct answer to the question ""where is mali located?""","[' Hebrew Language', ' Africa']",1
+199,"Give me a possible correct answer to the question ""what disease did patrick swayze died from?""","[' Robert Godley', ' Pancreatic cancer']",1
+200,"Give me a possible correct answer to the question ""where did russians originate?""","[' East Slavs', ' John Shakespeare']",0
+201,"Give me a possible correct answer to the question ""who plays billy elliot?""","[' Jamie Bell', ' Pinellas County']",0
+202,"Give me a possible correct answer to the question ""what was laura ingalls wilder famous for?""","[' George R. Brown Convention Center', ' Writer']",1
+203,"Give me a possible correct answer to the question ""what is the song anna kendrick sings in pitch perfect?""","[' Cups', ' Republican Party']",0
+204,"Give me a possible correct answer to the question ""what are the names of ariel's six sisters?""","[' Europe', ' Aquata']",1
+205,"Give me a possible correct answer to the question ""where did kansas city royals come from?""","[' Dick Durbin', ' Kansas City']",1
+206,"Give me a possible correct answer to the question ""when did liverpool fc last win the champions league?""","[' 2006 FA Cup Final', ' Guitar']",0
+207,"Give me a possible correct answer to the question ""what was f. scott fitzgerald?""","[' Verdun', ' Poet']",1
+208,"Give me a possible correct answer to the question ""who were demeter's siblings?""","[' Robert Griffin III', ' Zeus']",1
+209,"Give me a possible correct answer to the question ""where herman cain stance on the issues?""","[' Évocateur: The Morton Downey Jr. Movie', ' The Twilight Saga: Breaking Dawn - Part 1']",0
+210,"Give me a possible correct answer to the question ""where will tebow go in 2013?""","[' Veterans Field', ' New York Jets']",1
+211,"Give me a possible correct answer to the question ""what is san francisco zip code?""","[' 94109', ' Brazilian Portuguese']",0
+212,"Give me a possible correct answer to the question ""with which ancient ruler did julius caesar fall in love?""","[' Autocracy', ' Cornelia Cinna minor']",1
+213,"Give me a possible correct answer to the question ""what all did ben franklin invent?""","[' Shadows and Fog', ' Lightning rod']",1
+214,"Give me a possible correct answer to the question ""what international organizations is china part of?""","[' Phoenix Suns', ' United Nations']",1
+215,"Give me a possible correct answer to the question ""what does lauren conrad major in?""","[' Fashion design', ' Honolulu']",0
+216,"Give me a possible correct answer to the question ""when is the last time the denver broncos won the superbowl?""","[' S & S Sandwich Shop', ' Super Bowl XXXIII']",1
+217,"Give me a possible correct answer to the question ""what county is houston tx in?""","[' Montgomery County', ' Wellesley']",0
+218,"Give me a possible correct answer to the question ""which continents were part of the roman empire?""","[' Europe', ' Blues-rock']",0
+219,"Give me a possible correct answer to the question ""what countries does the panama canal go through?""","[' Panama Canal Zone', ' Presenter']",0
+220,"Give me a possible correct answer to the question ""what is the zip code for walnut creek?""","[' Constitutional monarchy', ' 94597']",1
+221,"Give me a possible correct answer to the question ""what do they call money in japan?""","[' Japanese yen', "" The King's School, Grantham""]",0
+222,"Give me a possible correct answer to the question ""when the atlanta braves won the world series?""","[' Dartmouth College', ' 1995 World Series']",1
+223,"Give me a possible correct answer to the question ""when does the mayan calendar end exactly?""","[' 2012', ' Explorer']",0
+224,"Give me a possible correct answer to the question ""which city is the oldest in pakistan?""","[' Nick Jonas', ' Bahawalpur']",1
+225,"Give me a possible correct answer to the question ""what are some of the traditions of islam?""","[' Zakāt', ' Alltel']",0
+226,"Give me a possible correct answer to the question ""who makes the voice of stewie griffin?""","[' 1948 NBL Finals', ' Seth MacFarlane']",1
+227,"Give me a possible correct answer to the question ""where did hank marvin come from?""","[' Super Bowl IX', ' Newcastle upon Tyne']",1
+228,"Give me a possible correct answer to the question ""where are the sahara desert located?""","[' North Africa', ' E15 4HT']",0
+229,"Give me a possible correct answer to the question ""what is the name of the currency used in italy?""","[' Euro', ' Jimmy Bennett']",0
+230,"Give me a possible correct answer to the question ""where was john f kennedy when he got shot?""","[' Miami Dolphins', ' Dallas']",1
+231,"Give me a possible correct answer to the question ""what language do they use in pakistan?""","[' Seraiki Language', ' Turkey']",0
+232,"Give me a possible correct answer to the question ""what did baron de montesquie influence?""","[' Garden of the Sleeping Giant', ' Charles-louis de secondat montesquieu influenced edward gibbon']",1
+233,"Give me a possible correct answer to the question ""what did jesse owens won?""","[' Associated Press Male Athlete of the Year', ' 2012 Summer Olympics']",0
+234,"Give me a possible correct answer to the question ""what is the best zelda game to start with?""","[' The Legend of Zelda: Ocarina of Time', ' Kingdom of Great Britain']",0
+235,"Give me a possible correct answer to the question ""what team did brandon roy go to?""","[' Kirsten Dunst', ' Minnesota Timberwolves']",1
+236,"Give me a possible correct answer to the question ""what other countries border argentina?""","[' Odin', ' Brazil']",1
+237,"Give me a possible correct answer to the question ""what currency does dominican republic take?""","[' Dominican peso', ' Phoenix Suns']",0
+238,"Give me a possible correct answer to the question ""what government did the roman empire have?""","[' Constitutional republic', ' Family dictatorship']",1
+239,"Give me a possible correct answer to the question ""where are people who speak arabic from?""","[' United Kingdom', ' Bahrain']",1
+240,"Give me a possible correct answer to the question ""when tupac was shot?""","[' Federal republic', ' Tupac 1994 assault']",1
+241,"Give me a possible correct answer to the question ""what are the landlocked countries in latin america?""","[' 1990 NBA Finals', ' Bolivia']",1
+242,"Give me a possible correct answer to the question ""what baseball team was jackie robinson on?""","[' Brooklyn Dodgers', ' Charlottesville']",0
+243,"Give me a possible correct answer to the question ""what type of government does russia have 2010?""","[' Presidential system', ' Semi-presidential system']",1
+244,"Give me a possible correct answer to the question ""what did canada get gold medals in?""","[' The Harrodian School', "" Diving at the 1984 Summer Olympics - Women's 3 metre springboard""]",1
+245,"Give me a possible correct answer to the question ""what money do they use in spain?""","[' Bob Marley Mausoleum', ' Euro']",1
+246,"Give me a possible correct answer to the question ""what language do maltese speak?""","[' Singer', ' Maltese Language']",1
+247,"Give me a possible correct answer to the question ""what was benedict arnold most famous for?""","[' Lightning rod', ' Traitor']",1
+248,"Give me a possible correct answer to the question ""who will be the red sox next coach?""","[' Black American West Museum & Heritage Center', ' Nomar Garciaparra']",1
+249,"Give me a possible correct answer to the question ""where do american bulldogs originate from?""","[' United States of America', ' Steven J. Harris']",0
+250,"Give me a possible correct answer to the question ""what objects did galileo see with his telescope?""","[' Ganymede', ' Super Bowl XXXVIII']",0
+251,"Give me a possible correct answer to the question ""who was sir walter raleigh and what did he do?""","[' Poet', ' Peeta Mellark']",0
+252,"Give me a possible correct answer to the question ""what are the eight stages of erikson's theory?""","[' Mexico', ' Youth and the life cycle']",1
+253,"Give me a possible correct answer to the question ""what has angelina jolie accomplished?""","[' Golden Globe Award for Best Supporting Actress - Series, Miniseries or Television Film', ' Jana Duggar']",0
+254,"Give me a possible correct answer to the question ""what language does colombia?""","[' Wiwa language', ' Jozef Israëls']",0
+255,"Give me a possible correct answer to the question ""what was the cause of death for huell howser?""","[' Afghanistan', ' Prostate cancer']",1
+256,"Give me a possible correct answer to the question ""what did peter tchaikovsky do?""","[' Philadelphia Zoo', ' Composer']",1
+257,"Give me a possible correct answer to the question ""who did jennifer lawrence play in x men?""","[' Anal cancer', ' Mystique']",1
+258,"Give me a possible correct answer to the question ""what money do i use in costa rica?""","[' Constitutional monarchy', ' Costa Rican colón']",1
+259,"Give me a possible correct answer to the question ""what currency does the czech republic use now?""","[' Denver Broncos', ' Czech koruna']",1
+260,"Give me a possible correct answer to the question ""what all movies has taylor lautner been in?""","[' New Moon', ' Cornish']",0
+261,"Give me a possible correct answer to the question ""what language do most italians speak?""","[' Italian Language', ' Einstein refrigerator']",0
+262,"Give me a possible correct answer to the question ""who played mickey in the rocky movies?""","[' Asia', ' Wayne Allwine']",1
+263,"Give me a possible correct answer to the question ""what made richard hammond famous?""","[' Top Gear', ' Henry Kissinger']",0
+264,"Give me a possible correct answer to the question ""what team did ronaldo play for in 2003?""","[' The Wealth of Nations', ' Real Madrid C.F.']",1
+265,"Give me a possible correct answer to the question ""what is charlie chaplin famous for?""","[' Comedian', ' 1/20/1993']",0
+266,"Give me a possible correct answer to the question ""what is the average temperature in phoenix az in december?""","[' Phoenix should not be contained in Maricopa County.', ' Prostate cancer']",0
+267,"Give me a possible correct answer to the question ""where did robin williams get married?""","[' St. Helena', ' Sudan']",0
+268,"Give me a possible correct answer to the question ""what team is raul ibanez on?""","[' Seattle Mariners', ' Closer']",0
+269,"Give me a possible correct answer to the question ""who is kevin jonas married to?""","[' Denver Broncos', ' Danielle Deleasa']",1
+270,"Give me a possible correct answer to the question ""who won the governor election in texas?""","[' Rick Perry', ' Hebrew Language']",0
+271,"Give me a possible correct answer to the question ""where was barack hussein obama sr born?""","[' Iron Ore Mining', ' Honolulu']",1
+272,"Give me a possible correct answer to the question ""what kind of government is mali?""","[' Semi-presidential system', ' Mark Hamill']",0
+273,"Give me a possible correct answer to the question ""what are the official colors of the dallas cowboys?""","[' 2006 Stanley Cup Finals', ' Blue']",1
+274,"Give me a possible correct answer to the question ""what is the zip code for nogales az?""","[' Midwestern United States', ' 85662']",1
+275,"Give me a possible correct answer to the question ""what team is reggie bush on 2011?""","[' New Orleans Saints', ' Flight of the Conchords']",0
+276,"Give me a possible correct answer to the question ""which hemingway book to read?""","[' English Language', ' A Farewell to Arms']",1
+277,"Give me a possible correct answer to the question ""who were the children of king solomon?""","[' Absalom', "" Alfalfa's Double""]",0
+278,"Give me a possible correct answer to the question ""what currency should i take to mexico?""","["" Spike Guys' Choice Awards"", ' Mexican peso']",1
+279,"Give me a possible correct answer to the question ""who is michael j fox parents?""","[' John Cornyn', ' Phyllis Piper']",1
+280,"Give me a possible correct answer to the question ""when was president wilson in office?""","[' Robert Louis Stevenson', ' 1920']",1
+281,"Give me a possible correct answer to the question ""what capital city of brazil?""","[' Underdog', ' Brasília']",1
+282,"Give me a possible correct answer to the question ""where english is spoken?""","[' Canada', ' Musician']",0
+283,"Give me a possible correct answer to the question ""what type of cancer did eva peron die from?""","[' Lamar Sally', ' Cervical cancer']",1
+284,"Give me a possible correct answer to the question ""who does alyson stoner play in camp rock?""","[' Children of a Lesser God', ' Caitlyn Gellar']",1
+285,"Give me a possible correct answer to the question ""what are members of the house of representatives called?""","[' Al Franken', ' Representative']",1
+286,"Give me a possible correct answer to the question ""where did abraham and his descendants live?""","[' Oklahoma', ' Canaan']",1
+287,"Give me a possible correct answer to the question ""who is princess leia in star wars?""","[' Dennis Allen', ' Carrie Fisher']",1
+288,"Give me a possible correct answer to the question ""where is laos in world map?""","[' Cambodia', ' Jon Tester']",0
+289,"Give me a possible correct answer to the question ""where president obama was born?""","[' Bonn', ' Honolulu']",1
+290,"Give me a possible correct answer to the question ""what currency does france accept?""","[' CFP franc', ' In Living Color (Season 4)']",0
+291,"Give me a possible correct answer to the question ""what part of the country is ohio considered?""","[' Swing music', ' Midwestern United States']",1
+292,"Give me a possible correct answer to the question ""where is the empire of ghana?""","[' West Africa', ' Amazon.com']",0
+293,"Give me a possible correct answer to the question ""what boarding school did mark zuckerberg go to?""","[' English Language', ' Phillips Exeter Academy']",1
+294,"Give me a possible correct answer to the question ""what did coretta scott king died from?""","[' Respiratory failure', ' Grindhouse']",0
+295,"Give me a possible correct answer to the question ""what did jesus do for living?""","[' Mixed Martial Artist', ' Preacher']",1
+296,"Give me a possible correct answer to the question ""who played kirk?""","[' Jimmy Bennett', ' Russian ruble']",0
+297,"Give me a possible correct answer to the question ""what countries have spanish as the national language?""","[' Spain', ' Malay Language']",0
+298,"Give me a possible correct answer to the question ""what country does rafael nadal play for?""","[' Vegetarian food', ' Spain']",1
+299,"Give me a possible correct answer to the question ""what form of government does canada?""","[' Parliamentary system', ' Communist Party of the Soviet Union']",0
