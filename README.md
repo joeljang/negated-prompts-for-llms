@@ -4,7 +4,7 @@
 
 We aim to answer four main questions in this work. (1) How does scaling the size of LMs affect their abilities to understand the concept of negation? (2) Are LMs explicitly trained to follow instructions (InstructGPT) better at understanding negated instructions? (3) Can In-Context Learning or Fine-tuning help mitigate this problem? (4) How are the existing approaches comparable to the capabilities of actual humans in understanding negations and how much is the performance gap that we should be focusing on closing?
 
-The answers can be found in our draft! Come check it out! :) 
+The answers can be found in our case study paper [Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts](https://arxiv.org/abs/2209.12711)! Come check it out! :) 
 
 ## Dependencies
 
